@@ -1,0 +1,864 @@
+source_name,relation,target_name
+慢性肺源性心脏病 (I27.9),has_typical_symptom,喘息
+肺结核 (A16.2),manifests_as,湿啰音
+未特指的急性支气管炎 (J20.9),has_typical_symptom,咳嗽
+淋巴细胞比例降低,supports,下呼吸道感染，未特指 (J22)
+未特指的慢性支气管炎 (J42),has_typical_symptom,咳黑痰
+流感病毒B型抗体阳性,strongly_supports,流感病毒感染
+胸片示片状阴影,strongly_supports,支气管肺炎，未特指 (J18.0)
+粉尘接触史,increases_risk_of,未特指的慢性支气管炎 (J42)
+慢性阻塞性肺病 (J44.9),manifests_as,哮鸣音
+支气管哮喘 (J45.9),increases_risk_of,肺气肿 (J43.9)
+支气管哮喘 (J45.9),needs_differentiation_from,恶性肿瘤，支气管和肺 (C34.9)
+肺炎，病原体未特指 (J18.9),needs_differentiation_from,肺栓塞 (I26.9)
+肺气肿 (J43.9),manifests_as,桶状胸
+急性喉炎 (J04.0),has_typical_symptom,声音嘶哑
+急性上呼吸道感染，未特指 (J06.9),has_typical_symptom,流涕
+胸片示气胸,strongly_supports,气胸 (J93.9)
+急性上呼吸道感染，未特指 (J06.9),manifests_as,咽部充血
+慢性阻塞性肺病 (J44.9),increases_risk_of,未特指的呼吸衰竭 (J96.9)
+慢性阻塞性肺病 (J44.9),increases_risk_of,肺心病
+支气管哮喘 (J45.9),manifests_as,湿啰音
+支气管肺炎，未特指 (J18.0),manifests_as,呼吸困难
+胸部CT示气胸,strongly_supports,气胸 (J93.9)
+胸片示支气管炎,strongly_supports,未特指的急性支气管炎 (J20.9)
+胸部CT示支气管炎,strongly_supports,未特指的急性支气管炎 (J20.9)
+未特指的呼吸衰竭 (J96.9),has_typical_symptom,呼吸困难
+肺炎，病原体未特指 (J18.9),has_typical_symptom,不能平卧
+胸片示肺纹理增多增粗,strongly_supports,未特指的慢性支气管炎 (J42)
+慢性阻塞性肺病急性加重期,needs_differentiation_from,肺结核 (A16.2)
+肺炎，病原体未特指 (J18.9),manifests_as,呼吸音减弱
+胸片示肺纹理增多增粗,strongly_supports,支气管肺炎，未特指 (J18.0)
+支气管镜示痰液堵塞,supports,肺炎，病原体未特指 (J18.9)
+肺结核 (A16.2),has_typical_symptom,干咳
+胸片示支气管炎,strongly_supports,支气管哮喘 (J45.9)
+恶性肿瘤，支气管和肺 (C34.9),needs_differentiation_from,未特指的急性支气管炎 (J20.9)
+肺炎支原体性肺炎 (J15.7),needs_differentiation_from,支气管哮喘 (J45.9)
+未特指的急性支气管炎 (J20.9),needs_differentiation_from,支气管内异物 (T17.3)
+吸烟史,increases_risk_of,未特指的急性支气管炎 (J20.9)
+胸片示肺结核,strongly_supports,肺结核 (A16.2)
+肺气肿 (J43.9),needs_differentiation_from,恶性肿瘤，支气管和肺 (C34.9)
+急性喉气管炎 (J04.0),manifests_as,咽部充血
+胸部CT示胸膜肥厚,supports,肺炎，病原体未特指 (J18.9)
+社区获得性肺炎 (J18.9),needs_differentiation_from,肺结核 (A16.2)
+C反应蛋白升高,strongly_supports,肺炎，病原体未特指 (J18.9)
+慢性阻塞性肺病 (J44.9),needs_differentiation_from,未特指的慢性支气管炎 (J42)
+支气管肺炎，未特指 (J18.0),needs_differentiation_from,未特指的急性支气管炎 (J20.9)
+肺炎，病原体未特指 (J18.9),manifests_as,呼吸音增粗
+C反应蛋白升高,supports,未特指的急性支气管炎 (J20.9)
+自发性气胸 (J93.1),manifests_as,胸廓内陷
+肺炎，病原体未特指 (J18.9),needs_differentiation_from,支气管哮喘 (J45.9)
+EB病毒抗体升高,strongly_supports,EB病毒感染 (A63.0)
+上呼吸道感染,increases_risk_of,支气管哮喘 (J45.9)
+慢性阻塞性肺病 (J44.9),has_typical_symptom,胸闷
+支气管肺炎，未特指 (J18.0),needs_differentiation_from,大叶性肺炎 (J18.1)
+C反应蛋白升高,strongly_supports,社区获得性肺炎 (J18.9)
+肺炎，病原体未特指 (J18.9),has_typical_symptom,胸痛
+急性肺脓肿 (J85.0),needs_differentiation_from,下呼吸道感染，未特指 (J22)
+胸片示肺纤维灶,strongly_supports,未特指的慢性支气管炎 (J42)
+慢性阻塞性肺病 (J44.9),has_typical_symptom,喘息
+腺病毒感染 (A88.1),needs_differentiation_from,支气管肺炎，未特指 (J18.0)
+白细胞升高,strongly_supports,肺炎，病原体未特指 (J18.9)
+慢性肺源性心脏病 (I27.9),has_typical_symptom,咳痰
+胸部CT示肺部炎症,strongly_supports,肺炎，病原体未特指 (J18.9)
+慢性阻塞性肺病 (J44.9),strongly_supports,肺气肿 (J43.9)
+慢性阻塞性肺病 (J44.9),manifests_as,呼气相延长
+胸部CT示支气管炎及感染,strongly_supports,肺炎，病原体未特指 (J18.9)
+急性上呼吸道感染，未特指 (J06.9),has_typical_symptom,鼻塞
+胸片示点片状阴影,strongly_supports,肺炎，病原体未特指 (J18.9)
+支气管哮喘继发感染,needs_differentiation_from,恶性肿瘤，支气管和肺 (C34.9)
+恶性肿瘤，支气管和肺 (C34.9),needs_differentiation_from,肺炎，病原体未特指 (J18.9)
+肺气肿 (J43.9),has_typical_symptom,胸闷
+支气管扩张症 (J47.9),has_typical_symptom,慢性反复咳嗽
+慢性阻塞性肺病 (J44.9),has_typical_symptom,咳嗽
+胸片示肺纹理增多增粗,strongly_supports,未特指的急性支气管炎 (J20.9)
+支气管肺炎，未特指 (J18.0),manifests_as,湿啰音
+实变,strongly_supports,肺炎，病原体未特指 (J18.9)
+未特指的慢性支气管炎 (J42),needs_differentiation_from,支气管扩张症 (J47.9)
+肺气肿 (J43.9),has_typical_symptom,喘息
+胸部CT示未见明显异常,excludes,大叶性肺炎 (J18.1)
+未特指的急性支气管炎 (J20.9),needs_differentiation_from,支气管肺炎，未特指 (J18.0)
+肺炎支原体性肺炎 (J15.7),needs_differentiation_from,未特指的急性支气管炎 (J20.9)
+肺炎，病原体未特指 (J18.9),has_typical_symptom,咳黄粘痰
+胸片示肺纹理增多增粗,strongly_supports,肺气肿 (J43.9)
+急性咽炎 (J02.9),manifests_as,呼吸音增粗
+下呼吸道感染，未特指 (J22),needs_differentiation_from,支气管扩张症 (J47.9)
+急性上呼吸道感染，未特指 (J06.9),manifests_as,扁桃体肿大
+急性喉炎 (J04.0),has_typical_symptom,发热
+支气管哮喘继发感染,manifests_as,口唇发绀
+肺气肿 (J43.9),has_typical_symptom,咳嗽
+胸片示胸腔积液,strongly_supports,未特指的急性支气管炎 (J20.9)
+慢性阻塞性肺病 (J44.9),manifests_as,肺部叩诊过清音
+未特指的慢性支气管炎 (J42),has_typical_symptom,喘息
+肺炎，病原体未特指 (J18.9),has_typical_symptom,喘息
+胸部CT示支气管炎,strongly_supports,未特指的慢性支气管炎 (J42)
+慢性喘息性支气管炎 (J44.1),manifests_as,呼吸音增粗
+慢性阻塞性肺病 (J44.9),increases_risk_of,皮下积气
+急性毛细支气管炎 (J21.9),needs_differentiation_from,支气管肺炎，未特指 (J18.0)
+下呼吸道感染，未特指 (J22),has_typical_symptom,喘息
+胸片示肺纹理增多增粗,supports,急性喉气管炎 (J04.0)
+肺炎，病原体未特指 (J18.9),has_typical_symptom,痰中带血
+社区获得性肺炎 (J18.9),manifests_as,咽部充血
+支气管哮喘 (J45.9),has_typical_symptom,咳黄痰
+季节性发病,increases_risk_of,慢性喘息性支气管炎 (J44.1)
+支气管内异物 (T17.3),increases_risk_of,肺气肿 (J43.9)
+受凉,increases_risk_of,慢性阻塞性肺病 (J44.9)
+受凉,increases_risk_of,未特指的慢性支气管炎 (J42)
+屋尘过敏,increases_risk_of,支气管哮喘 (J45.9)
+支气管肺炎，未特指 (J18.0),needs_differentiation_from,支气管内异物 (T17.3)
+肺炎，病原体未特指 (J18.9),manifests_as,湿啰音
+吸烟史,increases_risk_of,慢性阻塞性肺病 (J44.9)
+肺炎，病原体未特指 (J18.9),has_typical_symptom,发热
+肺炎支原体性肺炎 (J15.7),needs_differentiation_from,肺炎，病原体未特指 (J18.9)
+肺癌,increases_risk_of,胸膜恶性肿瘤 (C38.4)
+免疫力低下,increases_risk_of,未特指的慢性支气管炎 (J42)
+未特指的急性支气管炎 (J20.9),needs_differentiation_from,急性毛细支气管炎 (J21.9)
+白细胞升高,supports,未特指的急性支气管炎 (J20.9)
+社区获得性肺炎 (J18.9),complication,呼吸衰竭
+肺炎，病原体未特指 (J18.9),needs_differentiation_from,2019冠状病毒病 (U07.1)
+肺结核 (A16.2),manifests_as,呼吸音增粗
+支气管肺炎，未特指 (J18.0),needs_differentiation_from,支气管扩张症 (J47.9)
+支气管内异物 (T17.3),increases_risk_of,异物吸入
+胸部CT示支气管炎,strongly_supports,未特指的急性支气管炎 (J20.9)
+下呼吸道感染，未特指 (J22),needs_differentiation_from,肺结核 (A16.2)
+胸部CT示条形高密度影,supports,肺炎，病原体未特指 (J18.9)
+呼吸音增粗,supports,未特指的急性支气管炎 (J20.9)
+胸部CT示淡片状阴影,strongly_supports,支气管肺炎，未特指 (J18.0)
+急性毛细支气管炎 (J21.9),has_typical_symptom,咳嗽
+支气管哮喘继发感染,manifests_as,呼吸音增粗
+上呼吸道感染,increases_risk_of,肺炎，病原体未特指 (J18.9)
+未特指的急性支气管炎 (J20.9),has_typical_symptom,气短
+急性肺脓肿 (J85.0),needs_differentiation_from,未特指的急性支气管炎 (J20.9)
+胸片示大片状高密度影,strongly_supports,肺炎，病原体未特指 (J18.9)
+未特指的急性支气管炎 (J20.9),has_typical_symptom,痰中带血
+胸部CT示肺炎症,strongly_supports,肺炎，病原体未特指 (J18.9)
+慢性阻塞性肺病 (J44.9),manifests_as,口唇发绀
+慢性阻塞性肺病 (J44.9),increases_risk_of,胸腔积液，未特指 (J90)
+未特指的慢性支气管炎 (J42),manifests_as,下肢水肿
+急性喉气管炎 (J04.0),has_typical_symptom,咳嗽
+肺气肿 (J43.9),manifests_as,湿啰音
+急性喉炎 (J04.0),has_typical_symptom,咳痰
+肺结核 (A16.2),manifests_as,胸廓内陷
+支气管肺炎，未特指 (J18.0),needs_differentiation_from,肺脓肿 (J85.0)
+气胸 (J93.9),has_typical_symptom,喘息
+肺炎，病原体未特指 (J18.9),has_typical_symptom,乏力
+慢性阻塞性肺病 (J44.9),manifests_as,胸腔积液，未特指 (J90)
+社区获得性肺炎 (J18.9),manifests_as,呼吸音增粗
+气胸 (J93.9),manifests_as,呼吸音减弱
+急性喉气管炎 (J04.0),manifests_as,呼吸音增粗
+肺炎支原体性肺炎 (J15.7),manifests_as,呼吸增快
+肺心病,manifests_as,口唇发绀
+PCO2升高,supports,慢性阻塞性肺病 (J44.9)
+支气管哮喘 (J45.9),manifests_as,口唇发绀
+无乏力,excludes,肺结核 (A16.2)
+急性上呼吸道感染，未特指 (J06.9),manifests_as,呼吸音增粗
+未特指的急性支气管炎 (J20.9),has_typical_symptom,咳白色泡沫痰
+支气管肺炎，未特指 (J18.0),manifests_as,呼吸增快
+肺结核 (A16.2),has_typical_symptom,精神倦怠
+肺炎，病原体未特指 (J18.9),manifests_as,呼吸增快
+猫上皮过敏,increases_risk_of,支气管哮喘 (J45.9)
+痰液癌细胞阳性,strongly_supports,恶性肿瘤，支气管和肺 (C34.9)
+肺炎，病原体未特指 (J18.9),has_typical_symptom,咳痰
+胸部CT未见异常,excludes,大叶性肺炎 (J18.1)
+支气管哮喘 (J45.9),has_typical_symptom,气短
+支气管哮喘 (J45.9),needs_differentiation_from,肺栓塞 (I26.9)
+急性咽炎 (J02.9),has_typical_symptom,咽痛
+未特指的急性支气管炎 (J20.9),manifests_as,呼吸音增粗
+慢性阻塞性肺病 (J44.9),complication,呼吸衰竭
+上呼吸道感染,increases_risk_of,未特指的急性支气管炎 (J20.9)
+吸入性肺炎 (J69.0),needs_differentiation_from,肺栓塞 (I26.9)
+肺炎支原体抗体阳性,strongly_supports,肺炎，病原体未特指 (J18.9)
+白细胞正常,excludes,肺炎，病原体未特指 (J18.9)
+慢性咽炎 (J31.2),has_typical_symptom,咽部不适
+胸片示结核病灶,strongly_supports,肺结核 (A16.2)
+支气管内异物 (T17.3),increases_risk_of,肺不张 (J98.0)
+肺栓塞 (I26.9),has_typical_symptom,呼吸困难
+肺炎，病原体未特指 (J18.9),needs_differentiation_from,恶性肿瘤，支气管和肺 (C34.9)
+粉尘接触史,increases_risk_of,慢性阻塞性肺病 (J44.9)
+肺结核 (A16.2),has_typical_symptom,盗汗
+支气管肺炎，未特指 (J18.0),needs_differentiation_from,心力衰竭
+电轴右偏,supports,慢性肺源性心脏病 (I27.9)
+支气管哮喘 (J45.9),manifests_as,哮鸣音
+自发性气胸 (J93.1),manifests_as,呼吸音减弱
+肺结核 (A16.2),manifests_as,肋间隙变窄
+支气管哮喘 (J45.9),has_typical_symptom,咳白粘痰
+受凉,increases_risk_of,支气管肺炎，未特指 (J18.0)
+肺气肿 (J43.9),complication,呼吸衰竭
+支原体感染,increases_risk_of,社区获得性肺炎 (J18.9)
+急性毛细支气管炎 (J21.9),manifests_as,呼吸动度增强
+胸部CT未见明显异常密度影,excludes,恶性肿瘤，支气管和肺 (C34.9)
+胸部CT示肺气肿,strongly_supports,未特指的慢性支气管炎 (J42)
+支气管哮喘 (J45.9),needs_differentiation_from,未特指的急性支气管炎 (J20.9)
+胸部CT示胸部CT示右肺多发结节灶,strongly_supports,未特指的急性支气管炎 (J20.9)
+肺结核 (A16.2),needs_differentiation_from,急性肺脓肿 (J85.0)
+肺炎，病原体未特指 (J18.9),manifests_as,口唇发绀
+慢性阻塞性肺病 (J44.9),has_typical_symptom,发热
+肺性P波,strongly_supports,慢性肺源性心脏病 (I27.9)
+PO2降低,supports,气胸 (J93.9)
+支气管哮喘 (J45.9),has_typical_symptom,喘息
+白细胞升高,strongly_supports,支气管肺炎，未特指 (J18.0)
+吸入性肺炎 (J69.0),needs_differentiation_from,支气管哮喘 (J45.9)
+慢性肺源性心脏病 (I27.9),has_typical_symptom,咳嗽
+胸部CT示肺部炎症,strongly_supports,肺炎支原体性肺炎 (J15.7)
+未特指的慢性支气管炎 (J42),has_typical_symptom,气短
+血氧饱和度降低,supports,慢性阻塞性肺病 (J44.9)
+胸膜恶性肿瘤 (C38.4),has_typical_symptom,肿痛
+急性上呼吸道感染，未特指 (J06.9),has_typical_symptom,发热
+支气管肺炎，未特指 (J18.0),has_typical_symptom,食欲减退
+下呼吸道感染，未特指 (J22),has_typical_symptom,气短
+无消瘦症状,excludes,肺结核 (A16.2)
+气胸 (J93.9),has_typical_symptom,胸痛
+支气管肺炎，未特指 (J18.0),manifests_as,哮鸣音
+支气管内异物 (T17.3),increases_risk_of,咳嗽
+未特指的急性支气管炎 (J20.9),has_typical_symptom,声嘶
+慢性阻塞性肺病 (J44.9),manifests_as,四肢末梢发绀
+中性粒细胞升高,supports,慢性阻塞性肺病 (J44.9)
+急性喉气管炎 (J04.0),needs_differentiation_from,支气管内异物 (T17.3)
+单核细胞比率升高,supports,下呼吸道感染，未特指 (J22)
+肺结核 (A16.2),manifests_as,哮鸣音
+未特指的慢性支气管炎 (J42),has_typical_symptom,咳白粘痰
+气胸 (J93.9),manifests_as,语颤减弱
+胸部CT示胸膜粘连及胸腔积液,supports,肺炎，病原体未特指 (J18.9)
+自发性气胸 (J93.1),has_typical_symptom,气短
+未特指的慢性支气管炎 (J42),has_typical_symptom,咳白色泡沫痰
+单核细胞升高,supports,未特指的慢性支气管炎 (J42)
+未特指的急性支气管炎 (J20.9),manifests_as,湿啰音
+未特指的急性支气管炎 (J20.9),needs_differentiation_from,支气管哮喘 (J45.9)
+支气管肺炎，未特指 (J18.0),has_typical_symptom,咳痰
+未特指的慢性支气管炎 (J42),manifests_as,肺部叩诊过清音
+胸片示胸腔积液,strongly_supports,肺炎，病原体未特指 (J18.9)
+中性粒细胞比例升高,strongly_supports,肺炎，病原体未特指 (J18.9)
+急性上呼吸道感染，未特指 (J06.9),needs_differentiation_from,支气管内异物 (T17.3)
+肺炎，病原体未特指 (J18.9),increases_risk_of,肺不张 (J98.0)
+胸片示胸腔积液,strongly_supports,社区获得性肺炎 (J18.9)
+白细胞升高,strongly_supports,社区获得性肺炎 (J18.9)
+慢性阻塞性肺病 (J44.9),increases_risk_of,气胸 (J93.9)
+慢性阻塞性肺病 (J44.9),has_typical_symptom,咳痰
+支气管哮喘 (J45.9),has_typical_symptom,干咳
+未特指的急性支气管炎 (J20.9),has_typical_symptom,胸痛
+急性毛细支气管炎 (J21.9),has_typical_symptom,发热
+未特指的慢性支气管炎 (J42),manifests_as,桶状胸
+支气管哮喘 (J45.9),has_typical_symptom,不能平卧
+慢性咽炎 (J31.2),has_typical_symptom,咳嗽
+慢性支气管肺炎 (J40),has_typical_symptom,气短
+胸部CT示肺不张,supports,肺炎，病原体未特指 (J18.9)
+中性粒细胞升高,supports,急性上呼吸道感染，未特指 (J06.9)
+肺不张 (J98.0),has_typical_symptom,气短
+肺炎，病原体未特指 (J18.9),has_typical_symptom,高热
+未特指的急性支气管炎 (J20.9),manifests_as,干啰音
+支气管哮喘 (J45.9),manifests_as,胸部过度充气
+急性上呼吸道感染，未特指 (J06.9),has_typical_symptom,咳痰
+服用避孕药物,increases_risk_of,肺栓塞 (I26.9)
+胸部CT示肺纹理增多增粗,supports,肺炎，病原体未特指 (J18.9)
+支气管哮喘 (J45.9),supports,指脉氧降低
+胸部CT示肺纤维灶,supports,肺炎，病原体未特指 (J18.9)
+胸部CT示致密影,supports,肺不张 (J98.0)
+肺结核 (A16.2),needs_differentiation_from,未特指的慢性支气管炎 (J42)
+肺结核 (A16.2),needs_differentiation_from,支气管肺炎，未特指 (J18.0)
+未特指的急性支气管炎 (J20.9),needs_differentiation_from,肺结核 (A16.2)
+恶性肿瘤，支气管和肺 (C34.9),needs_differentiation_from,阻塞性肺炎 (J18.0)
+胸部CT示胸膜增厚,supports,肺炎，病原体未特指 (J18.9)
+慢性阻塞性肺病 (J44.9),has_typical_symptom,活动后气促
+无发热,excludes,肺炎，病原体未特指 (J18.9)
+支气管肺炎，未特指 (J18.0),has_typical_symptom,烦躁
+走行紊乱,supports,肺结核 (A16.2)
+急性喉炎 (J04.0),has_typical_symptom,咳嗽
+支气管哮喘 (J45.9),has_typical_symptom,胸痛
+胸片示感染,strongly_supports,肺结核 (A16.2)
+支气管扩张症 (J47.9),manifests_as,湿啰音
+慢性阻塞性肺病急性加重期,needs_differentiation_from,肺脓肿 (J85.0)
+慢性喘息性支气管炎 (J44.1),manifests_as,气喘面容
+粉尘接触史,increases_risk_of,急性咽炎 (J02.9)
+肺炎，病原体未特指 (J18.9),has_typical_symptom,胸闷
+未特指的急性支气管炎 (J20.9),has_typical_symptom,喘息
+下呼吸道感染，未特指 (J22),has_typical_symptom,恶心
+胸片示多发感染灶,strongly_supports,肺炎，病原体未特指 (J18.9)
+肺结核 (A16.2),has_typical_symptom,喘息
+肺炎支原体性肺炎 (J15.7),has_typical_symptom,咳嗽
+急性毛细支气管炎 (J21.9),manifests_as,呼吸音增粗
+肺气肿 (J43.9),needs_differentiation_from,肺结核 (A16.2)
+社区获得性肺炎 (J18.9),needs_differentiation_from,支气管内异物 (T17.3)
+肺炎，病原体未特指 (J18.9),manifests_as,咽部充血
+两肺慢性炎症,strongly_supports,慢性阻塞性肺病 (J44.9)
+C反应蛋白升高,strongly_supports,支气管肺炎，未特指 (J18.0)
+未特指的慢性支气管炎 (J42),has_typical_symptom,不能平卧
+下呼吸道感染，未特指 (J22),has_typical_symptom,寒颤
+未特指的急性支气管炎 (J20.9),has_typical_symptom,咳黄粘痰
+肺炎，病原体未特指 (J18.9),has_typical_symptom,咳嗽
+慢性阻塞性肺病 (J44.9),has_typical_symptom,心慌
+未特指的急性支气管炎 (J20.9),has_typical_symptom,发热
+恶性肿瘤，支气管和肺 (C34.9),needs_differentiation_from,支气管哮喘 (J45.9)
+慢性支气管肺炎 (J40),increases_risk_of,慢性支气管炎病史
+未特指的急性支气管炎 (J20.9),needs_differentiation_from,慢性阻塞性肺病 (J44.9)
+肺炎，病原体未特指 (J18.9),needs_differentiation_from,慢性阻塞性肺病 (J44.9)
+社区获得性肺炎 (J18.9),needs_differentiation_from,支气管扩张症 (J47.9)
+肺气肿 (J43.9),manifests_as,下肢水肿
+未特指的急性支气管炎 (J20.9),needs_differentiation_from,急性肺脓肿 (J85.0)
+支气管肺炎，未特指 (J18.0),needs_differentiation_from,支气管哮喘 (J45.9)
+支气管肺炎，未特指 (J18.0),has_typical_symptom,呼吸困难
+肺炎支原体性肺炎 (J15.7),needs_differentiation_from,肺栓塞 (I26.9)
+吸烟史,increases_risk_of,支气管哮喘 (J45.9)
+胸膜恶性肿瘤 (C38.4),has_typical_symptom,胸痛
+未特指的急性支气管炎 (J20.9),needs_differentiation_from,肺炎，病原体未特指 (J18.9)
+HIV感染者,increases_risk_of,肺结核 (A16.2)
+source_name,relation,target_name
+气胸 (J93.9),manifests_as,肺部叩诊鼓音
+支气管哮喘继发感染,has_typical_symptom,咳白粘痰
+未特指的急性支气管炎 (J20.9),manifests_as,哮鸣音
+胸部CT示胸腔积液,supports,肺炎，病原体未特指 (J18.9)
+慢性肺源性心脏病 (I27.9),manifests_as,湿啰音
+吸入性肺炎 (J69.0),has_typical_symptom,发热
+胸片示透光区,strongly_supports,肺结核 (A16.2)
+胸部CT示感染,strongly_supports,下呼吸道感染，未特指 (J22)
+急性肺脓肿 (J85.0),has_typical_symptom,咳大量脓臭痰
+支气管哮喘 (J45.9),has_typical_symptom,呼吸困难
+劳累,increases_risk_of,支气管哮喘 (J45.9)
+支气管肺炎，未特指 (J18.0),has_typical_symptom,气短
+慢性阻塞性肺病 (J44.9),manifests_as,呼吸音减弱
+未特指的慢性支气管炎 (J42),increases_risk_of,慢性肺源性心脏病 (I27.9)
+未特指的慢性支气管炎 (J42),manifests_as,湿啰音
+社区获得性肺炎 (J18.9),needs_differentiation_from,肺脓肿 (J85.0)
+血沉升高,supports,未特指的急性支气管炎 (J20.9)
+肺炎，病原体未特指 (J18.9),has_typical_symptom,气短
+淋巴细胞降低,supports,肺气肿 (J43.9)
+胸部CT示肺门淋巴结肿大,strongly_supports,恶性肿瘤，支气管和肺 (C34.9)
+细菌性支气管肺炎 (J20.8),manifests_as,呼吸音增粗
+干啰音,manifests_as,下呼吸道感染，未特指 (J22)
+未特指的急性支气管炎 (J20.9),has_typical_symptom,乏力
+下呼吸道感染，未特指 (J22),has_typical_symptom,胸痛
+支气管哮喘 (J45.9),has_typical_symptom,发热
+未特指的急性支气管炎 (J20.9),manifests_as,咽部充血
+未特指的急性支气管炎 (J20.9),manifests_as,口唇发绀
+胸片示支气管炎伴肺气肿,strongly_supports,未特指的急性支气管炎 (J20.9)
+肺部CT示两肺支气管炎性改变,strongly_supports,未特指的急性支气管炎 (J20.9)
+中性粒细胞升高,strongly_supports,未特指的急性支气管炎 (J20.9)
+肺气肿 (J43.9),manifests_as,哮鸣音
+肺炎，病原体未特指 (J18.9),manifests_as,肺实变体征
+恶性肿瘤，支气管和肺 (C34.9),manifests_as,咳嗽
+未特指的慢性支气管炎 (J42),needs_differentiation_from,肺炎，病原体未特指 (J18.9)
+血氧饱和度降低,supports,慢性喘息性支气管炎 (J44.1)
+肺炎，病原体未特指 (J18.9),has_typical_symptom,呼吸困难
+胸片示慢性支气管炎及肺气肿,strongly_supports,未特指的慢性支气管炎 (J42)
+胸部CT示感染,strongly_supports,肺炎，病原体未特指 (J18.9)
+两肺结构紊乱,supports,急性喉气管炎 (J04.0)
+胸片示肺炎,strongly_supports,肺炎，病原体未特指 (J18.9)
+口唇发绀,manifests_as,下呼吸道感染，未特指 (J22)
+肺不张 (J98.0),manifests_as,呼吸音减弱
+刺激性气味接触,increases_risk_of,支气管哮喘 (J45.9)
+肺炎支原体性肺炎 (J15.7),manifests_as,呼吸音减弱
+胸片示支气管炎和感染,strongly_supports,未特指的急性支气管炎 (J20.9)
+未特指的急性支气管炎 (J20.9),has_typical_symptom,咳痰
+胸部CT示肺纹理增多增粗,strongly_supports,肺炎支原体性肺炎 (J15.7)
+未特指的慢性支气管炎 (J42),has_typical_symptom,咳黄粘痰
+急性肺脓肿 (J85.0),manifests_as,脓腔及气液平
+肺栓塞 (I26.9),has_typical_symptom,咯血
+下呼吸道感染，未特指 (J22),has_typical_symptom,呕吐
+胸片示支气管炎,supports,未特指的急性支气管炎 (J20.9)
+社区获得性肺炎 (J18.9),manifests_as,湿啰音
+C反应蛋白升高,supports,急性喉炎 (J04.0)
+支气管肺炎，未特指 (J18.0),manifests_as,干啰音
+肺气肿 (J43.9),has_typical_symptom,活动后气促
+支气管肺炎，未特指 (J18.0),manifests_as,心率增快
+无胸痛,excludes,肺结核 (A16.2)
+胸部CT示软组织密度增高,strongly_supports,肺不张 (J98.0)
+肺炎，病原体未特指 (J18.9),manifests_as,肺部叩诊浊音
+急性咽炎 (J02.9),manifests_as,滤泡
+支气管肺炎，未特指 (J18.0),needs_differentiation_from,肺炎支原体性肺炎 (J15.7)
+吸入性肺炎 (J69.0),has_typical_symptom,咳痰
+慢性支气管肺炎 (J40),manifests_as,湿啰音
+恶性肿瘤，支气管和肺 (C34.9),has_typical_symptom,咳嗽
+肺部CT示两肺支气管炎性改变,strongly_supports,肺炎，病原体未特指 (J18.9)
+急性喉气管炎 (J04.0),manifests_as,湿啰音
+肺气肿 (J43.9),manifests_as,呼吸音增粗
+支气管哮喘 (J45.9),manifests_as,呼吸增快
+肺炎支原体性肺炎 (J15.7),has_typical_symptom,气短
+下呼吸道感染，未特指 (J22),has_typical_symptom,痰中带血
+呼吸音增粗,manifests_as,下呼吸道感染，未特指 (J22)
+支气管哮喘 (J45.9),has_typical_symptom,咳痰
+社区获得性肺炎 (J18.9),manifests_as,呼吸音减弱
+急性咽炎 (J02.9),manifests_as,咽部充血
+未特指的慢性支气管炎 (J42),has_typical_symptom,发热
+两胸片示肺纹理增多,supports,肺炎，病原体未特指 (J18.9)
+肺结核 (A16.2),manifests_as,胸式呼吸
+慢性阻塞性肺病 (J44.9),needs_differentiation_from,下呼吸道感染，未特指 (J22)
+未特指的慢性支气管炎 (J42),needs_differentiation_from,恶性肿瘤，支气管和肺 (C34.9)
+支气管肺炎，未特指 (J18.0),needs_differentiation_from,肺炎，病原体未特指 (J18.9)
+急性喉炎 (J04.0),manifests_as,声带充血
+肺炎，病原体未特指 (J18.9),has_typical_symptom,头痛
+肺炎支原体抗体阳性,strongly_supports,肺炎支原体性肺炎 (J15.7)
+支气管肺炎，未特指 (J18.0),has_typical_symptom,胸痛
+混合性通气功能障碍重度,strongly_supports,支气管哮喘 (J45.9)
+支气管扩张症 (J47.9),has_typical_symptom,咯血
+恶性肿瘤，支气管和肺 (C34.9),manifests_as,痰液癌细胞阳性
+肺结核 (A16.2),has_typical_symptom,血性粘液痰
+慢性喘息性支气管炎 (J44.1),manifests_as,哮鸣音
+慢性阻塞性肺病 (J44.9),has_typical_symptom,咳白粘痰
+支气管肺炎，未特指 (J18.0),manifests_as,心音低钍
+受凉,increases_risk_of,支气管哮喘 (J45.9)
+肺炎，病原体未特指 (J18.9),has_typical_symptom,干咳
+慢性阻塞性肺病 (J44.9),manifests_as,肋间隙增宽
+慢性阻塞性肺病 (J44.9),manifests_as,桶状胸
+急性咽炎 (J02.9),has_typical_symptom,咳痰
+急性上呼吸道感染，未特指 (J06.9),has_typical_symptom,咳嗽
+阻塞性肺炎 (J18.0),complication,恶性肿瘤，支气管和肺 (C34.9)
+细菌感染,increases_risk_of,社区获得性肺炎 (J18.9)
+肺炎支原体性肺炎 (J15.7),manifests_as,湿啰音
+未特指的慢性支气管炎 (J42),manifests_as,口唇发绀
+胸部CT示纵膈淋巴结肿大,strongly_supports,未特指的急性支气管炎 (J20.9)
+细菌性支气管肺炎 (J20.8),needs_differentiation_from,肺炎，病原体未特指 (J18.9)
+胸部CT未见异常,excludes,支气管哮喘 (J45.9)
+人员密集环境,increases_risk_of,肺炎支原体性肺炎 (J15.7)
+呼吸音减弱,manifests_as,下呼吸道感染，未特指 (J22)
+慢性阻塞性肺病 (J44.9),needs_differentiation_from,支气管哮喘 (J45.9)
+EB病毒感染 (A63.0),increases_risk_of,急性喉气管炎 (J04.0)
+下呼吸道感染，未特指 (J22),has_typical_symptom,乏力
+肺结核 (A16.2),needs_differentiation_from,支气管扩张症 (J47.9)
+肺气肿 (J43.9),manifests_as,呼吸音减弱
+肺炎支原体性肺炎 (J15.7),manifests_as,呼吸音增粗
+支气管肺炎，未特指 (J18.0),has_typical_symptom,呕吐
+结核分枝杆菌阳性,strongly_supports,肺结核 (A16.2)
+劳累,increases_risk_of,肺炎，病原体未特指 (J18.9)
+甲型H1N1流感病毒核酸阳性,strongly_supports,肺炎，病原体未特指 (J18.9)
+胸部CT示肺气肿,strongly_supports,肺气肿 (J43.9)
+未特指的慢性支气管炎 (J42),has_typical_symptom,咳痰
+慢性阻塞性肺病 (J44.9),has_typical_symptom,气短
+支气管肺炎，未特指 (J18.0),needs_differentiation_from,气道异物
+胸片示钙化结节,supports,肺炎，病原体未特指 (J18.9)
+长期氧疗,increases_risk_of,慢性阻塞性肺病 (J44.9)
+未特指的慢性支气管炎 (J42),manifests_as,呼吸音增粗
+胸片示胸腔积液,supports,肺炎，病原体未特指 (J18.9)
+下呼吸道感染，未特指 (J22),has_typical_symptom,咳痰
+D二聚体升高,strongly_supports,肺栓塞 (I26.9)
+肺炎，病原体未特指 (J18.9),has_typical_symptom,劳累
+肺气肿 (J43.9),has_typical_symptom,呼吸困难
+未特指的急性支气管炎 (J20.9),has_typical_symptom,黄色痰
+肺结核 (A16.2),needs_differentiation_from,肺脓肿 (J85.0)
+下呼吸道感染，未特指 (J22),manifests_as,呼吸音增粗
+支气管肺炎，未特指 (J18.0),has_typical_symptom,呼吸增快
+支气管肺炎，未特指 (J18.0),has_typical_symptom,精神倦怠
+气胸 (J93.9),has_typical_symptom,胸闷
+慢性喘息性支气管炎 (J44.1),has_typical_symptom,不能平卧
+急性毛细支气管炎 (J21.9),has_typical_symptom,喘息
+急性咽炎 (J02.9),needs_differentiation_from,慢性咽炎 (J31.2)
+支气管肺炎，未特指 (J18.0),needs_differentiation_from,急性毛细支气管炎 (J21.9)
+支气管哮喘 (J45.9),manifests_as,呼吸音增粗
+结核分枝杆菌抗体阴性,excludes,肺结核 (A16.2)
+支气管肺炎，未特指 (J18.0),manifests_as,口唇发绀
+免疫抑制剂使用者,increases_risk_of,肺结核 (A16.2)
+未特指的慢性支气管炎 (J42),needs_differentiation_from,咳嗽变异性哮喘 (J45.9)
+支气管哮喘 (J45.9),manifests_as,大汗淋漓
+支气管肺炎，未特指 (J18.0),manifests_as,鼻扇征
+急性咽炎 (J02.9),has_typical_symptom,咽部不适
+慢性喘息性支气管炎 (J44.1),needs_differentiation_from,支气管哮喘 (J45.9)
+支气管肺炎，未特指 (J18.0),manifests_as,发热
+支气管扩张症 (J47.9),manifests_as,杵状指
+未特指的急性支气管炎 (J20.9),needs_differentiation_from,大叶性肺炎 (J18.1)
+支气管肺炎，未特指 (J18.0),needs_differentiation_from,婴幼儿哮喘
+支气管肺炎，未特指 (J18.0),needs_differentiation_from,气管异物
+未特指的慢性支气管炎 (J42),needs_differentiation_from,急性左心衰
+慢性支气管肺炎 (J40),has_typical_symptom,咳痰
+肺型P波,supports,肺气肿 (J43.9)
+支气管肺炎，未特指 (J18.0),increases_risk_of,心力衰竭
+胸部CT示肺大泡,strongly_supports,慢性阻塞性肺病 (J44.9)
+慢性阻塞性肺病 (J44.9),manifests_as,湿啰音
+肺炎，病原体未特指 (J18.9),manifests_as,干啰音
+胸片示斑片状阴影,strongly_supports,肺炎，病原体未特指 (J18.9)
+支气管肺炎，未特指 (J18.0),has_typical_symptom,心力衰竭
+慢性支气管肺炎 (J40),needs_differentiation_from,恶性肿瘤，支气管和肺 (C34.9)
+支气管哮喘 (J45.9),manifests_as,喘息貌
+慢性喘息性支气管炎 (J44.1),needs_differentiation_from,慢性肺源性心脏病 (I27.9)
+支气管哮喘 (J45.9),manifests_as,呼气音延长
+支气管扩张症 (J47.9),has_typical_symptom,咳大量脓痰
+C反应蛋白升高,supports,吸入性肺炎 (J69.0)
+上呼吸道感染,increases_risk_of,未特指的慢性支气管炎 (J42)
+肺功能下降,supports,肺气肿 (J43.9)
+肺炎支原体核酸阳性,strongly_supports,肺炎支原体性肺炎 (J15.7)
+未特指的急性支气管炎 (J20.9),has_typical_symptom,咳嗽
+社区获得性肺炎 (J18.9),needs_differentiation_from,支气管哮喘 (J45.9)
+肺炎，病原体未特指 (J18.9),manifests_as,C反应蛋白升高
+慢性肺源性心脏病 (I27.9),has_typical_symptom,胸闷
+肺炎支原体性肺炎 (J15.7),complication,肺功能损害
+慢性喘息性支气管炎 (J44.1),has_typical_symptom,不能言语
+未特指的急性支气管炎 (J20.9),has_typical_symptom,口干
+上呼吸道感染,increases_risk_of,慢性阻塞性肺病 (J44.9)
+肺结核 (A16.2),has_typical_symptom,咳白痰
+胸部CT示空洞型肺结核,strongly_supports,肺结核 (A16.2)
+动脉血氧分压降低,strongly_supports,未特指的呼吸衰竭 (J96.9)
+支气管哮喘 (J45.9),has_typical_symptom,胸闷
+胸片示支气管炎伴肺气肿,strongly_supports,肺气肿 (J43.9)
+自发性气胸 (J93.1),manifests_as,呼吸动度减弱
+肺心病,has_typical_symptom,呼吸困难
+慢性阻塞性肺病 (J44.9),needs_differentiation_from,恶性肿瘤，支气管和肺 (C34.9)
+腺病毒IgM抗体阳性,strongly_supports,腺病毒感染 (A88.1)
+吸入性肺炎 (J69.0),has_typical_symptom,咳嗽
+胸CT示支气管肺炎影像,strongly_supports,支气管肺炎，未特指 (J18.0)
+未特指的慢性支气管炎 (J42),manifests_as,"干啰音,湿啰音"
+肺炎，病原体未特指 (J18.9),has_typical_symptom,夜寐欠安
+慢性喘息性支气管炎 (J44.1),has_typical_symptom,喘息
+老年人,increases_risk_of,肺结核 (A16.2)
+支气管哮喘继发感染,manifests_as,哮鸣音
+未特指的慢性支气管炎 (J42),manifests_as,干啰音
+支气管哮喘 (J45.9),has_typical_symptom,咳嗽
+流感病毒感染,increases_risk_of,急性喉气管炎 (J04.0)
+胸部CT示斑片状高密度影,strongly_supports,支气管肺炎，未特指 (J18.0)
+肺炎，病原体未特指 (J18.9),has_typical_symptom,流黄脓涕
+刺激性气味接触,increases_risk_of,慢性阻塞性肺病 (J44.9)
+慢性支气管炎病史,increases_risk_of,未特指的慢性支气管炎 (J42)
+肺栓塞 (I26.9),manifests_as,D二聚体升高
+气管异物,manifests_as,肺气肿 (J43.9)
+支气管哮喘 (J45.9),needs_differentiation_from,支气管肺炎，未特指 (J18.0)
+恶性肿瘤，支气管和肺 (C34.9),manifests_as,肺门淋巴结肿大
+胸部CT示细支气管炎,strongly_supports,未特指的急性支气管炎 (J20.9)
+中性粒细胞比例升高,strongly_supports,社区获得性肺炎 (J18.9)
+气胸 (J93.9),manifests_as,皮下积气
+肺炎，病原体未特指 (J18.9),has_typical_symptom,夜间不能平卧
+淋巴细胞比率,supports,支气管肺炎，未特指 (J18.0)
+单核细胞升高,supports,下呼吸道感染，未特指 (J22)
+胸部CT示肺气肿,strongly_supports,慢性阻塞性肺病 (J44.9)
+肺炎，病原体未特指 (J18.9),has_typical_symptom,未特指的呼吸衰竭 (J96.9)
+支气管哮喘 (J45.9),manifests_as,咽部充血
+社区获得性肺炎 (J18.9),has_typical_symptom,痰中带血
+未特指的慢性支气管炎 (J42),complication,慢性肺源性心脏病 (I27.9)
+肺炎支原体性肺炎 (J15.7),has_typical_symptom,发热
+肺炎，病原体未特指 (J18.9),manifests_as,胸部CT示胸膜肥厚
+未特指的慢性支气管炎 (J42),has_typical_symptom,胸闷
+肺炎，病原体未特指 (J18.9),manifests_as,呼吸动度增强
+左上肺感染,strongly_supports,肺炎，病原体未特指 (J18.9)
+胸部CT示条索影,supports,肺结核 (A16.2)
+未特指的急性支气管炎 (J20.9),needs_differentiation_from,肺脓肿 (J85.0)
+胸部CT示慢性炎症,strongly_supports,肺炎，病原体未特指 (J18.9)
+慢性肺源性心脏病 (I27.9),manifests_as,呼吸音增粗
+粉尘接触史,increases_risk_of,肺气肿 (J43.9)
+支气管肺炎，未特指 (J18.0),manifests_as,心音低钝
+白细胞升高,supports,急性喉炎 (J04.0)
+受凉,increases_risk_of,未特指的急性支气管炎 (J20.9)
+肺炎支原体性肺炎 (J15.7),needs_differentiation_from,肺结核 (A16.2)
+肺栓塞 (I26.9),increases_risk_of,肺梗死
+未特指的慢性支气管炎 (J42),has_typical_symptom,咳嗽
+支气管肺炎，未特指 (J18.0),has_typical_symptom,流涕
+支气管肺炎，未特指 (J18.0),manifests_as,鼻扇
+肺炎，病原体未特指 (J18.9),needs_differentiation_from,肺结核 (A16.2)
+急性喉气管炎 (J04.0),needs_differentiation_from,急性会厌炎
+急性喉气管炎 (J04.0),has_typical_symptom,吸气性喉鸣
+下呼吸道感染，未特指 (J22),has_typical_symptom,咳嗽
+未特指的急性支气管炎 (J20.9),has_typical_symptom,头痛
+慢性喘息性支气管炎 (J44.1),has_typical_symptom,咳痰
+社区获得性肺炎 (J18.9),manifests_as,"干啰音,湿啰音"
+胸部CT示间质性改变,supports,肺炎，病原体未特指 (J18.9)
+呼吸道感染患者接触史,increases_risk_of,支气管肺炎，未特指 (J18.0)
+支气管肺炎，未特指 (J18.0),manifests_as,咳嗽
+肺炎，病原体未特指 (J18.9),has_typical_symptom,咽部不适
+细菌性支气管肺炎 (J20.8),has_typical_symptom,咳嗽
+肺炎，病原体未特指 (J18.9),has_typical_symptom,咯血
+未特指的慢性支气管炎 (J42),manifests_as,语颤减弱
+气管异物,manifests_as,肺不张 (J98.0)
+季节性发病,increases_risk_of,未特指的慢性支气管炎 (J42)
+未特指的急性支气管炎 (J20.9),manifests_as,憋喘貌
+支气管肺炎，未特指 (J18.0),has_typical_symptom,打喷嚏
+肺栓塞 (I26.9),has_typical_symptom,心率增快
+胸片示肺纹理增多增粗,supports,肺结核 (A16.2)
+肺结核 (A16.2),needs_differentiation_from,未特指的急性支气管炎 (J20.9)
+下呼吸道感染，未特指 (J22),manifests_as,干啰音
+胸部CT示肺气肿,supports,未特指的慢性支气管炎 (J42)
+社区获得性肺炎 (J18.9),has_typical_symptom,咳痰
+肺炎，病原体未特指 (J18.9),has_typical_symptom,咳黄痰
+未特指的急性支气管炎 (J20.9),manifests_as,湿啰音
+天气炎热,increases_risk_of,支气管哮喘 (J45.9)
+未特指的呼吸衰竭 (J96.9),has_typical_symptom,气短
+肺炎，病原体未特指 (J18.9),needs_differentiation_from,急性肺脓肿 (J85.0)
+急性喉炎 (J04.0),manifests_as,咽部充血
+慢性喘息性支气管炎 (J44.1),has_typical_symptom,有痰不能咳出
+支气管哮喘 (J45.9),needs_differentiation_from,大叶性肺炎 (J18.1)
+受凉,increases_risk_of,肺炎，病原体未特指 (J18.9)
+慢性支气管肺炎 (J40),has_typical_symptom,咳嗽
+社区获得性肺炎 (J18.9),needs_differentiation_from,恶性肿瘤，支气管和肺 (C34.9)
+未特指的急性支气管炎 (J20.9),has_typical_symptom,气短
+支气管肺炎，未特指 (J18.0),has_typical_symptom,咽部不适
+自发性气胸 (J93.1),manifests_as,语颤减弱
+支气管肺炎，未特指 (J18.0),manifests_as,呼吸动度增强
+肺炎，病原体未特指 (J18.9),manifests_as,哮鸣音
+支气管肺炎，未特指 (J18.0),has_typical_symptom,喘息
+未特指的急性支气管炎 (J20.9),manifests_as,呼吸音增粗
+C反应蛋白升高,supports,急性上呼吸道感染，未特指 (J06.9)
+未特指的慢性支气管炎 (J42),needs_differentiation_from,肺炎支原体性肺炎 (J15.7)
+气管异物,has_typical_symptom,喘息
+慢性喘息性支气管炎 (J44.1),manifests_as,口唇发绀
+胸部CT示支气管炎及感染,strongly_supports,未特指的慢性支气管炎 (J42)
+胸片示胸腔积液,strongly_supports,肺栓塞 (I26.9)
+支气管肺炎，未特指 (J18.0),has_typical_symptom,咳嗽
+胸片示肺部炎症,strongly_supports,肺炎，病原体未特指 (J18.9)
+动脉血二氧化碳分压升高,strongly_supports,未特指的呼吸衰竭 (J96.9)
+吸烟史,increases_risk_of,肺炎，病原体未特指 (J18.9)
+未特指的急性支气管炎 (J20.9),has_typical_symptom,咳白粘痰
+上呼吸道感染,increases_risk_of,慢性喘息性支气管炎 (J44.1)
+肺炎，病原体未特指 (J18.9),has_typical_symptom,咳白粘痰
+胸部CT示胸膜肥厚钙化,supports,肺炎，病原体未特指 (J18.9)
+支气管肺炎，未特指 (J18.0),manifests_as,喘息
+胸部CT示肺纤维灶,strongly_supports,未特指的急性支气管炎 (J20.9)
+慢性阻塞性肺病 (J44.9),manifests_as,肺气肿 (J43.9)
+胸片示脓腔及液平,strongly_supports,急性肺脓肿 (J85.0)
+胸部CT示心包积液,supports,社区获得性肺炎 (J18.9)
+胸片示肺部炎症,strongly_supports,细菌性支气管肺炎 (J20.8)
+胸片示肺纤维灶,supports,肺气肿 (J43.9)
+胸部CT示心包积液,supports,肺炎，病原体未特指 (J18.9)
+急性咽炎 (J02.9),has_typical_symptom,咳嗽
+吸烟史,increases_risk_of,急性咽炎 (J02.9)
+胸片示肺纤维灶,supports,未特指的慢性支气管炎 (J42)
+胸部CT示肺部炎症,strongly_supports,支气管肺炎，未特指 (J18.0)
+肺炎，病原体未特指 (J18.9),manifests_as,语音震颤减弱
+肺炎支原体DNA阳性,strongly_supports,肺炎，病原体未特指 (J18.9)
+痰涂片未见抗酸杆菌,excludes,肺结核 (A16.2)
+胸片示支气管炎,strongly_supports,未特指的慢性支气管炎 (J42)
+吸入酸性物质,increases_risk_of,吸入性肺炎 (J69.0)
+情绪激动,increases_risk_of,肺炎，病原体未特指 (J18.9)
+慢性咽炎 (J31.2),has_typical_symptom,干咳
+胸片示慢性支气管炎,strongly_supports,未特指的慢性支气管炎 (J42)
+胸片示斑片状病变,strongly_supports,肺结核 (A16.2)
+C反应蛋白升高,supports,肺气肿 (J43.9)
+中性粒细胞比例升高,strongly_supports,支气管肺炎，未特指 (J18.0)
+胸片示胸膜肥厚粘连,supports,未特指的慢性支气管炎 (J42)
+肺炎支原体性肺炎 (J15.7),needs_differentiation_from,急性肺脓肿 (J85.0)
+肺结核 (A16.2),has_typical_symptom,胸痛
+淋巴细胞比例降低,supports,未特指的慢性支气管炎 (J42)
+胸部CT示肺结核,strongly_supports,肺结核 (A16.2)
+肺炎支原体性肺炎 (J15.7),manifests_as,哮鸣音
+胸部CT示支气管炎,strongly_supports,支气管肺炎，未特指 (J18.0)
+慢性阻塞性肺病 (J44.9),needs_differentiation_from,未特指的急性支气管炎 (J20.9)
+肺结核 (A16.2),needs_differentiation_from,肺炎，病原体未特指 (J18.9)
+无盗汗,excludes,肺结核 (A16.2)
+Eos%高,strongly_supports,未特指的急性支气管炎 (J20.9)
+吸烟史,increases_risk_of,未特指的慢性支气管炎 (J42)
+胸部CT示慢性炎症,strongly_supports,未特指的急性支气管炎 (J20.9)
+肺炎，病原体未特指 (J18.9),has_typical_symptom,寒颤
+支气管肺炎，未特指 (J18.0),manifests_as,呼吸音增粗
+未特指的急性支气管炎 (J20.9),needs_differentiation_from,阻塞性肺炎 (J18.0)
+肺炎，病原体未特指 (J18.9),manifests_as,扁桃体肿大
+下呼吸道感染，未特指 (J22),has_typical_symptom,发热
+肺炎支原体性肺炎 (J15.7),has_typical_symptom,干咳
+胸部CT示慢性阻塞性肺疾病,strongly_supports,慢性阻塞性肺病 (J44.9)
+未特指的呼吸衰竭 (J96.9),has_typical_symptom,不能平卧
+胸片未见明显感染病灶,excludes,肺炎，病原体未特指 (J18.9)
+未特指的慢性支气管炎 (J42),has_typical_symptom,痰中带血
+肺炎，病原体未特指 (J18.9),manifests_as,右肺炎症
+未特指的慢性支气管炎 (J42),has_typical_symptom,劳累
+支气管舒张试验阳性,strongly_supports,支气管哮喘 (J45.9)
+肺气肿 (J43.9),has_typical_symptom,气短
+细菌性支气管肺炎 (J20.8),has_typical_symptom,发热
+下呼吸道感染，未特指 (J22),has_typical_symptom,咳白粘痰
+慢性肺源性心脏病 (I27.9),increases_risk_of,心力衰竭
+肺结核 (A16.2),has_typical_symptom,痰中带血
+胸部CT示胸膜肥厚粘连钙化,supports,肺炎，病原体未特指 (J18.9)
+慢性喘息性支气管炎 (J44.1),has_typical_symptom,咳嗽
+支气管哮喘 (J45.9),needs_differentiation_from,肺结核 (A16.2)
+无发热,excludes,肺结核 (A16.2)
+未特指的急性支气管炎 (J20.9),needs_differentiation_from,急性上呼吸道感染，未特指 (J06.9)
+肺结核 (A16.2),has_typical_symptom,发热
+未特指的急性支气管炎 (J20.9),manifests_as,干啰音
+胸部CT示肺门淋巴结肿大,supports,恶性肿瘤，支气管和肺 (C34.9)
+劳累,increases_risk_of,慢性阻塞性肺病 (J44.9)
+肺结核 (A16.2),needs_differentiation_from,恶性肿瘤，支气管和肺 (C34.9)
+Mon%升高,strongly_supports,未特指的急性支气管炎 (J20.9)
+肺动脉血管造影示肺动脉栓塞,strongly_supports,肺栓塞 (I26.9)
+未特指的急性支气管炎 (J20.9),has_typical_symptom,胸痛
+急性上呼吸道感染，未特指 (J06.9),needs_differentiation_from,百日咳
+急性喉气管炎 (J04.0),has_typical_symptom,喉鸣
+慢性阻塞性肺病 (J44.9),has_typical_symptom,呼吸困难
+下呼吸道感染，未特指 (J22),manifests_as,口唇发绀
+胸腔积液，未特指 (J90),has_typical_symptom,呼吸困难
+胸片示支气管炎,strongly_supports,未特指的急性支气管炎 (J20.9)
+慢性阻塞性肺病 (J44.9),manifests_as,语颤减弱
+肺气肿 (J43.9),needs_differentiation_from,支气管哮喘 (J45.9)
+粉尘接触史,increases_risk_of,支气管肺炎，未特指 (J18.0)
+社区获得性肺炎 (J18.9),has_typical_symptom,咳嗽
+季节性发病,increases_risk_of,慢性阻塞性肺病 (J44.9)
+支气管哮喘 (J45.9),has_typical_symptom,心慌
+胸片示絮状影,strongly_supports,支气管肺炎，未特指 (J18.0)
+支气管肺炎，未特指 (J18.0),has_typical_symptom,发热
+未特指的急性支气管炎 (J20.9),has_typical_symptom,咳黄粘痰
+胸片示大片絮状阴影,strongly_supports,支气管肺炎，未特指 (J18.0)
+胸部CT未见明显异常,excludes,大叶性肺炎 (J18.1)
+动物皮毛接触史,increases_risk_of,支气管哮喘 (J45.9)
+肺炎，病原体未特指 (J18.9),needs_differentiation_from,未特指的急性支气管炎 (J20.9)
+胸片示胸片示双肺斑片状密度增高影,strongly_supports,肺炎，病原体未特指 (J18.9)
+急性毛细支气管炎 (J21.9),manifests_as,哮鸣音
+胸部CT示高密度影,strongly_supports,肺炎，病原体未特指 (J18.9)
+未特指的急性支气管炎 (J20.9),has_typical_symptom,喘息
+肺结核 (A16.2),has_typical_symptom,咳痰
+支气管哮喘 (J45.9),manifests_as,呼吸动度增强
+胸片示点片状阴影,strongly_supports,肺炎支原体性肺炎 (J15.7)
+下呼吸道感染，未特指 (J22),needs_differentiation_from,咳嗽变异性哮喘 (J45.9)
+胸片示胸膜肥厚,supports,肺炎，病原体未特指 (J18.9)
+未特指的慢性支气管炎 (J42),needs_differentiation_from,肺结核 (A16.2)
+未特指的急性支气管炎 (J20.9),has_typical_symptom,发热
+自发性气胸 (J93.1),manifests_as,胸廓不对称
+自发性气胸 (J93.1),manifests_as,肺部叩诊鼓音
+社区获得性肺炎 (J18.9),has_typical_symptom,咳黄痰
+肺气肿 (J43.9),has_typical_symptom,不能平卧
+戒烟,increases_risk_of,未特指的急性支气管炎 (J20.9)
+肺栓塞 (I26.9),has_typical_symptom,胸痛
+胸部CT示肺动脉增宽,supports,慢性肺源性心脏病 (I27.9)
+慢性阻塞性肺病 (J44.9),manifests_as,呼吸音增粗
+肺结核 (A16.2),has_typical_symptom,食欲减退
+白细胞正常,excludes,未特指的急性支气管炎 (J20.9)
+吸入性肺炎 (J69.0),manifests_as,呼吸音增粗
+未特指的急性支气管炎 (J20.9),manifests_as,哮鸣音
+未特指的急性支气管炎 (J20.9),manifests_as,口唇无发绀
+吸入性肺炎 (J69.0),has_typical_symptom,咳黄痰
+下呼吸道感染，未特指 (J22),has_typical_symptom,胸闷
+肺炎支原体性肺炎 (J15.7),needs_differentiation_from,支气管内异物 (T17.3)
+下呼吸道感染，未特指 (J22),has_typical_symptom,盗汗
+受凉,increases_risk_of,未特指的急性支气管炎 (J20.9)
+胸片示慢性支气管炎伴肺气肿,strongly_supports,未特指的慢性支气管炎 (J42)
+未特指的慢性支气管炎 (J42),manifests_as,咽部充血
+慢性肺源性心脏病 (I27.9),has_typical_symptom,气短
+胸片示肺结节影,supports,肺炎，病原体未特指 (J18.9)
+支原体感染,increases_risk_of,未特指的急性支气管炎 (J20.9)
+气胸 (J93.9),has_typical_symptom,气短
+支气管哮喘 (J45.9),manifests_as,呼吸音减弱
+肺炎，病原体未特指 (J18.9),needs_differentiation_from,支气管内异物 (T17.3)
+未特指的慢性支气管炎 (J42),needs_differentiation_from,急性肺脓肿 (J85.0)
+下呼吸道感染，未特指 (J22),manifests_as,"干啰音,湿啰音"
+结核菌素实验阴性,excludes,肺结核 (A16.2)
+淋巴细胞百分比升高,supports,慢性阻塞性肺病 (J44.9)
+下呼吸道感染，未特指 (J22),needs_differentiation_from,急性肺脓肿 (J85.0)
+胸部CT示感染,strongly_supports,吸入性肺炎 (J69.0)
+咳血,supports,肺炎，病原体未特指 (J18.9)
+支气管肺炎，未特指 (J18.0),needs_differentiation_from,肺结核 (A16.2)
+未特指的慢性支气管炎 (J42),manifests_as,哮鸣音
+未特指的急性支气管炎 (J20.9),has_typical_symptom,咳痰
+慢性阻塞性肺病 (J44.9),has_typical_symptom,夜间咳醒
+胸部CT示肺纤维灶,strongly_supports,肺气肿 (J43.9)
+肺栓塞 (I26.9),has_typical_symptom,痰中带血
+未特指的慢性支气管炎 (J42),has_typical_symptom,心悸
+未特指的急性支气管炎 (J20.9),needs_differentiation_from,恶性肿瘤，支气管和肺 (C34.9)
+胸部CT示肺部炎症,strongly_supports,肺结核 (A16.2)
+肺不张 (J98.0),has_typical_symptom,呼吸困难
+支气管肺炎，未特指 (J18.0),manifests_as,下肢水肿
+气短,supports,肺结核 (A16.2)
+肺性P波,supports,肺气肿 (J43.9)
+肺炎，病原体未特指 (J18.9),needs_differentiation_from,肺脓肿 (J85.0)
+肺炎，病原体未特指 (J18.9),has_typical_symptom,食欲减退
+恶性肿瘤，支气管和肺 (C34.9),has_typical_symptom,痰中带血
+口唇发绀,supports,气胸 (J93.9)
+支气管肺炎，未特指 (J18.0),manifests_as,咽部充血
+胸部CT示肺部炎症,strongly_supports,社区获得性肺炎 (J18.9)
+未特指的急性支气管炎 (J20.9),manifests_as,口唇发绀
+社区获得性肺炎 (J18.9),has_typical_symptom,发热
+未特指的慢性支气管炎 (J42),manifests_as,语音震颤减弱
+胸部CT示肺实变,strongly_supports,肺栓塞 (I26.9)
+胸片示气胸,supports,气胸 (J93.9)
+支气管肺炎，未特指 (J18.0),needs_differentiation_from,急性肺脓肿 (J85.0)
+急性上呼吸道感染，未特指 (J06.9),manifests_as,干啰音
+未特指的急性支气管炎 (J20.9),has_typical_symptom,咳白痰
+胸片示支气管肺炎,strongly_supports,慢性支气管肺炎 (J40)
+胸片示纤维索条影,strongly_supports,肺结核 (A16.2)
+支气管肺炎，未特指 (J18.0),manifests_as,肝大
+肺门淋巴结肿大,manifests_as,恶性肿瘤，支气管和肺 (C34.9)
+气胸 (J93.9),manifests_as,口唇发绀
+肺通气功能示小气道功能减退,supports,未特指的急性支气管炎 (J20.9)
+社区获得性肺炎 (J18.9),needs_differentiation_from,慢性阻塞性肺病 (J44.9)
+支气管肺炎，未特指 (J18.0),manifests_as,三凹征
+胸片示慢性支气管炎合并肺部感染,strongly_supports,慢性阻塞性肺病 (J44.9)
+白细胞计数降低,strongly_supports,肺炎支原体性肺炎 (J15.7)
+胸部CT示肺空洞,supports,肺结核 (A16.2)
+自发性气胸 (J93.1),has_typical_symptom,胸闷
+肺气肿 (J43.9),manifests_as,口唇发绀
+胸片示慢性支气管炎及肺气肿,strongly_supports,肺气肿 (J43.9)
+肺功能示第一秒最大通气量降低,strongly_supports,肺气肿 (J43.9)
+石材粉尘接触史,increases_risk_of,慢性阻塞性肺病 (J44.9)
+肺炎，病原体未特指 (J18.9),has_typical_symptom,咽痛
+小气道功能障碍,strongly_supports,支气管哮喘 (J45.9)
+单核细胞比率升高,supports,未特指的慢性支气管炎 (J42)
+炎性改变,strongly_supports,肺炎，病原体未特指 (J18.9)
+受凉,increases_risk_of,社区获得性肺炎 (J18.9)
+肺炎支原体性肺炎 (J15.7),needs_differentiation_from,急性上呼吸道感染，未特指 (J06.9)
+慢性阻塞性肺病 (J44.9),has_typical_symptom,咳脓稠痰
+支气管哮喘继发感染,has_typical_symptom,喘息
+社区获得性肺炎 (J18.9),has_typical_symptom,咯血
+胸片示急性支气管炎,strongly_supports,未特指的急性支气管炎 (J20.9)
+单核细胞比率升高,supports,急性喉气管炎 (J04.0)
+胸部CT示炎症,strongly_supports,肺炎，病原体未特指 (J18.9)
+未特指的慢性支气管炎 (J42),has_typical_symptom,呼吸困难
+社区获得性肺炎 (J18.9),has_typical_symptom,胸闷
+未特指的慢性支气管炎 (J42),complication,肺心病
+肺脓肿 (J85.0),needs_differentiation_from,肺炎，病原体未特指 (J18.9)
+支气管哮喘继发感染,has_typical_symptom,咳嗽
+狗上皮过敏,increases_risk_of,支气管哮喘 (J45.9)
+下呼吸道感染，未特指 (J22),has_typical_symptom,呼吸困难
+胸片示感染,strongly_supports,支气管肺炎，未特指 (J18.0)
+肺不张 (J98.0),supports,胸部CT示胸腔积液
+未特指的慢性支气管炎 (J42),manifests_as,呼吸音减弱
+胸部CT示肺部感染,strongly_supports,社区获得性肺炎 (J18.9)
+血沉升高,supports,支气管肺炎，未特指 (J18.0)
+肺气肿 (J43.9),has_typical_symptom,咳痰
+胸部CT示纵隔淋巴结肿大,strongly_supports,肺炎，病原体未特指 (J18.9)
+肺气肿 (J43.9),needs_differentiation_from,冠状动脉粥样硬化性心脏病 (I25.1)
+吸烟史,increases_risk_of,肺气肿 (J43.9)
+支气管肺炎，未特指 (J18.0),has_typical_symptom,鼻塞
+胸部CT示致密影,supports,肺炎，病原体未特指 (J18.9)
+胸片示支气管炎,strongly_supports,支气管肺炎，未特指 (J18.0)
+急性喉气管炎 (J04.0),has_typical_symptom,声嘶
+支气管哮喘 (J45.9),manifests_as,干啰音
+支气管扩张症 (J47.9),has_typical_symptom,咳痰
+肺炎支原体性肺炎 (J15.7),has_typical_symptom,阵发性咳嗽
+急性上呼吸道感染，未特指 (J06.9),has_typical_symptom,精神倦怠
+慢性阻塞性肺病 (J44.9),needs_differentiation_from,肺结核 (A16.2)
+支气管哮喘 (J45.9),needs_differentiation_from,肺炎，病原体未特指 (J18.9)
+支气管肺炎，未特指 (J18.0),has_typical_symptom,阵发性咳嗽
+未特指的慢性支气管炎 (J42),increases_risk_of,支气管肺炎，未特指 (J18.0)
+肺结核 (A16.2),has_typical_symptom,咳嗽
+PPD试验阳性,strongly_supports,肺结核 (A16.2)
+Bas%高,strongly_supports,未特指的急性支气管炎 (J20.9)
+白细胞升高,supports,急性上呼吸道感染，未特指 (J06.9)
+白细胞升高,supports,未特指的急性支气管炎 (J20.9)
+支气管肺炎，未特指 (J18.0),manifests_as,扁桃体肿大
+慢性阻塞性肺病 (J44.9),manifests_as,三凹征
+胸部CT示占位,supports,肺炎，病原体未特指 (J18.9)
+吸入性肺炎 (J69.0),has_typical_symptom,呛咳
+支气管哮喘 (J45.9),manifests_as,呼吸困难
+急性毛细支气管炎 (J21.9),manifests_as,呼吸增快
+双肺未闻及湿性啰音,excludes,肺炎，病原体未特指 (J18.9)
+支气管肺炎，未特指 (J18.0),manifests_as,烦躁
+支气管哮喘 (J45.9),has_typical_symptom,不能言语
+肺不张 (J98.0),manifests_as,语音震颤减弱
+慢性阻塞性肺病 (J44.9),increases_risk_of,慢性肺源性心脏病 (I27.9)
+肺炎，病原体未特指 (J18.9),manifests_as,白细胞升高
+肺心病,manifests_as,三凹征
+未特指的急性支气管炎 (J20.9),manifests_as,"干啰音,湿啰音"
+C反应蛋白升高,supports,未特指的急性支气管炎 (J20.9)
+中性粒细胞升高,strongly_supports,肺炎，病原体未特指 (J18.9)
+痰培养示慢性感染,strongly_supports,肺炎，病原体未特指 (J18.9)
+胸片示片状或斑片状阴影,strongly_supports,肺炎，病原体未特指 (J18.9)
+呼吸音增粗,supports,肺炎，病原体未特指 (J18.9)
+下呼吸道感染，未特指 (J22),strongly_supports,肺炎，病原体未特指 (J18.9)
+中性粒细胞比例升高,strongly_supports,细菌性肺炎(J15.9)
+白细胞计数升高,strongly_supports,细菌性肺炎(J15.9)
+白细胞计数降低,supports,细菌性肺炎(J15.9)
+白细胞计数正常,supports,肺炎支原体性肺炎 (J15.7)
+C反应蛋白升高,strongly_supports,细菌性肺炎(J15.9)
+细菌性肺炎(J15.9),has_typical_symptom,高热
+细菌性肺炎(J15.9),has_typical_symptom,咳脓稠痰
+细菌性肺炎(J15.9),has_typical_symptom,咳褐色痰
+细菌性肺炎(J15.9),has_typical_symptom,血性粘液痰
+细菌性肺炎(J15.9),has_typical_symptom,胸痛
+细菌性肺炎(J15.9),has_typical_symptom,湿啰音
+肺炎支原体性肺炎 (J15.7),has_typical_symptom,无痰
+肺炎支原体性肺炎 (J15.7),has_typical_symptom,痰涂片未见细菌
+病毒性肺炎(J12.9),has_typical_symptom,肌痛
+白细胞计数正常,strongly_supports,病毒性肺炎(J12.9)
+白细胞计数降低,strongly_supports,病毒性肺炎(J12.9)
+降钙素原降低,strongly_supports,病毒性肺炎(J12.9)
+C反应蛋白正常或降低,supports,病毒性肺炎(J12.9)
+细菌性肺炎(J15.9),has_typical_symptom,寒颤
+肺结核 (A16.2),has_typical_symptom,乏力
+胸片示肺部感染,strongly_supports,社区获得性肺炎 (J18.9)
+胸片示急性支气管炎,strongly_supports,未特指的急性支气管炎 (J20.9)
+胸部CT示支气管炎症,strongly_supports,未特指的急性支气管炎 (J20.9)
+肺结核 (A16.2),has_typical_symptom,低热
+肺结核 (A16.2),has_typical_symptom,体重减轻
+胸部CT示肺部炎症,strongly_supports,细菌性肺炎(J15.9)
+胸部CT示肺炎症,strongly_supports,细菌性肺炎(J15.9)
+胸部CT示感染,strongly_supports,细菌性肺炎(J15.9)
+胸片示肺部炎症,strongly_supports,细菌性肺炎(J15.9)
+胸片示肺部感染,strongly_supports,细菌性肺炎(J15.9)
+胸片示感染,strongly_supports,细菌性肺炎(J15.9)

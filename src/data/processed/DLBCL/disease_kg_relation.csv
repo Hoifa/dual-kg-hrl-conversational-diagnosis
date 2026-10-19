@@ -1,0 +1,3797 @@
+source_name,relation,target_name
+(左锁骨上淋巴结)低级别滤泡性淋巴瘤,strongly_supports,病理：未特指的滤泡性淋巴瘤
+36号牙重度龋坏伴脓性分泌物,increases_risk_of,慢性淋巴结炎
+47#牙深龋伴牙龈溢脓,increases_risk_of,慢性淋巴结炎
+BCL-2(+),strongly_supports,弥漫大B细胞淋巴瘤
+BCL-2(+),strongly_supports,套细胞淋巴瘤
+BCL-6(+),strongly_supports,弥漫大B细胞淋巴瘤
+BCL2(+)(70–80%),strongly_supports,弥漫大B细胞淋巴瘤
+BCL2(+)(约10%),strongly_supports,弥漫大B细胞淋巴瘤
+BCL2(60%+),strongly_supports,套细胞淋巴瘤
+BCL2(60-70%+),strongly_supports,弥漫大B细胞淋巴瘤
+BCL6(散在+),supports,病理：未特指的滤泡性淋巴瘤
+BCL6（+）,strongly_supports,弥漫大B细胞淋巴瘤
+Bcl-2(+),strongly_supports,套细胞淋巴瘤
+Bcl-2(+),supports,病理：未特指的滤泡性淋巴瘤
+Bcl-6(-),strongly_supports,弥漫大B细胞淋巴瘤
+B细胞减少,supports,弥漫大B细胞淋巴瘤
+C-MYC(+),strongly_supports,弥漫大B细胞淋巴瘤
+C-MYC(+)（10-20%）,strongly_supports,弥漫大B细胞淋巴瘤
+C-myc(-),strongly_supports,弥漫大B细胞淋巴瘤
+CCND1/IgH融合基因(+)(FISH),strongly_supports,套细胞淋巴瘤
+CCND1基因重排,strongly_supports,套细胞淋巴瘤
+CD10(-),strongly_supports,弥漫大B细胞淋巴瘤
+CD10(-),strongly_supports,套细胞淋巴瘤
+CD10(-),supports,套细胞淋巴瘤
+CD19(+),strongly_supports,弥漫大B细胞淋巴瘤
+CD19(+),supports,病理：未特指的滤泡性淋巴瘤
+CD20(-),strongly_supports,套细胞淋巴瘤
+CD20(弥漫+),strongly_supports,弥漫大B细胞淋巴瘤
+CD23(-),strongly_supports,弥漫大B细胞淋巴瘤
+CD23(-),strongly_supports,套细胞淋巴瘤
+CD23(-),supports,套细胞淋巴瘤
+CD3(-),strongly_supports,弥漫大B细胞淋巴瘤
+CD3(-),strongly_supports,套细胞淋巴瘤
+"CD30(+, <5%)",strongly_supports,弥漫大B细胞淋巴瘤
+CD4(-),strongly_supports,弥漫大B细胞淋巴瘤
+CD43(-),strongly_supports,套细胞淋巴瘤
+CD5(+),strongly_supports,套细胞淋巴瘤
+CD5(+)、CD23(-)、CD10(-)、BCL6(-)、FMC7(+)、CD20(dim)、sIgM(+),strongly_supports,套细胞淋巴瘤
+CD5(部分+),strongly_supports,套细胞淋巴瘤
+CD79a(+),strongly_supports,弥漫大B细胞淋巴瘤
+CMV(-),supports,病理：未特指的滤泡性淋巴瘤
+CRP 12.3mg/L,supports,结核性周围淋巴结病
+CRP 18.1 mg/L,supports,病理：未特指的滤泡性淋巴瘤
+CRP 25.2 mg/L,supports,病理：未特指的滤泡性淋巴瘤
+CRP 46.8 mg/L,supports,急性淋巴结炎
+CRP 90.3 mg/L（↑）,supports,急性淋巴结炎
+CRP 97.2 mg/L,supports,急性淋巴结炎
+CRP升高,supports,弥漫大B细胞淋巴瘤
+CRP升高,supports,病理：未特指的滤泡性淋巴瘤
+CRP升高,supports,结核性周围淋巴结病
+CRP升高（12.3 mg/L）,supports,结核性周围淋巴结病
+CRP升高（15.9 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+CRP升高（18 mg/L）,supports,结核性周围淋巴结病
+CRP升高（18.6 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+CRP升高（22 mg/L）,supports,结核性周围淋巴结病
+CRP升高（23.3mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+CRP升高（24 mg/L）,supports,结核性周围淋巴结病
+CRP升高（27.1 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+CRP升高（28mg/L）,supports,结核性周围淋巴结病
+CRP升高（30.3 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+CRP升高（42.9 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+CRP升高（55.9 mg/L）,supports,急性淋巴结炎
+CRP升高（56 mg/L）,supports,急性淋巴结炎
+CRP升高（77.4 mg/L）,supports,急性淋巴结炎
+CRP升高（84.0 mg/L）,supports,急性淋巴结炎
+CRP显著升高,supports,急性淋巴结炎
+CRP正常,supports,慢性淋巴结炎
+CRP正常（1.0 mg/L）,supports,慢性淋巴结炎
+CRP正常（2.25 mg/L）,supports,急性淋巴结炎
+CRP正常（3.9mg/L）,supports,慢性淋巴结炎
+CRP轻度升高,supports,慢性淋巴结炎
+CRP轻度升高,supports,结核性周围淋巴结病
+CRP轻度升高（12.3 mg/L）,supports,结核性周围淋巴结病
+CRP轻度升高（28 mg/L）,supports,结核性周围淋巴结病
+CT/MRI：脾实质内多个轻度强化结节,supports,弥漫大B细胞淋巴瘤
+CT/影像：回盲部肠壁环形不均匀增厚，肠系膜多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+CT/超声：肠系膜根部多发肿大淋巴结，呈串珠状及簇状分布，最大12.3mm×5.9mm，形态规则，皮髓质分界清晰，门结构可见，血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+CT增强动脉期轴位示右侧颈部多发肿大淋巴结大部分呈环形强化，中心见无强化干酪样坏死区,strongly_supports,结核性周围淋巴结病
+CT平扫：右侧颈部多发肿大淋巴结，中心密度较周边稍减低,supports,结核性周围淋巴结病
+CT示多发淋巴结肿大,supports,弥漫大B细胞淋巴瘤
+CT示多发融合性肿大淋巴结,supports,套细胞淋巴瘤
+CT：前上纵隔不规则软组织肿块包绕主动脉弓及上腔静脉,supports,弥漫大B细胞淋巴瘤
+CT：前纵隔巨大软组织肿块（8.2×6.5 cm）伴双侧肺门淋巴结肿大,supports,弥漫大B细胞淋巴瘤
+CT：双侧肺门及纵隔多发淋巴结增大,supports,急性淋巴结炎
+CT：双侧腋下淋巴结轻度肿大,supports,套细胞淋巴瘤
+CT：双侧腹股沟、髂血管旁多发淋巴结肿大（最大2.1×1.8cm），边界清，密度均匀,supports,病理：未特指的滤泡性淋巴瘤
+CT：双侧腹股沟及髂血管旁多发淋巴结增大，部分融合，脾稍大,supports,病理：未特指的滤泡性淋巴瘤
+CT：双侧颈部、纵隔、腹膜后多发肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+CT：双侧颈部、腋窝、纵隔及腹膜后多发肿大淋巴结,supports,套细胞淋巴瘤
+CT：双侧颈部、锁骨上、纵隔多发肿大淋巴结，环形强化,supports,弥漫大B细胞淋巴瘤
+CT：双侧颈部、锁骨上多发肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+CT：双侧颌下及颈部淋巴结增大,supports,慢性淋巴结炎
+CT：右上肺斑片状钙化灶伴纤维条索及磨玻璃结节,supports,结核性周围淋巴结病
+CT：右上肺斑片状钙化灶及磨玻璃样渗出影,supports,结核性周围淋巴结病
+CT：右上肺钙化灶伴磨玻璃影及树芽征,supports,结核性周围淋巴结病
+CT：右上肺钙化灶及纤维条索影,supports,结核性周围淋巴结病
+CT：右侧腹股沟区多发融合性淋巴结肿大伴邻近脂肪间隙模糊,supports,弥漫大B细胞淋巴瘤
+CT：右侧颈Ⅱ–Ⅲ区多发淋巴结肿大伴环形强化,supports,弥漫大B细胞淋巴瘤
+CT：回盲部肠壁不均匀增厚,supports,病理：未特指的滤泡性淋巴瘤
+CT：回盲部肠壁不均匀增厚伴肠系膜及腹膜后多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+CT：回盲部肠壁不均匀增厚及肠系膜多发肿大淋巴结,supports,病理：未特指的滤泡性淋巴瘤
+CT：回盲部肠壁不均匀增厚及肠系膜淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+CT：多区域淋巴结肿大，淋巴瘤待排,supports,弥漫大B细胞淋巴瘤
+CT：多发淋巴结肿大,supports,弥漫大B细胞淋巴瘤
+CT：多发淋巴结肿大,supports,套细胞淋巴瘤
+CT：多发肿大淋巴结,supports,套细胞淋巴瘤
+CT：多发肿大淋巴结，部分融合,supports,套细胞淋巴瘤
+CT：多发融合性淋巴结,supports,套细胞淋巴瘤
+CT：左上肺斑片状磨玻璃影伴小空洞,supports,结核性周围淋巴结病
+CT：左侧咀嚼肌间隙明显增强肿块（7.5×8.3 cm），向周围结构延伸,supports,弥漫大B细胞淋巴瘤
+CT：左腋窝巨大软组织肿块，伴纵隔及腹膜后多发淋巴结肿大,supports,弥漫大B细胞淋巴瘤
+CT：未见明显肝脾肿大,supports,弥漫大B细胞淋巴瘤
+CT：淋巴结广泛增大，符合淋巴瘤表现,supports,套细胞淋巴瘤
+CT：纵隔及双侧肺门多发淋巴结肿大,supports,弥漫大B细胞淋巴瘤
+CT：纵隔及左腋窝多发肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+CT：肠系膜多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+CT：肠系膜根部肿物（11×8×7 cm³），质韧，鱼肉状伴出血,supports,病理：未特指的滤泡性淋巴瘤
+CT：肠系膜淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+CT：胃周多发小淋巴结,supports,弥漫大B细胞淋巴瘤
+CT：胃壁‘靶征’改变,supports,套细胞淋巴瘤
+CT：胃壁广泛增厚伴周围多发肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+CT：脾内多发结节样低密度灶，增强后边缘强化,supports,病理：未特指的滤泡性淋巴瘤
+CT：脾大,supports,弥漫大B细胞淋巴瘤
+CT：脾大，脾门区融合性淋巴结,supports,病理：未特指的滤泡性淋巴瘤
+CT：脾大，脾门融合性淋巴结，腹膜后散在小淋巴结,supports,病理：未特指的滤泡性淋巴瘤
+CT：脾大，腹腔多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+CT：脾巨大，考虑淋巴瘤浸润，伴门脉高压,supports,套细胞淋巴瘤
+CT：脾脏增大,supports,弥漫大B细胞淋巴瘤
+CT：脾脏增大,supports,病理：未特指的滤泡性淋巴瘤
+CT：脾脏增大,supports,套细胞淋巴瘤
+CT：脾脏增大伴实质内多发低密度灶,supports,弥漫大B细胞淋巴瘤
+CT：脾脏弥漫性增大,supports,病理：未特指的滤泡性淋巴瘤
+CT：脾脏弥漫性增大伴多发低密度占位,supports,弥漫大B细胞淋巴瘤
+CT：脾脏弥漫性增大（17.1×8.3 cm），无占位，腹膜后及肠系膜无肿大淋巴结,supports,套细胞淋巴瘤
+CT：脾脏显著增大、多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+CT：脾脏显著增大（19.2×10.5 cm），腹膜后及肠系膜区多发小淋巴结,supports,套细胞淋巴瘤
+CT：脾脏显著增大，腹腔多发肿大淋巴结，脾门区融合,supports,病理：未特指的滤泡性淋巴瘤
+CT：脾脏显著增大，腹腔多发融合性淋巴结,supports,病理：未特指的滤泡性淋巴瘤
+CT：脾脏轻度增大,supports,弥漫大B细胞淋巴瘤
+CT：脾脏轻度增大,supports,病理：未特指的滤泡性淋巴瘤
+CT：脾门区多发融合性淋巴结,supports,病理：未特指的滤泡性淋巴瘤
+CT：腹股沟及腹膜后多发肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+CT：腹膜后、髂血管旁及双侧腹股沟多发肿大淋巴结（部分融合），脾脏增大,supports,弥漫大B细胞淋巴瘤
+CT：腹膜后多发融合性淋巴结,supports,弥漫大B细胞淋巴瘤
+CT：腹膜后融合性包块,supports,病理：未特指的滤泡性淋巴瘤
+CT：腹膜后融合性软组织包块包绕腹主动脉,supports,病理：未特指的滤泡性淋巴瘤
+CT：腹部胃壁及小肠壁增厚，腹腔淋巴结肿大,supports,套细胞淋巴瘤
+CT：阑尾未见明显异常（直径5.2mm，管腔通畅，无积液/粪石）,supports,非特异性肠系膜淋巴结炎
+CT：颈部及腹膜后多发肿大淋巴结,supports,病理：未特指的滤泡性淋巴瘤
+CT：颈部多发增大淋巴结，部分融合，强化不均,supports,弥漫大B细胞淋巴瘤
+Cyclin D1(+),strongly_supports,套细胞淋巴瘤
+Cyclin D1(-),strongly_supports,弥漫大B细胞淋巴瘤
+Cyclin D1（+）,strongly_supports,套细胞淋巴瘤
+CyclinD1(+),strongly_supports,套细胞淋巴瘤
+C反应蛋白 8.6 mg/L（↑）,supports,慢性淋巴结炎
+C反应蛋白升高,supports,急性淋巴结炎
+C反应蛋白升高（10.4mg/L）,supports,慢性淋巴结炎
+C反应蛋白升高（104.1 mg/L）,supports,急性淋巴结炎
+C反应蛋白升高（106.4 mg/L）,supports,急性淋巴结炎
+C反应蛋白升高（12 mg/L）,supports,结核性周围淋巴结病
+C反应蛋白升高（22 mg/L）,supports,结核性周围淋巴结病
+C反应蛋白升高（35.6 mg/L）,supports,结核性周围淋巴结病
+C反应蛋白升高（43.2 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+C反应蛋白升高（44.2 mg/L）,supports,急性淋巴结炎
+C反应蛋白升高（48 mg/L）,supports,急性淋巴结炎
+C反应蛋白升高（52.6 mg/L）,supports,急性淋巴结炎
+C反应蛋白升高（53.5 mg/L）,supports,急性淋巴结炎
+C反应蛋白升高（61.8 mg/L）,supports,急性淋巴结炎
+C反应蛋白升高（65.6 mg/L）,supports,急性淋巴结炎
+C反应蛋白升高（68.0mg/L）,supports,急性淋巴结炎
+C反应蛋白升高（77.4 mg/L）,supports,急性淋巴结炎
+C反应蛋白升高（80.4 mg/L）,supports,急性淋巴结炎
+C反应蛋白升高（86.1 mg/L）,supports,急性淋巴结炎
+C反应蛋白升高（94.0mg/L）,supports,急性淋巴结炎
+C反应蛋白升高（94.1 mg/L）,supports,急性淋巴结炎
+C反应蛋白升高（99.3 mg/L）,supports,急性淋巴结炎
+C反应蛋白升高（>5mg/L）,supports,结核性周围淋巴结病
+C反应蛋白升高（>5mg/L）,supports,急性淋巴结炎
+C反应蛋白升高（CRP 13 mg/L）,supports,慢性淋巴结炎
+C反应蛋白显著升高（82.6 mg/L）,supports,急性淋巴结炎
+C反应蛋白正常,supports,慢性淋巴结炎
+C反应蛋白正常（1.6 mg/L）,supports,慢性淋巴结炎
+C反应蛋白正常（3.7 mg/L）,supports,慢性淋巴结炎
+C反应蛋白正常（8.2 mg/L）,supports,非特异性肠系膜淋巴结炎
+C反应蛋白正常（<5 mg/L）,supports,非特异性肠系膜淋巴结炎
+C反应蛋白正常（<5mg/L）,supports,慢性淋巴结炎
+C反应蛋白轻度升高,supports,慢性淋巴结炎
+C反应蛋白轻度升高,supports,结核性周围淋巴结病
+C反应蛋白轻度升高（10.3 mg/L）,supports,慢性淋巴结炎
+C反应蛋白轻度升高（11.9 mg/L）,supports,慢性淋巴结炎
+C反应蛋白轻度升高（6.4 mg/L）,supports,慢性淋巴结炎
+C反应蛋白轻度升高（7.3 mg/L）,supports,慢性淋巴结炎
+C反应蛋白（CRP）109.7 mg/L,supports,急性淋巴结炎
+C反应蛋白（CRP）2.5 mg/L（<5.0 mg/L）,supports,慢性淋巴结炎
+C反应蛋白（CRP）83.0mg/L,supports,急性淋巴结炎
+C反应蛋白（CRP）升高（23.0mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+C反应蛋白（CRP）升高（34.1 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+C反应蛋白（CRP）升高（49.2 mg/L）,supports,急性淋巴结炎
+C反应蛋白（CRP）升高（65.6 mg/L）,supports,急性淋巴结炎
+C反应蛋白（CRP）升高（79.2 mg/L）,supports,急性淋巴结炎
+C反应蛋白（CRP）显著升高（109.5 mg/L）,supports,急性淋巴结炎
+C反应蛋白（CRP）正常（8.0 mg/L），提示轻度炎症反应,supports,慢性淋巴结炎
+C反应蛋白（CRP）轻度升高（11.2mg/L）,supports,慢性淋巴结炎
+C反应蛋白（CRP）轻度升高（12mg/L）,supports,结核性周围淋巴结病
+C反应蛋白（CRP）轻度升高（8.4 mg/L）,supports,非特异性肠系膜淋巴结炎
+EBER(-),strongly_supports,弥漫大B细胞淋巴瘤
+EBER1/2(-),strongly_supports,弥漫大B细胞淋巴瘤
+EBER1/2-ISH(-),strongly_supports,弥漫大B细胞淋巴瘤
+EBER原位杂交(-),strongly_supports,弥漫大B细胞淋巴瘤
+EBER原位杂交(-),supports,弥漫大B细胞淋巴瘤
+EB病毒DNA载量升高（1.47E+06 copies/mL）,supports,弥漫大B细胞淋巴瘤
+ESR 38 mm/h,supports,病理：未特指的滤泡性淋巴瘤
+ESR 86 mm/h（↑）,supports,结核性周围淋巴结病
+ESR升高,supports,病理：未特指的滤泡性淋巴瘤
+ESR升高,supports,结核性周围淋巴结病
+ESR升高（32 mm/h）,supports,病理：未特指的滤泡性淋巴瘤
+ESR升高（38 mm/h）,supports,病理：未特指的滤泡性淋巴瘤
+ESR升高（38mm/h）,supports,病理：未特指的滤泡性淋巴瘤
+ESR升高（42 mm/h）,supports,病理：未特指的滤泡性淋巴瘤
+ESR升高（48 mm/h）,supports,结核性周围淋巴结病
+ESR升高（68 mm/h）,supports,结核性周围淋巴结病
+ESR升高（98 mm/h）,supports,结核性周围淋巴结病
+ESR增快,supports,结核性周围淋巴结病
+ESR增快（28 mm/h）,supports,病理：未特指的滤泡性淋巴瘤
+ESR增快（48mm/h）,supports,结核性周围淋巴结病
+ESR增快（58 mm/h）,supports,结核性周围淋巴结病
+ESR明显增快（98 mm/h）,supports,结核性周围淋巴结病
+ESR显著升高（58 mm/h）,supports,结核性周围淋巴结病
+ESR显著增快,supports,结核性周围淋巴结病
+ESR显著增快（68mm/h）,supports,结核性周围淋巴结病
+ESR显著增快（86mm/h）,supports,结核性周围淋巴结病
+EUS：黏膜层隆起，多发类圆形低回声区，呈分隔状,supports,病理：未特指的滤泡性淋巴瘤
+FISH检测CCND1基因断裂重排,strongly_supports,套细胞淋巴瘤
+FISH检测t(11;14)(q13;q32)(+),strongly_supports,套细胞淋巴瘤
+FISH检测t(14;18)(q32;q21) BCL2/IgH融合基因阳性,strongly_supports,病理：未特指的滤泡性淋巴瘤
+FISH检测t(14;18)(q32;q21)阴性,supports,病理：未特指的滤泡性淋巴瘤
+FISH检测检出t(11;14)(q13;q32),strongly_supports,套细胞淋巴瘤
+FISH检测检出t(11;14)(q13;q32)易位，CCND1基因重排,strongly_supports,套细胞淋巴瘤
+FISH检测示t(11;14)(q13;q32)易位（IGH/CCND1融合基因+）,strongly_supports,套细胞淋巴瘤
+FISH检测证实存在t(11;14)(q13;q32)融合信号,strongly_supports,套细胞淋巴瘤
+FISH检测：t(11;14)(q13;q32)(+),strongly_supports,套细胞淋巴瘤
+FISH检测：t(11;14)(q13;q32)易位,strongly_supports,套细胞淋巴瘤
+FISH检测：t(11;14)(q13;q32)易位阳性,strongly_supports,套细胞淋巴瘤
+FISH检测：t(11;14)(q13;q32)染色体易位,strongly_supports,套细胞淋巴瘤
+FISH检测：t(14;18)(q32;q21) BCL2/IgH融合基因(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+FISH检测：t(14;18)(q32;q21)易位，BCL2/IgH融合基因(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+FISH：BCL2和BCL6基因重排，MYC基因完整,strongly_supports,病理：未特指的滤泡性淋巴瘤
+"FISH：BCL2重排(+), BCL6重排(+)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+FISH：CCND1/IGH融合信号阳性,strongly_supports,套细胞淋巴瘤
+FISH：t(11;14)(q13;q32)(+),strongly_supports,套细胞淋巴瘤
+FISH：t(11;14)(q13;q32)易位阳性,strongly_supports,套细胞淋巴瘤
+FISH：t(11;14)(q13;q32)染色体易位,strongly_supports,套细胞淋巴瘤
+FISH：t(11;14)(q13;q32)阳性,strongly_supports,套细胞淋巴瘤
+FISH：t(14;18)(q32;q21) BCL2/IgH融合基因(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+FISH：t(14;18)(q32;q21) BCL2/IgH融合基因阳性,strongly_supports,病理：未特指的滤泡性淋巴瘤
+GeneXpert MTB/RIF检测：结核分枝杆菌(+),strongly_supports,结核性周围淋巴结病
+GeneXpert MTB/RIF检测：结核分枝杆菌(+)，利福平敏感,strongly_supports,结核性周围淋巴结病
+HBV感染（抗原阴性，抗体阳性）,increases_risk_of,病理：未特指的滤泡性淋巴瘤
+Hans分型：Non-GCB型,strongly_supports,弥漫大B细胞淋巴瘤
+Hans分类：多系非生发中心B细胞来源,strongly_supports,弥漫大B细胞淋巴瘤
+Hans分类：多系非生发中心B细胞来源,supports,弥漫大B细胞淋巴瘤
+Hb 100 g/L,supports,病理：未特指的滤泡性淋巴瘤
+Hb 102 g/L（贫血）,supports,结核性周围淋巴结病
+Hb 108 g/L,supports,病理：未特指的滤泡性淋巴瘤
+Hb 84 g/L,supports,病理：未特指的滤泡性淋巴瘤
+Hb 84g/L（贫血）,supports,病理：未特指的滤泡性淋巴瘤
+Hb 86 g/L,supports,弥漫大B细胞淋巴瘤
+Hb 86 g/L,supports,病理：未特指的滤泡性淋巴瘤
+Hb 86 g/L,supports,套细胞淋巴瘤
+Hb 88 g/L,supports,病理：未特指的滤泡性淋巴瘤
+Hb 88g/L（正细胞正色素性）,supports,病理：未特指的滤泡性淋巴瘤
+Hb 89 g/L,supports,病理：未特指的滤泡性淋巴瘤
+Hb 91 g/L,supports,病理：未特指的滤泡性淋巴瘤
+Hb 92g/L,supports,弥漫大B细胞淋巴瘤
+Hb 93g/L,supports,病理：未特指的滤泡性淋巴瘤
+Hb 98g/L,supports,弥漫大B细胞淋巴瘤
+Hb 98g/L,supports,病理：未特指的滤泡性淋巴瘤
+Hb降低（102g/L）,supports,结核性周围淋巴结病
+Hb降低（85 g/L）,supports,病理：未特指的滤泡性淋巴瘤
+Hb降低（85 g/L）,supports,套细胞淋巴瘤
+IgH及IgK克隆性扩增,strongly_supports,弥漫大B细胞淋巴瘤
+IgH及IgK克隆性扩增峰,strongly_supports,弥漫大B细胞淋巴瘤
+IgVH突变阳性,supports,套细胞淋巴瘤
+Ki-67(+)（28%）,strongly_supports,套细胞淋巴瘤
+Ki-67(+)（70%）,strongly_supports,弥漫大B细胞淋巴瘤
+"Ki-67(+, 70%-80%)",strongly_supports,弥漫大B细胞淋巴瘤
+Ki-67(100%),strongly_supports,弥漫大B细胞淋巴瘤
+Ki-67(87%),supports,套细胞淋巴瘤
+Ki-67(约30%),strongly_supports,套细胞淋巴瘤
+Ki-67(约31%),strongly_supports,套细胞淋巴瘤
+Ki-67(约63%),supports,套细胞淋巴瘤
+Ki-67增殖指数20%,strongly_supports,套细胞淋巴瘤
+Ki-67增殖指数48%,supports,套细胞淋巴瘤
+Ki-67增殖指数62%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+Ki-67增殖指数72%,supports,套细胞淋巴瘤
+Ki-67增殖指数79%,supports,套细胞淋巴瘤
+Ki-67增殖指数83%,strongly_supports,套细胞淋巴瘤
+Ki-67增殖指数83%,supports,套细胞淋巴瘤
+Ki-67增殖指数约23%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+Ki-67增殖指数约25%,supports,套细胞淋巴瘤
+Ki-67增殖指数约42%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+Ki-67增殖指数约65%,strongly_supports,套细胞淋巴瘤
+Ki-67增殖指数约73%,strongly_supports,套细胞淋巴瘤
+Ki-67增殖指数约75%,strongly_supports,套细胞淋巴瘤
+Ki-67增殖指数约75%,supports,套细胞淋巴瘤
+Ki-67增殖指数约80%,strongly_supports,套细胞淋巴瘤
+Ki-67增殖指数约86%,strongly_supports,弥漫大B细胞淋巴瘤
+Ki-67增殖指数约89%,strongly_supports,套细胞淋巴瘤
+Ki-67增殖指数约93%,strongly_supports,弥漫大B细胞淋巴瘤
+Ki-67增殖指数约95%,strongly_supports,弥漫大B细胞淋巴瘤
+Ki-67滤泡中心指数5%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+Ki-67约13%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+Ki-67约47%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+Ki-67约71%,supports,套细胞淋巴瘤
+Ki-67阳性指数约40%，滤泡淡染区高表达,strongly_supports,病理：未特指的滤泡性淋巴瘤
+Ki-67（+，约90%）,strongly_supports,弥漫大B细胞淋巴瘤
+LDH 1078 U/L,supports,弥漫大B细胞淋巴瘤
+LDH 1378 U/L,supports,弥漫大B细胞淋巴瘤
+LDH 1464 U/L,supports,弥漫大B细胞淋巴瘤
+LDH 291U/L,supports,弥漫大B细胞淋巴瘤
+LDH 384 U/L,supports,病理：未特指的滤泡性淋巴瘤
+LDH 412 U/L（↑）,supports,套细胞淋巴瘤
+LDH 450 U/L,supports,病理：未特指的滤泡性淋巴瘤
+LDH 510 U/L,supports,套细胞淋巴瘤
+LDH 525 U/L,supports,病理：未特指的滤泡性淋巴瘤
+LDH 601 U/L,supports,套细胞淋巴瘤
+LDH 604 U/L,supports,病理：未特指的滤泡性淋巴瘤
+LDH 677 U/L,supports,套细胞淋巴瘤
+LDH升高,supports,弥漫大B细胞淋巴瘤
+LDH升高,supports,病理：未特指的滤泡性淋巴瘤
+LDH升高,supports,套细胞淋巴瘤
+LDH升高至432 U/L,supports,套细胞淋巴瘤
+LDH升高（1102 U/L）,supports,弥漫大B细胞淋巴瘤
+LDH升高（1103 U/L）,supports,套细胞淋巴瘤
+LDH升高（1137 U/L）,supports,弥漫大B细胞淋巴瘤
+LDH升高（1141 U/L）,supports,弥漫大B细胞淋巴瘤
+LDH升高（1275 U/L）,supports,弥漫大B细胞淋巴瘤
+LDH升高（1429 U/L）,supports,弥漫大B细胞淋巴瘤
+LDH升高（1439 U/L）,supports,弥漫大B细胞淋巴瘤
+LDH升高（1471 U/L）,supports,弥漫大B细胞淋巴瘤
+LDH升高（1591U/L）,supports,弥漫大B细胞淋巴瘤
+LDH升高（1725 U/L）,supports,弥漫大B细胞淋巴瘤
+LDH升高（249 U/L）,supports,病理：未特指的滤泡性淋巴瘤
+LDH升高（250 U/L）,supports,病理：未特指的滤泡性淋巴瘤
+LDH升高（255 U/L）,supports,病理：未特指的滤泡性淋巴瘤
+LDH升高（278 U/L）,supports,病理：未特指的滤泡性淋巴瘤
+LDH升高（326 U/L）,supports,病理：未特指的滤泡性淋巴瘤
+LDH升高（409U/L）,supports,弥漫大B细胞淋巴瘤
+LDH升高（452 U/L）,supports,弥漫大B细胞淋巴瘤
+LDH升高（457 U/L）,supports,套细胞淋巴瘤
+LDH升高（509 U/L）,supports,病理：未特指的滤泡性淋巴瘤
+LDH升高（561 U/L）,supports,套细胞淋巴瘤
+LDH升高（607 U/L）,supports,病理：未特指的滤泡性淋巴瘤
+LDH升高（633U/L）,supports,弥漫大B细胞淋巴瘤
+LDH升高（657 U/L）,supports,病理：未特指的滤泡性淋巴瘤
+LDH升高（662 U/L）,supports,病理：未特指的滤泡性淋巴瘤
+LDH升高（676U/L）,supports,弥漫大B细胞淋巴瘤
+LDH升高（702 U/L）,supports,病理：未特指的滤泡性淋巴瘤
+LDH升高（880 U/L）,supports,弥漫大B细胞淋巴瘤
+LDH升高（906 U/L）,supports,弥漫大B细胞淋巴瘤
+LDH显著升高,supports,套细胞淋巴瘤
+LDH显著升高（1424 U/L）,supports,弥漫大B细胞淋巴瘤
+LDH显著升高（1750 U/L）,supports,弥漫大B细胞淋巴瘤
+LDH显著升高（1845 U/L）,supports,弥漫大B细胞淋巴瘤
+LDH显著升高（663 U/L）,supports,套细胞淋巴瘤
+LDH显著升高（775 U/L）,supports,套细胞淋巴瘤
+LDH显著升高（895 U/L）,supports,弥漫大B细胞淋巴瘤
+LDH显著升高（934U/L）,supports,套细胞淋巴瘤
+LDH显著升高（945U/L）,supports,弥漫大B细胞淋巴瘤
+LDH正常高值,supports,病理：未特指的滤泡性淋巴瘤
+LDH正常（320 U/L）,supports,病理：未特指的滤泡性淋巴瘤
+LDH轻度升高,supports,病理：未特指的滤泡性淋巴瘤
+MRI：口咽部恶性肿瘤伴双侧颌下及颈部淋巴结转移,supports,套细胞淋巴瘤
+MRI：颈部环形强化冷脓肿,supports,结核性周围淋巴结病
+MUM1（+）,strongly_supports,弥漫大B细胞淋巴瘤
+P53(+，约40%),strongly_supports,弥漫大B细胞淋巴瘤
+"P53(弱+, 60%~70%)",strongly_supports,弥漫大B细胞淋巴瘤
+PET-CT示全身多处高代谢淋巴结（SUVmax 18.3）,supports,套细胞淋巴瘤
+PET-CT示右侧颈部高代谢淋巴结（SUVmax 18.5）,supports,弥漫大B细胞淋巴瘤
+PET-CT示多发高代谢淋巴结（SUVmax 18.6）,supports,弥漫大B细胞淋巴瘤
+PET-CT示甲状腺及双侧颈淋巴结受累,supports,弥漫大B细胞淋巴瘤
+PET-CT示胃壁弥漫增厚伴高代谢（SUVmax 12.3）,supports,套细胞淋巴瘤
+PET-CT示胃肠道及腹腔多发高代谢病灶（SUVmax 12.3）,supports,套细胞淋巴瘤
+PET-CT示脾脏及腹膜后高代谢病灶（SUVmax 18.6）,supports,弥漫大B细胞淋巴瘤
+PET-CT示腹膜后病灶SUVmax 18.6,supports,弥漫大B细胞淋巴瘤
+PET-CT示腹膜后高代谢灶（SUVmax 18.6）,supports,弥漫大B细胞淋巴瘤
+PET-CT：SUVmax 18.6,supports,弥漫大B细胞淋巴瘤
+PET-CT：SUVmax最高2.8，代谢活性不高,supports,病理：未特指的滤泡性淋巴瘤
+PET-CT：全身多区域高代谢淋巴结（SUVmax 12.4），Deauville评分5分,supports,套细胞淋巴瘤
+PET-CT：全身多发淋巴结代谢增高（SUVmax 12.3），脾脏及骨髓受累,supports,套细胞淋巴瘤
+PET-CT：全身多发高代谢淋巴结（SUVmax 18.6），Deauville评分5分,supports,弥漫大B细胞淋巴瘤
+PET-CT：全身多发高代谢淋巴结（SUVmax 4.2），融合成团,supports,病理：未特指的滤泡性淋巴瘤
+PET-CT：全身多发高代谢淋巴结，脾脏及骨髓弥漫性摄取增高，Deauville评分5分,supports,套细胞淋巴瘤
+PET-CT：前纵隔巨大软组织肿块（SUVmax 20.1）,supports,弥漫大B细胞淋巴瘤
+PET-CT：前纵隔肿块（SUVmax 16.2）,supports,弥漫大B细胞淋巴瘤
+PET-CT：双侧腹股沟、髂血管旁多发淋巴结肿大伴代谢轻度增高,supports,病理：未特指的滤泡性淋巴瘤
+PET-CT：双侧腹股沟、髂血管旁多发淋巴结肿大，SUVmax 6.2,supports,病理：未特指的滤泡性淋巴瘤
+PET-CT：双侧腹股沟及髂血管旁多发淋巴结肿大，SUVmax 3.2,supports,病理：未特指的滤泡性淋巴瘤
+PET-CT：双侧腹股沟及髂血管旁多发高代谢淋巴结（SUVmax 4.8），脾脏轻度代谢增高,supports,病理：未特指的滤泡性淋巴瘤
+PET-CT：双侧颈部、锁骨上、纵隔及腹膜后多发高代谢淋巴结，SUVmax 18.6；脾脏轻度受累,supports,弥漫大B细胞淋巴瘤
+PET-CT：双侧颞肌侧区代谢增高，以右侧为著,supports,病理：未特指的滤泡性淋巴瘤
+PET-CT：右侧腹股沟、髂血管旁高代谢淋巴结（SUVmax 18.6），脾脏弥漫性摄取增高,supports,弥漫大B细胞淋巴瘤
+PET-CT：右侧颈部及锁骨上多发高代谢淋巴结（SUVmax 12.4）,supports,弥漫大B细胞淋巴瘤
+PET-CT：回盲部、肠系膜、腹膜后多发代谢增高淋巴结，脾脏弥漫性摄取增高,supports,病理：未特指的滤泡性淋巴瘤
+PET-CT：回盲部及肠系膜代谢增高灶（SUVmax 6.2）,supports,病理：未特指的滤泡性淋巴瘤
+PET-CT：回盲部及肠系膜代谢增高灶（SUVmax 6.8）,supports,病理：未特指的滤泡性淋巴瘤
+PET-CT：回盲部肠壁不均匀增厚伴FDG代谢轻度增高及周围肠系膜多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+PET-CT：多区域淋巴结及脾脏弥漫性FDG高摄取（SUVmax 12.6）,supports,套细胞淋巴瘤
+PET-CT：多发代谢增高淋巴结（SUVmax 12.3）,supports,套细胞淋巴瘤
+PET-CT：多发淋巴结及脾脏糖代谢异常增高,supports,弥漫大B细胞淋巴瘤
+PET-CT：多发淋巴结肿大（头颈部、双侧腋窝、腹腔、腹膜后、双侧髂血管旁、双侧腹股沟），代谢较活跃，考虑淋巴瘤,supports,套细胞淋巴瘤
+PET-CT：多发高代谢淋巴结,supports,弥漫大B细胞淋巴瘤
+PET-CT：多发高代谢淋巴结伴脾脏受累,supports,弥漫大B细胞淋巴瘤
+PET-CT：多发高代谢淋巴结（SUVmax 18.5），脾脏增大伴弥漫性摄取增高,supports,弥漫大B细胞淋巴瘤
+PET-CT：多发高代谢淋巴结（SUVmax 18.6）,supports,弥漫大B细胞淋巴瘤
+PET-CT：多发高代谢淋巴结，SUVmax 18.6,supports,弥漫大B细胞淋巴瘤
+PET-CT：多处淋巴结肿大伴高SUV值,supports,病理：未特指的滤泡性淋巴瘤
+PET-CT：左侧颈部、纵隔及腹膜后多发高代谢淋巴结，SUVmax 18.5；脾脏增大伴弥漫性高代谢,supports,弥漫大B细胞淋巴瘤
+PET-CT：左腋窝多发融合淋巴结，SUVmax 12.5,supports,弥漫大B细胞淋巴瘤
+PET-CT：病灶SUVmax 8.6,supports,套细胞淋巴瘤
+PET-CT：胃、十二指肠及回肠末端高代谢病灶（SUVmax 12.3）,supports,套细胞淋巴瘤
+PET-CT：胃体、胃窦及十二指肠球部代谢增高（SUVmax 12.3）,supports,套细胞淋巴瘤
+PET-CT：胃体、胃窦及回盲部代谢增高,supports,套细胞淋巴瘤
+PET-CT：胃体、胃窦及回盲部代谢增高（SUVmax 12.3）,supports,套细胞淋巴瘤
+PET-CT：胃体、胃窦及部分空肠壁代谢异常增高（SUVmax 12.4）,supports,套细胞淋巴瘤
+PET-CT：胃体壁增厚伴高代谢（SUVmax 18.6）,supports,弥漫大B细胞淋巴瘤
+PET-CT：胃体高代谢病灶（SUVmax 18.6），伴腹腔及腹膜后多发高代谢淋巴结,supports,弥漫大B细胞淋巴瘤
+PET-CT：胃壁弥漫增厚伴高代谢（SUVmax 12.6）,supports,套细胞淋巴瘤
+PET-CT：胃壁弥漫性代谢增高（SUVmax 12.3）,supports,套细胞淋巴瘤
+PET-CT：胃窦至十二指肠区域代谢增高（SUVmax 12.3）,supports,套细胞淋巴瘤
+PET-CT：脾脏SUVmax 8.6,supports,套细胞淋巴瘤
+PET-CT：脾脏SUVmax 8.6，腹膜后小淋巴结轻度摄取,supports,套细胞淋巴瘤
+PET-CT：脾脏代谢弥漫增高,supports,套细胞淋巴瘤
+PET-CT：脾脏代谢显著增高（SUVmax 12.3）,supports,套细胞淋巴瘤
+PET-CT：脾脏及腹膜后、肠系膜多发高代谢灶,supports,弥漫大B细胞淋巴瘤
+PET-CT：脾脏及腹膜后高代谢病灶（SUVmax 18.5）,supports,弥漫大B细胞淋巴瘤
+PET-CT：脾脏及骨髓弥漫性高代谢（SUVmax 12.4）,supports,套细胞淋巴瘤
+PET-CT：脾脏多发高代谢灶,supports,弥漫大B细胞淋巴瘤
+PET-CT：脾脏弥漫性代谢增高（SUVmax 8.6）,supports,套细胞淋巴瘤
+PET-CT：脾脏弥漫性高代谢（SUVmax 8.4）,supports,套细胞淋巴瘤
+PET-CT：脾脏弥漫性高代谢（SUVmax 8.6）,supports,套细胞淋巴瘤
+PET-CT：脾脏弥漫性高摄取（SUVmax 6.2）,supports,病理：未特指的滤泡性淋巴瘤
+PET-CT：脾脏轻度肿大伴代谢活跃,supports,套细胞淋巴瘤
+PET-CT：脾脏高代谢（SUVmax 6.2）,supports,套细胞淋巴瘤
+PET-CT：腹腔、肠系膜、腹膜后及双侧腹股沟多发肿大淋巴结（最大1.6 cm），FDG轻度摄取增高（SUVmax 1.44–2.37）,supports,病理：未特指的滤泡性淋巴瘤
+PET-CT：腹膜后代谢增高软组织团块（SUVmax 18.6）,supports,弥漫大B细胞淋巴瘤
+PET-CT：腹膜后多发肿大淋巴结,supports,套细胞淋巴瘤
+PET-CT：腹膜后高代谢淋巴结团块（SUVmax 18.6）,supports,弥漫大B细胞淋巴瘤
+PET-CT：腹膜后高代谢淋巴结群（SUVmax 18.6）,supports,弥漫大B细胞淋巴瘤
+PET-CT：腹膜后高代谢淋巴结（SUVmax 18.6）,supports,弥漫大B细胞淋巴瘤
+PET-CT：腹膜后高代谢病灶（SUVmax 18.4）,supports,弥漫大B细胞淋巴瘤
+PET-CT：腹膜后高代谢病灶（SUVmax 18.6）,supports,弥漫大B细胞淋巴瘤
+PET-CT：颈胸腹淋巴结糖代谢增高,supports,弥漫大B细胞淋巴瘤
+PET-CT：颈部、纵隔及腹膜后多发高代谢淋巴结（SUVmax 18.5）,supports,弥漫大B细胞淋巴瘤
+PET-CT：高代谢性腺样病变（纵隔淋巴结SUVmax 8）,supports,病理：未特指的滤泡性淋巴瘤
+PET-CT：高代谢淋巴结（SUVmax 18.6）,supports,弥漫大B细胞淋巴瘤
+PET-CT：高代谢病灶，SUVmax 18.6,supports,弥漫大B细胞淋巴瘤
+PLT 102×10⁹/L,supports,套细胞淋巴瘤
+PPD试验强阳性（硬结18 mm伴水疱）,supports,结核性周围淋巴结病
+PPD试验强阳性（硬结22mm伴水疱）,supports,结核性周围淋巴结病
+PPD试验强阳性（硬结直径18 mm）,supports,结核性周围淋巴结病
+PPD试验强阳性（硬结直径18mm伴水疱）,supports,结核性周围淋巴结病
+PPD试验强阳性（硬结直径22mm，伴水疱）,supports,结核性周围淋巴结病
+PPD试验：强阳性,supports,结核性周围淋巴结病
+PPD试验：强阳性（22mm）,supports,结核性周围淋巴结病
+PPD试验：硬结18mm伴水疱,supports,结核性周围淋巴结病
+PPD试验：硬结直径18 mm伴水疱,supports,结核性周围淋巴结病
+SOX11(+),strongly_supports,套细胞淋巴瘤
+T-SPOT.TB(+),supports,结核性周围淋巴结病
+T-SPOT.TB阳性,supports,结核性周围淋巴结病
+WBC 12.4×10⁹/L，淋巴细胞比例68%,supports,套细胞淋巴瘤
+WBC 17.6×10⁹/L,supports,急性淋巴结炎
+WBC 9.8×10⁹/L，中性粒细胞62%，CRP <5mg/L,supports,非特异性肠系膜淋巴结炎
+WBC升高,supports,急性淋巴结炎
+WBC升高（15.5×10⁹/L）,supports,急性淋巴结炎
+WBC升高（15.8×10⁹/L）,supports,急性淋巴结炎
+c-MYC(约20%+),strongly_supports,弥漫大B细胞淋巴瘤
+t(11;14)(q13;q32)易位,strongly_supports,套细胞淋巴瘤
+t(11;14)(q13;q32)融合信号,strongly_supports,套细胞淋巴瘤
+β2-微球蛋白 4.9 mg/L,supports,病理：未特指的滤泡性淋巴瘤
+β2-微球蛋白 4.9 mg/L（↑）,supports,病理：未特指的滤泡性淋巴瘤
+β2-微球蛋白 8.4 mg/L,supports,病理：未特指的滤泡性淋巴瘤
+β2-微球蛋白升高,supports,弥漫大B细胞淋巴瘤
+β2-微球蛋白升高,supports,病理：未特指的滤泡性淋巴瘤
+β2-微球蛋白升高,supports,套细胞淋巴瘤
+β2-微球蛋白升高（3.8 mg/L）,supports,弥漫大B细胞淋巴瘤
+β2-微球蛋白升高（3.9mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+β2-微球蛋白升高（4.1 mg/L）,supports,弥漫大B细胞淋巴瘤
+β2-微球蛋白升高（4.2mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+β2-微球蛋白升高（4.4 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+β2-微球蛋白升高（4.6 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+β2-微球蛋白升高（5.2 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+β2-微球蛋白升高（6.6 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+β2-微球蛋白升高（8.9 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+β2-微球蛋白轻度升高,supports,病理：未特指的滤泡性淋巴瘤
+β2-微球蛋白：3.1 mg/L,supports,弥漫大B细胞淋巴瘤
+β2-微球蛋白：3.5 mg/L,supports,病理：未特指的滤泡性淋巴瘤
+β2-微球蛋白：3.8 mg/L,supports,弥漫大B细胞淋巴瘤
+β2微球蛋白 3.8 mg/L（↑）,supports,弥漫大B细胞淋巴瘤
+β2微球蛋白 3.8 mg/L（↑）,supports,套细胞淋巴瘤
+β2微球蛋白 3.9 mg/L（↑）,supports,弥漫大B细胞淋巴瘤
+β2微球蛋白 3.9mg/L,supports,弥漫大B细胞淋巴瘤
+β2微球蛋白 4.1 mg/L,supports,套细胞淋巴瘤
+β2微球蛋白 4.2 mg/L,supports,弥漫大B细胞淋巴瘤
+β2微球蛋白 5.8 mg/L,supports,套细胞淋巴瘤
+β2微球蛋白4.8mg/L,supports,套细胞淋巴瘤
+β2微球蛋白升高,supports,弥漫大B细胞淋巴瘤
+β2微球蛋白升高,supports,病理：未特指的滤泡性淋巴瘤
+β2微球蛋白升高,supports,套细胞淋巴瘤
+β2微球蛋白升高（3.6mg/L）,supports,套细胞淋巴瘤
+β2微球蛋白升高（3.8 mg/L）,supports,弥漫大B细胞淋巴瘤
+β2微球蛋白升高（3.9 mg/L）,supports,套细胞淋巴瘤
+β2微球蛋白升高（4.1mg/L）,supports,弥漫大B细胞淋巴瘤
+β2微球蛋白升高（4.2 mg/L）,supports,套细胞淋巴瘤
+β2微球蛋白升高（4.2mg/L）,supports,弥漫大B细胞淋巴瘤
+β2微球蛋白升高（4.2mg/L）,supports,套细胞淋巴瘤
+β2微球蛋白升高（4.76 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+β2微球蛋白升高（4.8mg/L）,supports,弥漫大B细胞淋巴瘤
+β2微球蛋白升高（6.21 mg/L）,supports,弥漫大B细胞淋巴瘤
+β2微球蛋白显著升高,supports,病理：未特指的滤泡性淋巴瘤
+β2微球蛋白（β2-MG）升高,supports,弥漫大B细胞淋巴瘤
+β2微球蛋白（β2-MG）升高,supports,病理：未特指的滤泡性淋巴瘤
+β₂微球蛋白升高（3.8 mg/L）,supports,弥漫大B细胞淋巴瘤
+β₂微球蛋白升高（4.1 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+上呼吸道感染,increases_risk_of,慢性淋巴结炎
+上呼吸道感染,increases_risk_of,非特异性肠系膜淋巴结炎
+上呼吸道感染反复发作,increases_risk_of,非特异性肠系膜淋巴结炎
+上呼吸道感染反复发作（近半年4–5次）,increases_risk_of,非特异性肠系膜淋巴结炎
+上呼吸道感染史,increases_risk_of,非特异性肠系膜淋巴结炎
+上呼吸道感染史（咽痛、流涕、低热）,increases_risk_of,非特异性肠系膜淋巴结炎
+上呼吸道感染后反应性淋巴结增生,needs_differentiation_from,病理：未特指的滤泡性淋巴瘤
+上呼吸道感染病史（咽痛、流涕）,increases_risk_of,非特异性肠系膜淋巴结炎
+上呼吸道感染（咽痛、流涕）,increases_risk_of,非特异性肠系膜淋巴结炎
+上呼吸道感染（咽痛、流清涕、低热）,increases_risk_of,非特异性肠系膜淋巴结炎
+上火,increases_risk_of,慢性淋巴结炎
+上腹部CT：巨脾及脾梗死,supports,病理：未特指的滤泡性淋巴瘤
+与肺结核患者密切接触史,increases_risk_of,结核性周围淋巴结病
+中学时期曾有同学患肺结核,increases_risk_of,结核性周围淋巴结病
+中性粒细胞比例89.8%（↑）,supports,急性淋巴结炎
+中性粒细胞比例升高,supports,急性淋巴结炎
+中性粒细胞比例升高（80.6%）,supports,急性淋巴结炎
+中性粒细胞比例升高（80.9%）,supports,急性淋巴结炎
+中性粒细胞比例升高（82.5%）,supports,急性淋巴结炎
+中性粒细胞比例升高（82.8%）,supports,急性淋巴结炎
+中性粒细胞比例升高（83.1%）,supports,急性淋巴结炎
+中性粒细胞比例升高（84.0%）,supports,急性淋巴结炎
+中性粒细胞比例升高（84.1%）,supports,急性淋巴结炎
+中性粒细胞比例升高（84.3%）,supports,急性淋巴结炎
+中性粒细胞比例升高（84.7%）,supports,急性淋巴结炎
+中性粒细胞比例升高（85.4%）,supports,急性淋巴结炎
+中性粒细胞比例升高（86.7%）,supports,急性淋巴结炎
+中性粒细胞比例升高（88.0%）,supports,急性淋巴结炎
+中性粒细胞比例升高（90.0%）,supports,急性淋巴结炎
+中性粒细胞比例升高（90.4%）,supports,急性淋巴结炎
+中性粒细胞比例升高（90.8%）,supports,急性淋巴结炎
+中性粒细胞比例升高（91.2%）,supports,急性淋巴结炎
+中性粒细胞比率升高（70.2%）,supports,慢性淋巴结炎
+中性粒细胞百分比升高（73%）,supports,结核性周围淋巴结病
+中性粒细胞计数升高（10.4×10⁹/L）,supports,结核性周围淋巴结病
+Pel-Ebstein热型,has_typical_symptom,弥漫大B细胞淋巴瘤
+上呼吸道感染反复发作（每年4–5次）,increases_risk_of,非特异性肠系膜淋巴结炎
+体力透支,increases_risk_of,慢性淋巴结炎
+反复头皮皮脂腺囊肿,increases_risk_of,急性淋巴结炎
+吞咽不适,has_typical_symptom,急性淋巴结炎
+头皮小囊肿反复发作史,increases_risk_of,急性淋巴结炎
+家中通风条件差,increases_risk_of,结核性周围淋巴结病
+居住环境拥挤,increases_risk_of,结核性周围淋巴结病
+抓挠足癣病灶,increases_risk_of,急性淋巴结炎
+搔抓后皮肤破溃,increases_risk_of,慢性淋巴结炎
+无B症状（盗汗、体重下降、瘙痒）,supports,慢性淋巴结炎
+无不明原因体重下降,supports,慢性淋巴结炎
+淋雨,increases_risk_of,慢性淋巴结炎
+淋雨后上呼吸道感染,increases_risk_of,慢性淋巴结炎
+疲劳,increases_risk_of,慢性淋巴结炎
+睡眠不足,increases_risk_of,慢性淋巴结炎
+过度劳累,increases_risk_of,慢性淋巴结炎
+乙状结肠、直肠多发溃疡,supports,套细胞淋巴瘤
+乳酸脱氢酶升高,supports,弥漫大B细胞淋巴瘤
+乳酸脱氢酶升高,supports,病理：未特指的滤泡性淋巴瘤
+乳酸脱氢酶升高,supports,套细胞淋巴瘤
+乳酸脱氢酶升高（257 U/L）,supports,病理：未特指的滤泡性淋巴瘤
+乳酸脱氢酶升高（848 U/L）,supports,弥漫大B细胞淋巴瘤
+乳酸脱氢酶升高（LDH 501 U/L）,supports,弥漫大B细胞淋巴瘤
+乳酸脱氢酶显著升高（LDH 1019 U/L）,supports,套细胞淋巴瘤
+乳酸脱氢酶（LDH）231 U/L,supports,套细胞淋巴瘤
+乳酸脱氢酶（LDH）升高（310 U/L）,supports,病理：未特指的滤泡性淋巴瘤
+乳酸脱氢酶（LDH）升高（467 U/L）,supports,病理：未特指的滤泡性淋巴瘤
+乳酸脱氢酶（LDH）升高（555U/L）,supports,弥漫大B细胞淋巴瘤
+亲属曾患肺结核,increases_risk_of,结核性周围淋巴结病
+低氯血症,supports,弥漫大B细胞淋巴瘤
+低钠血症,supports,弥漫大B细胞淋巴瘤
+体质偏弱、饮食欠规律,increases_risk_of,结核性周围淋巴结病
+体质偏弱，易患感冒,increases_risk_of,非特异性肠系膜淋巴结炎
+体质较弱，易患感冒,increases_risk_of,非特异性肠系膜淋巴结炎
+体重下降,has_typical_symptom,病理：未特指的滤泡性淋巴瘤
+侵袭性胸腺瘤,needs_differentiation_from,弥漫大B细胞淋巴瘤
+"免疫组化（骨髓）：Cyclin D1(强+), CD5(+), CD23(-), CD10(-), BCL6(-), Ki-67(56%)",strongly_supports,套细胞淋巴瘤
+免疫组化：BCL-2(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：BCL-2(+),strongly_supports,套细胞淋巴瘤
+免疫组化：BCL-2(+),supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：BCL-2(+)(约85%),strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：BCL-2(+), BCL-6(生发中心+), CD10(部分+), CD20(部分+)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：BCL-2(>90%+)、CD10(+)、BCL6(+)、MUM1(部分弱+)、Ki-67约34%(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：BCL-2(强+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：BCL-2(强+)、CD10(+)、BCL-6(+)、MUM1(部分+)、κ轻链限制性表达,strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：BCL-2(强+, 80–90%)",strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：BCL-2及c-MYC双表达,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：BCL-2强阳性(>90%),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：BCL-2强阳性（80–90%）,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：BCL-2强阳性（>90%），Ki-67增殖指数约38%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：BCL-6(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：BCL-6(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：BCL-6(-),strongly_supports,套细胞淋巴瘤
+免疫组化：BCL-6(散在+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：BCL2(+ 50%-60%),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：BCL2(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：BCL2(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：BCL2(+),strongly_supports,套细胞淋巴瘤
+免疫组化：BCL2(+++)，BCL6(++)，CD10(+)，CD20(+++)，CD3(-)，CD43(+)，CD79a(++)，Ki67(80%)，CD21(++)，CD5(-)，CyclinD1(-),strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：BCL2(+, 50%~60%)",strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：BCL2(20%+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：BCL2(70-85%+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：BCL2(约85%+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：BCL2（+，>90%）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：BCL6(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：BCL6(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：BCL6(+),supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：BCL6(+, 80%)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：BCL6(-),strongly_supports,套细胞淋巴瘤
+免疫组化：BCL6(-),supports,套细胞淋巴瘤
+免疫组化：Bcl-2(+)、Bcl-6(+)、CD10(+)、CD20(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：C-MYC(+，5%-10%),strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：C-myc(+, 约40%)",strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CCND1(+),strongly_supports,套细胞淋巴瘤
+免疫组化：CD10(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD10(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD10(+),strongly_supports,套细胞淋巴瘤
+免疫组化：CD10(+),supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD10(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD10(-),strongly_supports,套细胞淋巴瘤
+免疫组化：CD10(-),supports,套细胞淋巴瘤
+免疫组化：CD10(-)、BCL6(+)、MUM1(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD10(散在+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD10（部分+）,strongly_supports,套细胞淋巴瘤
+免疫组化：CD19(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD19(+)、CD5(+)、CD20(强+)、CD23(-)、CD10(-)、FMC7(+)、sIgM(+)、κ轻链限制性表达,strongly_supports,套细胞淋巴瘤
+免疫组化：CD20(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD20(+),strongly_supports,套细胞淋巴瘤
+免疫组化：CD20(+),supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD20(+),supports,套细胞淋巴瘤
+免疫组化：CD20(+) CD5(+) Cyclin D1(强+) SOX11(强+) CD23(-) CD10(-) BCL6(-) MUM1(+),strongly_supports,套细胞淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL-6(+), BCL-2(+), MUM-1(+)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL-6(+), BCL-2(70–85%+), MUM1(弱+)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL-6(+), BCL-2(强+, >90%), MUM1(弱+), Ki-67(约5%)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL-6(+), MUM-1(-), BCL-2(强+, >90%), Ki-67(约5%)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL-6(+), MUM1(-), BCL-2(强+)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), BCL-2(>90%+)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), BCL-2(强+), MUM1(-)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), BCL-2(强+), MUM1(-), Ki-67(34%)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), BCL-2(滤泡内+)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), BCL-2(约70–85%+), MUM1(部分+), Ki-67约33%",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), BCL-2(约70–85%+), MUM1(部分弱+), Ki-67约31%",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), BCL-2强阳性（>90%）, MUM1弱阳性, Ki-67约8%",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), BCL2(70–85%), Ki-67(25%)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), BCL2(>90%+), Ki-67(43%)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), BCL2(>90%+), Ki-67(54%)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), BCL2(强+), MUM1(弱+), Ki-67(52%)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), BCL2(阳性率70–85%), MUM1(弱+), Ki-67(17%)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), BCL2强阳性(>90%)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), MUM1(-), BCL-2(+)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), MUM1(-), BCL-2(70%-85%+)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), MUM1(-), BCL-2强阳性（>90%）",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), MUM1(-), BCL2(+)(70–85%), Ki-67(55%)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), MUM1(-), BCL2(强+, 约70–85%), Ki-67(约28%)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), MUM1(-), BCL2(滤泡内+ 70-85%), Ki-67约15%",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), MUM1(-), BCL2(高表达)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), MUM1(-), BCL2强阳性（>90%）",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), MUM1(弱+), BCL-2(强+, >90%), Ki-67约9%",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), MUM1(弱+), BCL-2强阳性（>90%）, Ki-67约13%",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(+), BCL6(+), MUM1(部分弱+), BCL2强阳性（>90%）",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD10(-), MUM1(+)(约30%), BCL2(+), BCL6(+), Cyclin D1(-), CD5(-), C-myc(+)(约30%), Ki-67(80%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD19(+), PAX-5(+), BCL-6(+), MUM1(+), BCL-2(强+), Ki-67(89%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD19(+), PAX-5(+), CD3(-), CD5(-), CD10(-), BCL-6(+), MUM-1(+), BCL-2(+), c-MYC(-), P53(+), Ki-67增殖指数约95%",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD19(+), PAX5(+), CD3(-), CD5(-), CD10(-), BCL6(+), MUM1(+), BCL2(80-90%+), c-MYC(<40%+), P53(>70%+), Ki-67(81%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD5(+), CD23(-), CD10(-), BCL-2(+), BCL-6(-), SOX11(+)",strongly_supports,套细胞淋巴瘤
+"免疫组化：CD20(+), CD5(+), CD23(-), CD10(-), BCL2(+), BCL6(-), Cyclin D1(+)",strongly_supports,套细胞淋巴瘤
+"免疫组化：CD20(+), CD5(+), Cyclin D1(+), CD23(-), CD10(-), BCL-6(-), SOX11(-)",strongly_supports,套细胞淋巴瘤
+"免疫组化：CD20(+), CD5(+), Cyclin D1(+), SOX11(+), CD10(-), CD23(-), BCL-6(-), Ki-67(88%)",strongly_supports,套细胞淋巴瘤
+"免疫组化：CD20(+), CD5(+), Cyclin D1(+), SOX11(-), CD10(-), CD23(-), BCL-2(+), BCL-6(-)",strongly_supports,套细胞淋巴瘤
+"免疫组化：CD20(+), CD5(+), Cyclin D1(强+), CD10(-), BCL6(-), CD23(-), SOX11(-), Ki-67约50%",strongly_supports,套细胞淋巴瘤
+"免疫组化：CD20(+), CD5(+), Cyclin D1(强+), CD10(-), CD23(-), BCL2(+), BCL6(-), MUM1(+)",strongly_supports,套细胞淋巴瘤
+"免疫组化：CD20(+), CD5(+), Cyclin D1(强+), CD23(-), CD10(-), BCL-6(-), SOX11(+), Ki-67(58%)",strongly_supports,套细胞淋巴瘤
+"免疫组化：CD20(+), CD5(+), Cyclin D1(强+), CD23(-), CD10(-), BCL6(-), SOX11(-)",strongly_supports,套细胞淋巴瘤
+"免疫组化：CD20(+), CD5(+), Cyclin D1(强+), SOX11(强+), CD10(-), CD23(-), BCL-6(-), MUM-1(+)",strongly_supports,套细胞淋巴瘤
+"免疫组化：CD20(+), CD5(+), Cyclin D1(强+), SOX11(强+), CD23(-), CD10(-), BCL6(-)",strongly_supports,套细胞淋巴瘤
+"免疫组化：CD20(+), CD79a(+), CD10(+), BCL6(+), CD3(-), CD5(-), CD38(-), IgD(-), Cyclin D1(-)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD79a(+), PAX-5(+), BCL-2(强+), Ki-67(92%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD79a(+), PAX-5(+), BCL-6(+), MUM-1(+), BCL-2(+), Ki-67(81%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD79a(+), PAX-5(+), CD19(+), CD3(-), CD5(-), CD10(-), BCL-6(+), MUM-1(+), BCL-2(+), c-MYC(-), Ki-67增殖指数约68%, CyclinD1(-), EBER(-)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD79a(+), PAX-5(+), CD19(+), CD3(-), CD5(-), CD10(-), BCL-6(+), MUM-1(+), BCL-2(85%+), c-MYC(<30%+), Ki-67(67%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD79a(+), PAX5(+), BCL-2(+), Ki-67(96%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD79a(+), PAX5(+), BCL-2(+), Ki-67约69%",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD79a(+), PAX5(+), BCL-2(+), Ki-67约98%",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD79a(+), PAX5(+), BCL2(+), BCL6(+), Ki-67约70%",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(+), CD79a(+), PAX5(+), BCL2(+), Ki-67(+)（增殖指数约73%）",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD79a(+), PAX5(+), CD3(-), CD5(-), CD10(-), BCL6(+), MUM1(+), BCL2(+), Ki-67(76%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD79a(+), PAX5(+), CD3(-), CD5(-), CD10(-), BCL6(+), MUM1(+), BCL2(+), Ki-67(83%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD79a(+), PAX5(+), CD3(-), CD5(-), CD10(-), BCL6(+), MUM1(+), BCL2(+), Ki-67(89%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD79a(+), PAX5(+), CD3(-), CD5(-), CD10(-), BCL6(+), MUM1(+), BCL2(+), Ki-67增殖指数约93%",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD79a(+), PAX5(+), CD3(-), CD5(-), CD10(-), BCL6(+), MUM1(+), BCL2(+), Ki-67增殖指数约96%",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD79a(+), PAX5(+), CD3(-), CD5(-), CD10(-), BCL6(+), MUM1(+), BCL2(+), Ki-67约73%(+)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), CD79a(+), PAX5(+), CD3(-), CD5(-), CD10(-), BCL6(+), MUM1(+), BCL2(+), Ki-67约89%",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), Ki-67(+, 约80%), BCL-2(+), BCL-6(+), C-MYC(+, 约20%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), PAX-5(+), CD19(+), CD3(-), CD5(-), BCL-6(+), MUM-1(+), BCL-2(强+), c-MYC(弱+), P53(>60%+), Ki-67(90%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), PAX-5(+), CD19(+), CD3(-), CD5(-), BCL-6(+), MUM-1(+), BCL-2(强+), c-MYC(弱+), P53(>60%+), Ki-67(94%), EBER1/2-ISH(-), CyclinD1(-)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), PAX-5(+), CD19(+), CD3(-), CD5(-), BCL-6(+), MUM-1(+), BCL-2(强+), c-MYC(弱+), P53(>60%+), Ki-67(95%), EBER1/2-ISH(-), CyclinD1(-)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), PAX-5(+), CD19(+), CD3(-), CD5(-), BCL-6(+), MUM1(+), BCL-2(强+), C-MYC(弱+), P53(>60%+), Ki-67(67%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), PAX5(+), CD19(+), CD3(-), CD5(-), BCL6(+), MUM1(+), BCL2(强+), MYC(弱+), P53(>60%), Ki-67(91%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+), PAX5(+), CD19(+), CD3(-), CD5(-), BCL6(+), MUM1(+), BCL2(强+), c-MYC(弱+), P53(>60%+), Ki-67(97%)",strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+)、CD10(+)、BCL-2(+)、BCL-6(+)、CD21(+)、CD3(-)、CD5(-)、BCL-1(-),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD20(+)、CD10(+)、BCL-6(+)、BCL-2强阳性(>90%)、MUM1(弱+)、Ki-67约31%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD20(+)、CD10(+)、BCL6(+)、BCL-2(70–85%+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD20(+)、CD10(+)、BCL6(+)、BCL2(70–85%+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD20(+)、CD10(+)、BCL6(+)、MUM1(弱+)、BCL2(70–85%+)、Ki-67(31%),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD20(+)、CD10(+)、BCL6(+)、MUM1弱(+)、BCL-2（>90%+）、Ki-67约30%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD20(+)、CD19(+)、PAX5(+)、CD3(-)、CD5(-)、CD10(-)、BCL6(+)、MUM1(+)、BCL2强阳性（80–90%）、c-MYC弱阳性（<40%）、Ki-67增殖指数约98%、P53突变型表达（>70%）、TdT(-)、EBER1/2-ISH(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+)、CD19(+)、Pax-5(+)、CD3(-)、CD5(-)、CD10(-)、BCL-6(+)、MUM1(+)、BCL-2强阳性、c-MYC弱阳性、Ki-67约68%,strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(+)、CD19(+)、Pax-5(+)、CD3(-)、CD5(-)、CD10(-)、BCL6(+)、MUM1(+)、BCL-2(强+, 80–90%)、c-MYC(弱+, <40%)、P53(>70%)、Ki-67(92%)",strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+)、CD5(+)、Cyclin D1(+)、CD23(-)、CD10(-)、BCL6(-)、Ki-67(+)（37%）、SOX11(+),strongly_supports,套细胞淋巴瘤
+免疫组化：CD20(+)、CD5(+)、Cyclin D1(+)、CD23(-)、CD10(-)、BCL6(-)、SOX11(-),strongly_supports,套细胞淋巴瘤
+免疫组化：CD20(+)、CD5(+)、Cyclin D1(强+)、CD23(-)、CD10(-)、BCL-6(-),strongly_supports,套细胞淋巴瘤
+免疫组化：CD20(+)、CD5(+)、Cyclin D1(强+)、SOX11(+)、CD10(-)、CD23(-)、BCL-2(+)、BCL-6(-)、Ki-67约49%,strongly_supports,套细胞淋巴瘤
+免疫组化：CD20(+)、CD5(+)、Cyclin D1(强+)、SOX11(+)、CD10(-)、CD23(-)、BCL-2(+)、BCL-6(-)、MUM1(+),strongly_supports,套细胞淋巴瘤
+免疫组化：CD20(+)、CD5(+)、Cyclin D1(强+)、SOX11(+)、CD23(-)、CD10(-)、BCL-6(-)、Ki-67增殖指数76%,strongly_supports,套细胞淋巴瘤
+免疫组化：CD20(+)、CD5(+)、Cyclin D1(强+)、SOX11(+)、CD23(-)、CD10(-)、BCL6(-)、MUM1(+),strongly_supports,套细胞淋巴瘤
+免疫组化：CD20(+)、CD5(+)、Cyclin D1强(+)、CD23(-)、CD10(-)、BCL2(+)、BCL6(-)、SOX11强(+),strongly_supports,套细胞淋巴瘤
+免疫组化：CD20(+)、CD5(+)、Cyclin D1强阳性、CD10(-)、CD23(-)、BCL-2(+)、BCL-6(-)、Ki-67增殖指数约75%,strongly_supports,套细胞淋巴瘤
+免疫组化：CD20(+)、CD5(+)、Cyclin D1（强+）、CD23(-)、CD10(-)、BCL6(-)、SOX11(+),strongly_supports,套细胞淋巴瘤
+免疫组化：CD20(+)、CD5(+)、CyclinD1(强+)、SOX11(+)、CD10(-)、CD23(-)、BCL6(-),strongly_supports,套细胞淋巴瘤
+免疫组化：CD20(+)、CD79a(+)、PAX5(+)、BCL6(+)、MUM1(+)、BCL-2(+)、Ki-67增殖指数约85%,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+)、CD79a(+)、PAX5(+)、CD10(-)、BCL-6(部分+)、MUM-1(+)、BCL-2(+)、Ki-67(约88%),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+)、CD79a(+)、PAX5(+)、CD10(-)、BCL6(+)、MUM1(+)、BCL2(+)、Ki-67约75%,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+)、PAX-5(+)、BCL-6(+)、BCL-2(+)、CD3(+)、CD5(+)、CD21(+)、MUM1(+)、Ki-67(30%)、CD10(-)、Cyclin D1(-),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD20(+)、PAX5(+)、CD19(+)、CD3(-)、BCL6(+)、MUM1(+)、BCL2(强+)、Ki-67(77%),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+)弥漫强阳性,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+)（弥漫强），CD10(-)，BCL-6(+)，MUM1(+)，BCL-2(+)（约85%），Ki-67(+)（约76%）,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+)（弥漫强），CD79a(+)，PAX-5(+)，CD19(+)，CD3(-)，CD5(-)，CD10(-)，BCL-6(+)，MUM1(+)，BCL-2(+)（约85%），c-MYC(+)（<30%），Ki-67(+)（约79%），CyclinD1(-)，EBER(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+)（弥漫），CD19(+)，PAX5(+)，CD3(-)，CD10(-)，BCL6(+)，MUM1(+)，BCL2(+)（75%），MYC(+)（20%），Ki-67(+)（98%）,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+)（强），CD79a(+)，PAX5(+)，CD19(+)，CD3(-)，CD5(-)，CD10(-)，BCL6(+)，MUM1(+)，BCL2(+)（80%），C-MYC(+)（<25%），Ki-67(+)（约89%）,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+)，CD10(+)，BCL-6(+)，BCL-2 70–85%(+)，Ki-67约11%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD20(+)，CD10(+)，BCL6(+)，BCL2(强+，>90%)，MUM1(弱+)，Ki-67(约50%),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD20(+)，CD10(+)，BCL6(+)，MUM1(-)，BCL2(强+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD20(+)，CD19(+)，PAX5(+)，CD3(-)，CD10(-)，BCL6(+)，MUM1(+)，BCL2(75%+)，MYC(20%+)，Ki-67(72%),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+)，CD5(+)，CyclinD1强(+)，CD23(-)，CD10(-)，BCL-6(-)，SOX11(-)，Ki-67增殖指数约49%,strongly_supports,套细胞淋巴瘤
+免疫组化：CD20(+)，CD79a(+)，PAX5(+)，BCL2(+)，Ki-67(+)（约83%）,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+)，CD79a(+)，PAX5(+)，BCL2(+)，Ki67约78%,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+)，CD79a(+)，PAX5(+)，BCL6(+)，MUM1(+)，BCL2(+)，Ki-67(69%),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(+)，PAX5(+)，CD10(+)，BCL6(+)，BCL2(+)，CD30(+)，MUM1(+)，p53(+)（散在），C-MYC(+)（约5%），CD21(+)（FDC网），Ki-67(+)（约30%）；CD3(-)，CD15(-)，ALK(-)，EMA(-),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD20(+++),strongly_supports,套细胞淋巴瘤
+"免疫组化：CD20(+++), CD79a(+++), BCL2(++), CD5(-), cyclin D1(-), CD117(-), CD23a(红系+), CD61(巨核系+), MPO(粒系+), CD38/CD138(散在或小簇+), κ/λ(个别+), CD10(+), BCL6(-), MUM1(-), CD21(-), Ki-67(20%)，符合滤泡性淋巴瘤（FL）",strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD20(+++)，CD79a(+)，PAX-5(+)，CD19(+)，CD3(-)，CD5(-)，CD10(-)，BCL-6(+)，MUM-1(+)，BCL-2(80%+)，c-MYC(<25%+)，Ki-67(85%+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(-)、CD10(-)、BCL6(-)，旁观者免疫母细胞EBER-ISH(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+"免疫组化：CD20(弥漫+), CD19(+), PAX5(+), CD3(-), CD10(-), BCL6(+), MUM1(+), BCL2(75%), MYC(20%), Ki-67(82%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(弥漫+), CD19(+), PAX5(+), CD3(-), CD10(-), BCL6(+), MUM1(+), BCL2(75%+), MYC(20%+), Ki-67(69%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(弥漫+), CD19(+), PAX5(+), CD3(-), CD10(-), BCL6(+), MUM1(+), BCL2(75%+), MYC(20%+), Ki-67(75%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(弥漫+), CD19(+), PAX5(+), CD3(-), CD10(-), BCL6(+), MUM1(+), BCL2(75%+), MYC(20%+), Ki-67(89%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(弥漫+), CD19(+), PAX5(+), CD3(-), CD10(-), BCL6(+), MUM1(+), BCL2(75%+), MYC(20%+), Ki-67(90%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(弥漫+), CD19(+), PAX5(+), CD3(-), CD10(-), BCL6(+), MUM1(+), BCL2(75%+), MYC(20%+), Ki-67(95%)",strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(弥漫+)、CD19(+)、PAX5(+)、CD3(-)、CD10(-)、BCL6(+)、MUM1(+)、BCL2(75%+)、MYC(20%+)、Ki-67(82%)、CyclinD1(-)、TdT(-)、EBER(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(弥漫+)，CD19(+)，PAX5(+)，CD3(-)，CD10(-)，BCL6(+)，MUM1(+)，BCL2(75%+)，MYC(20%+)，Ki-67(74%),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(弥漫+)，CD19(+)，PAX5(+)，CD3(-)，CD10(-)，BCL6(+)，MUM1(+)，BCL2(约75%+)，MYC(约20%+)，Ki-67(约78%+)，CyclinD1(-)，TdT(-)，EBER(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(弥漫强+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(弥漫强+) CD79a(+) PAX5(+) CD10(-) BCL6(+) MUM1(+) BCL-2(85%+) C-MYC(<40%+) Ki-67(86%+),strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(弥漫强+), CD10(-), BCL6(+), MUM1(+), BCL-2(约85%+), Ki-67(约93%+)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(弥漫强+), CD10(-), BCL6(+), MUM1(+), BCL2(约85%+), Ki-67(约69%+)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(弥漫强+), CD3(-), CD5(-), CD10(-), BCL6(+), MUM1(+), BCL2(85%+), Ki-67(88%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20(弥漫强+), CD79a(+), PAX5(+), CD19(+), CD3(-), CD5(-), CD10(-), BCL6(+), MUM1(+), BCL2(85%+), c-MYC(<30%+), Ki-67(69%), CyclinD1(-), EBER(-)",strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(弥漫强+)、CD79a(+)、CD10(-)、BCL6(+)、MUM1(+)、BCL-2(约85%+)、Ki-67(约70%+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(弥漫强+)，CD10(-)，BCL6(+)，MUM1(+)，BCL-2(约85%+)，Ki-67(约73%+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(弥漫强+)，CD3(-)，CD5(-)，CD10(-)，BCL6(+)，MUM1(+)，BCL-2(约85%+)，Ki-67(约66%+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(强+)、CD79a(+)、PAX5(+)、CD19(+)、CD3(-)、CD5(-)、CD10(-)、BCL6(+)、MUM1(+)、BCL2(80%+)、c-MYC(<25%+)、Ki-67约82%(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20(强+)，CD79a(+)，PAX5(+)，CD19(+)，CD3(-)，CD5(-)，CD10(-)，BCL6(+)，MUM1(+)，BCL2(80%+)，MYC(<25%+)，Ki-67(67%)，CyclinD1(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20弥漫强(+),strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：CD20弥漫强(+), CD10(-), BCL6(+), MUM1(+), BCL2约85%(+), Ki-67(+)（增殖指数约84%）",strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20弥漫强(+)，CD79a(+)，PAX-5(+)，CD19(+)，CD3(-)，CD5(-)，CD10(-)，BCL-6(+)，MUM-1(+)，BCL-2约85%(+)，c-MYC<30%(+)，Ki-67增殖指数约65%，CyclinD1(-)，EBER(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD20（弥漫强+），CD10（-），BCL6（+），MUM1（+），BCL-2（约85%+），Ki-67（约78%+）,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD21(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD21(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD21(-),strongly_supports,套细胞淋巴瘤
+免疫组化：CD21(FDC+),supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD21（+）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD22(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD23(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD23(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD23(-),strongly_supports,套细胞淋巴瘤
+免疫组化：CD23(-),supports,套细胞淋巴瘤
+"免疫组化：CD3(+), CD20(+), CD79a(+), BCL2(+)",strongly_supports,套细胞淋巴瘤
+免疫组化：CD3(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD3(-),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD3(-),strongly_supports,套细胞淋巴瘤
+免疫组化：CD3(-)，CD20(+)，CD10(+)，BCL-2(+)，BCL-6(+)，CD21(FDC+)，Ki-67(50%+)，MUM-1(-)，CD30(-)，p53(部分+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD30(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD43(+),strongly_supports,套细胞淋巴瘤
+免疫组化：CD43(+++),strongly_supports,套细胞淋巴瘤
+免疫组化：CD5(+),strongly_supports,套细胞淋巴瘤
+"免疫组化：CD5(+), CD23(-)",strongly_supports,套细胞淋巴瘤
+"免疫组化：CD5(+), CD23(-), CD10(-)",strongly_supports,套细胞淋巴瘤
+"免疫组化：CD5(+), CD23(-), CD10(-)",supports,套细胞淋巴瘤
+"免疫组化：CD5(+), CD23(-), CD10(-), BCL6(-)",strongly_supports,套细胞淋巴瘤
+"免疫组化：CD5(+), CD23(-), CD10(-), BCL6(-), FMC7(+)",strongly_supports,套细胞淋巴瘤
+免疫组化：CD5(+)、CD20(+)、FMC7(+)、CD23(-)、CD10(-)、CD200(-)，κ轻链限制性表达,supports,套细胞淋巴瘤
+免疫组化：CD5(+)、CD23(-)、FMC7(+)、sIg(强+),supports,套细胞淋巴瘤
+免疫组化：CD5(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD5(-),strongly_supports,套细胞淋巴瘤
+免疫组化：CD5（+++）,strongly_supports,套细胞淋巴瘤
+免疫组化：CD79a(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CD79a(+),supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CD79a(+++),strongly_supports,套细胞淋巴瘤
+免疫组化：CD79a(弥漫+),strongly_supports,套细胞淋巴瘤
+免疫组化：CK(-),strongly_supports,套细胞淋巴瘤
+免疫组化：Cam5.2(-),strongly_supports,套细胞淋巴瘤
+免疫组化：Cyclin D1(+),strongly_supports,套细胞淋巴瘤
+免疫组化：Cyclin D1(+)、CD5(+)、CD20(+)、CD23(-)、CD10(-)、BCL6(-)、BCL2(+)、MUM1(+),strongly_supports,套细胞淋巴瘤
+免疫组化：Cyclin D1(+++),strongly_supports,套细胞淋巴瘤
+免疫组化：Cyclin D1(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Cyclin D1(-),supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：Cyclin D1(弥漫+),strongly_supports,套细胞淋巴瘤
+免疫组化：Cyclin D1(强+),strongly_supports,套细胞淋巴瘤
+"免疫组化：Cyclin D1(强+), CD5(+), CD23(-), CD10(-), BCL2(+), BCL6(-)",strongly_supports,套细胞淋巴瘤
+"免疫组化：Cyclin D1(强+), SOX11(+), Ki-67增殖指数57%",strongly_supports,套细胞淋巴瘤
+免疫组化：Cyclin D1(强+)、CD5(+)、CD23(-)、CD10(-)、BCL2(+)、BCL6(-)、Ki-67(80%),strongly_supports,套细胞淋巴瘤
+免疫组化：Cyclin D1(强+)、SOX11(强+)、Ki-67(44%),strongly_supports,套细胞淋巴瘤
+免疫组化：Cyclin D1(强+)，SOX11(强+)，Ki-67(71%),strongly_supports,套细胞淋巴瘤
+"免疫组化：Cyclin D1(强+, 核着色)",strongly_supports,套细胞淋巴瘤
+免疫组化：Cyclin D1(强+，核+),strongly_supports,套细胞淋巴瘤
+免疫组化：Cyclin D1强阳性,strongly_supports,套细胞淋巴瘤
+免疫组化：Cyclin D1强阳性（核着色）,strongly_supports,套细胞淋巴瘤
+免疫组化：Cyclin D1（强+）,strongly_supports,套细胞淋巴瘤
+免疫组化：CyclinD1(+),strongly_supports,套细胞淋巴瘤
+免疫组化：CyclinD1(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：CyclinD1(-),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：CyclinD1(强+),strongly_supports,套细胞淋巴瘤
+免疫组化：CyclinD1强(+),strongly_supports,套细胞淋巴瘤
+免疫组化：CyclinD1强阳性,strongly_supports,套细胞淋巴瘤
+免疫组化：EBER(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：EBER1/2(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：EBER1/2(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：FMC7(+),strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67(+),strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67(+)（47%）,strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67(+)（52%）,supports,套细胞淋巴瘤
+免疫组化：Ki-67(+)（60%～70%）,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67(+)（90%）,strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67(+)（约30%）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：Ki-67(+)（约68%）,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67(+)（约82%）,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67(+)（约85%）,strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：Ki-67(+, 50%-60%)",strongly_supports,弥漫大B细胞淋巴瘤
+"免疫组化：Ki-67(+, 约70%)",strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67(15%~25%),supports,套细胞淋巴瘤
+免疫组化：Ki-67(24%),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：Ki-67(30%),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：Ki-67(30%),supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：Ki-67(38%),supports,套细胞淋巴瘤
+免疫组化：Ki-67(50%),strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67(50–60%+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67(53%),strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67(53%),supports,套细胞淋巴瘤
+免疫组化：Ki-67(70%-80%),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67(71%),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67(74%),strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67(76%),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67(78%),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67(80%),strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67(85%),strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67(85%),supports,套细胞淋巴瘤
+免疫组化：Ki-67(86%),strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67(90%+),supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：Ki-67(<10%),supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：Ki-67(约40%),supports,套细胞淋巴瘤
+免疫组化：Ki-67(约80%),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67增殖指数54%,supports,套细胞淋巴瘤
+免疫组化：Ki-67增殖指数84%,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67增殖指数88%,strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67增殖指数88%,supports,套细胞淋巴瘤
+免疫组化：Ki-67增殖指数>80%,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67增殖指数约26%,strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67增殖指数约27%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：Ki-67增殖指数约30%,supports,套细胞淋巴瘤
+免疫组化：Ki-67增殖指数约33%,supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：Ki-67增殖指数约39%,strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67增殖指数约40%,supports,套细胞淋巴瘤
+免疫组化：Ki-67增殖指数约45%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：Ki-67增殖指数约60%,supports,套细胞淋巴瘤
+免疫组化：Ki-67增殖指数约61%,strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67增殖指数约66%,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67增殖指数约68%,supports,套细胞淋巴瘤
+免疫组化：Ki-67增殖指数约89%,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67增殖指数约92%,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67增殖指数约93%,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67增殖指数约95%,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67增殖指数约96%,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67约35%，BCL-2（70–85%+），CD10(+)，BCL6(+)，MUM1灶性(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：Ki-67约36%(+),strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67约49%,strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67约67%(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67约69%,strongly_supports,套细胞淋巴瘤
+免疫组化：Ki-67约69%,supports,套细胞淋巴瘤
+免疫组化：Ki-67约74%(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Ki-67约76%(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：MUM-1(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：MUM-1(-),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：MUM1(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：MUM1(+),strongly_supports,套细胞淋巴瘤
+"免疫组化：MUM1(+, 30%–40%)",strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：MUM1(-),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：MUM1(-),strongly_supports,套细胞淋巴瘤
+免疫组化：MUM1（部分+）,strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：P53(+)(约40%),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：P53(>70%+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：PAX-5(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：PAX5(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：PAX5(+),supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：PCK(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：Pax-5(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：SOX11(+),strongly_supports,套细胞淋巴瘤
+免疫组化：SOX11(+)（强）,strongly_supports,套细胞淋巴瘤
+免疫组化：SOX11(+++),strongly_supports,套细胞淋巴瘤
+免疫组化：SOX11(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：SOX11(-),strongly_supports,套细胞淋巴瘤
+免疫组化：SOX11(-),supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：SOX11(-),supports,套细胞淋巴瘤
+免疫组化：SOX11(强+),strongly_supports,套细胞淋巴瘤
+免疫组化：SOX11(部分+),strongly_supports,套细胞淋巴瘤
+免疫组化：TdT(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：c-MYC(+),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：c-MYC弱+(<40%),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：c-Myc(+)(约20%),strongly_supports,弥漫大B细胞淋巴瘤
+免疫组化：cyclin D1(+),strongly_supports,套细胞淋巴瘤
+"免疫组化：κ(+), λ(灶+)",strongly_supports,套细胞淋巴瘤
+免疫组化：κ轻链限制性表达,supports,套细胞淋巴瘤
+免疫组化：低级别B细胞淋巴瘤，倾向滤泡性淋巴瘤（1级）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：肿瘤性淋巴滤泡异常表达CD10和Bcl-2,strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫组化：肿瘤细胞表达CD20(+)、CD10(+)、Bcl-6(+)、Bcl-2(+)，CD21示滤泡树突细胞网呈环状包绕滤泡，Ki-67阳性指数较低,strongly_supports,病理：未特指的滤泡性淋巴瘤
+免疫表型：CD20(+)/CD5(+)/Cyclin D1(+),strongly_supports,套细胞淋巴瘤
+免疫表型：CD20(+)、CD5(+)、CD23(-)、CD10(-)、BCL6(-),strongly_supports,套细胞淋巴瘤
+免疫表型：CD20+、CD5+、CD23-、CD10-、BCL6-、FMC7+、sIgM+,strongly_supports,套细胞淋巴瘤
+免疫表型：CD45(+)、CD20(+)、CD19(+)、CD3(-)、CD5(-)、CD30(-)、CD10(-)、BCL6(+)、MUM1(+)、BCL2(+)（约80–90%）、c-MYC(+)（<10%）、Cyclin D1(-)、CD23(-)、TdT(-)、P53(+)（约80%）、PD-1(-)、Ki-67/MIB-1(+)（约90%）、EBER1/2-ISH(-),strongly_supports,弥漫大B细胞淋巴瘤
+免疫表型：CD5(+),strongly_supports,套细胞淋巴瘤
+免疫表型：CD5(+),supports,套细胞淋巴瘤
+"免疫表型：CD5(+), CD23(-), CD10(-), FMC7(+)",supports,套细胞淋巴瘤
+"免疫表型：CD5(+), CD23(-), CD10(-), FMC7(+), sIgM(+)",supports,套细胞淋巴瘤
+"免疫表型：CD5(+), CD23(-), CD10(-), FMC7(+), sIgM(+), κ轻链限制性表达",supports,套细胞淋巴瘤
+免疫表型：CD5(+)/CD23(-)/CD10(-)/Cyclin D1(+),strongly_supports,套细胞淋巴瘤
+免疫表型：CD5(-),supports,病理：未特指的滤泡性淋巴瘤
+全腹增强CT示多发淋巴结肿大（短径1.2–1.8cm，轻度均匀强化）,supports,病理：未特指的滤泡性淋巴瘤
+全腹增强CT示脾大伴多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+全身多发淋巴结肿大（CT）,supports,套细胞淋巴瘤
+全身多发肿大淋巴结伴FDG代谢异常增高（SUVmax 6.2）,supports,病理：未特指的滤泡性淋巴瘤
+全身多发高代谢淋巴结（SUVmax 18.6）,supports,弥漫大B细胞淋巴瘤
+全身多部位肿大淋巴结（CT），考虑淋巴瘤,supports,病理：未特指的滤泡性淋巴瘤
+全身影像学检查示多发淋巴结肿大、脾大,supports,病理：未特指的滤泡性淋巴瘤
+其他特殊类型淋巴瘤（如MYD88突变型、CD79b突变型等）,needs_differentiation_from,弥漫大B细胞淋巴瘤
+其他：夏季湿热,increases_risk_of,慢性淋巴结炎
+内镜：直肠及乙状结肠粘膜颗粒状改变,supports,弥漫大B细胞淋巴瘤
+内镜：直肠隆起，淋巴瘤？,supports,病理：未特指的滤泡性淋巴瘤
+内镜：胃窦至空肠近端多发结节样隆起,supports,套细胞淋巴瘤
+分子检测：EBER原位杂交(-),strongly_supports,弥漫大B细胞淋巴瘤
+分子检测：EBER原位杂交(-),supports,弥漫大B细胞淋巴瘤
+分子检测：EBER原位杂交(-),supports,病理：未特指的滤泡性淋巴瘤
+分子检测：FISH t(14;18)(-),supports,病理：未特指的滤泡性淋巴瘤
+分子检测：IGH/CCND1融合信号,strongly_supports,套细胞淋巴瘤
+分子检测：IGH/CCND1融合信号阳性,strongly_supports,套细胞淋巴瘤
+分子检测：IGK克隆性扩增,strongly_supports,弥漫大B细胞淋巴瘤
+分子检测：IgH及Igκ克隆性扩增,strongly_supports,弥漫大B细胞淋巴瘤
+分子检测：bcl-2基因断裂，存在染色体易位,strongly_supports,病理：未特指的滤泡性淋巴瘤
+"分子检测：t(11;14)(q13;q32), CCND1-IGH(+)",strongly_supports,套细胞淋巴瘤
+分子检测：t(11;14)(q13;q32)易位,strongly_supports,套细胞淋巴瘤
+分子检测：t(11;14)(q13;q32)易位(+),strongly_supports,套细胞淋巴瘤
+分子检测：t(14;18)(q32;q21) BCL2/IgH融合基因(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+分子检测：单克隆IgH基因重排,strongly_supports,套细胞淋巴瘤
+"分子病理：BCL2基因重排, BCL6基因重排",strongly_supports,病理：未特指的滤泡性淋巴瘤
+前纵隔8.5×6.2cm软组织肿块伴上腔静脉受压,supports,弥漫大B细胞淋巴瘤
+前纵隔巨大占位,supports,弥漫大B细胞淋巴瘤
+前纵隔巨大占位（8.5×6.2 cm软组织肿块，边界不清，包绕上腔静脉及主动脉弓）,supports,弥漫大B细胞淋巴瘤
+前纵隔巨大软组织肿块,supports,弥漫大B细胞淋巴瘤
+前纵隔软组织肿块,supports,弥漫大B细胞淋巴瘤
+功能性消化不良,needs_differentiation_from,病理：未特指的滤泡性淋巴瘤
+加班熬夜,increases_risk_of,慢性淋巴结炎
+劳累,increases_risk_of,慢性淋巴结炎
+化脓性淋巴结炎,needs_differentiation_from,结核性周围淋巴结病
+十二指肠降部多发结节状隆起,supports,病理：未特指的滤泡性淋巴瘤
+单核细胞计数升高,supports,病理：未特指的滤泡性淋巴瘤
+卡介苗接种史,increases_risk_of,结核性周围淋巴结病
+卡介苗接种史不详,increases_risk_of,结核性周围淋巴结病
+双侧腋窝及腹股沟淋巴结彩超：多枚低回声结节，最大1.5cm×1.0cm，形态规则，边界清晰，皮髓质分界尚清，可见典型‘淋巴门’高回声结构，内部血流信号较丰富，呈门型分布，未见液化坏死区或钙化灶,supports,慢性淋巴结炎
+双侧腘窝皮肤苔藓化伴脱屑,increases_risk_of,慢性淋巴结炎
+双侧颈部多发淋巴结肿大（CT）,supports,病理：未特指的滤泡性淋巴瘤
+双侧颈部多发肿大淋巴结伴回声及血流改变（超声）,supports,弥漫大B细胞淋巴瘤
+反复上呼吸道感染,increases_risk_of,非特异性肠系膜淋巴结炎
+反复上呼吸道感染史,increases_risk_of,非特异性肠系膜淋巴结炎
+反复发作右足癣,increases_risk_of,急性淋巴结炎
+反复发作的局部小结节病史,increases_risk_of,急性淋巴结炎
+反复咳嗽史（未系统诊治）,increases_risk_of,结核性周围淋巴结病
+反复头皮小囊肿并自行挤压史,increases_risk_of,急性淋巴结炎
+受凉,increases_risk_of,慢性淋巴结炎
+受凉,increases_risk_of,急性淋巴结炎
+受凉、感冒或过度劳累,increases_risk_of,慢性淋巴结炎
+口腔检查：右下第一磨牙深龋伴根尖周感染,increases_risk_of,慢性淋巴结炎
+口腔：卫生较差,increases_risk_of,慢性淋巴结炎
+口腔：深龋（36#牙）,increases_risk_of,慢性淋巴结炎
+右上肺钙化灶及磨玻璃影,supports,结核性周围淋巴结病
+右下第一恒磨牙龋坏伴牙髓感染,increases_risk_of,慢性淋巴结炎
+右下第一磨牙深龋伴慢性根尖周炎,increases_risk_of,慢性淋巴结炎
+右侧下颌第二磨牙重度龋坏伴反复脓性分泌物,increases_risk_of,慢性淋巴结炎
+右侧头皮皮脂腺囊肿继发感染,increases_risk_of,急性淋巴结炎
+右侧腋窝淋巴结肿大（彩超）,supports,弥漫大B细胞淋巴瘤
+右侧腹股沟淋巴结低回声结节融合成团，皮髓质分界不清，淋巴门消失，内部血流丰富,supports,急性淋巴结炎
+右侧腹股沟淋巴结低回声结节融合，皮髓质分界模糊，淋巴门偏心或消失，内部血流丰富,supports,急性淋巴结炎
+右侧腹股沟淋巴结彩超示低回声结节（32×26 mm，皮髓质分界模糊，淋巴门受压变形，血流丰富，RI 0.72）,supports,急性淋巴结炎
+右侧腹股沟淋巴结彩超示低回声结节（皮髓质分界模糊，淋巴门受压变形，血流丰富，“火海征”）,supports,急性淋巴结炎
+右侧腹股沟淋巴结彩超：淋巴结肿大，结构异常,supports,弥漫大B细胞淋巴瘤
+右侧腹股沟淋巴结超声：低回声结节，形态规则，边界清晰，皮髓质分界清，可见淋巴门结构,supports,慢性淋巴结炎
+右侧腹股沟淋巴结超声：多个融合性低回声结节，皮髓质分界模糊，淋巴门消失，血流信号丰富（‘火海征’）,supports,急性淋巴结炎
+右侧颈部淋巴结结核,strongly_supports,结核性周围淋巴结病
+右侧颈部淋巴结超声示多个低回声结节融合伴液化坏死,supports,结核性周围淋巴结病
+右侧颈部淋巴结超声：多枚低回声结节融合成团，内部液化坏死,supports,结核性周围淋巴结病
+右侧颈部超声：淋巴结内部液化坏死,supports,结核性周围淋巴结病
+右大腿内侧湿疹继发感染,increases_risk_of,慢性淋巴结炎
+右肺上叶点状钙化灶（陈旧性结核改变）,increases_risk_of,结核性周围淋巴结病
+右腋下淋巴结活检病理：弥漫性异型大淋巴样细胞浸润，免疫组化CD20(+),strongly_supports,弥漫大B细胞淋巴瘤
+右腋窝淋巴结穿刺活检病理：弥漫性异型大淋巴样细胞浸润，CD20(+)，CD19(+)，PAX5(+)，CD3(-)，CD10(-)，BCL6(+)，MUM1(+)，BCL2(75%+)，MYC(20%+)，Ki-67(83%),strongly_supports,弥漫大B细胞淋巴瘤
+右足第3-4趾间浸渍发白、表皮剥脱、少量浆液渗出，符合间擦型足癣表现,increases_risk_of,急性淋巴结炎
+右足被铁钉刺伤未处理,increases_risk_of,急性淋巴结炎
+右锁骨上淋巴结活检示肉芽肿性炎伴干酪样坏死,strongly_supports,结核性周围淋巴结病
+右颈淋巴结切除活检病理：非霍奇金淋巴瘤，倾向套细胞来源,strongly_supports,套细胞淋巴瘤
+同村有肺结核患者（非密切接触）,increases_risk_of,结核性周围淋巴结病
+咽充血,manifests_as,非特异性肠系膜淋巴结炎
+咽充血,supports,非特异性肠系膜淋巴结炎
+咽痛、流涕等上呼吸道感染症状,increases_risk_of,非特异性肠系膜淋巴结炎
+咽部不适,has_typical_symptom,慢性淋巴结炎
+咽部感染,increases_risk_of,急性淋巴结炎
+咽部感染（如急性扁桃体炎）,increases_risk_of,急性淋巴结炎
+咽部灼痛,has_typical_symptom,急性淋巴结炎
+咽部疼痛,increases_risk_of,急性淋巴结炎
+咽部黏膜充血,supports,慢性淋巴结炎
+咽部黏膜弥漫性充血,manifests_as,急性淋巴结炎
+回盲瓣区域黏膜皱襞增粗、僵硬,supports,病理：未特指的滤泡性淋巴瘤
+回盲瓣区黏膜下大量异型淋巴细胞浸润，呈滤泡样结构,strongly_supports,病理：未特指的滤泡性淋巴瘤
+回盲瓣区黏膜固有层及黏膜下层小至中等淋巴样细胞浸润，呈滤泡样结构,strongly_supports,病理：未特指的滤泡性淋巴瘤
+回盲瓣区黏膜粗糙、僵硬,supports,病理：未特指的滤泡性淋巴瘤
+回盲部及肠系膜代谢增高灶（SUVmax 8.2）,supports,病理：未特指的滤泡性淋巴瘤
+回盲部及肠系膜代谢增高灶（SUVmax 8.6）,supports,病理：未特指的滤泡性淋巴瘤
+回盲部活检病理示滤泡样结构淋巴样细胞增生,strongly_supports,病理：未特指的滤泡性淋巴瘤
+回盲部活检病理：黏膜下见大量异型淋巴细胞浸润，呈滤泡样结构,strongly_supports,病理：未特指的滤泡性淋巴瘤
+回盲部活检示滤泡样结构伴轻-中度异型性，免疫组化：CD20(+)、CD10(+)、BCL6(+)、MUM1(部分+)、BCL-2弥漫强阳性（70–85%），Ki-67增殖指数约30%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+回盲部肠壁不均匀增厚,supports,病理：未特指的滤泡性淋巴瘤
+回盲部肠壁不均匀增厚伴周围多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+回盲部肠壁不均匀增厚伴周围肠系膜多发淋巴结肿大（CT表现）,supports,病理：未特指的滤泡性淋巴瘤
+回盲部肠壁不均匀增厚伴肠系膜多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+"回盲部黏膜活检病理：滤泡样结构淋巴样细胞浸润，免疫组化CD20(+), CD10(+), BCL6(+), BCL2(70–85%+), Ki-67(7%), FISH检测：t(14;18)(+)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+回肠末段管壁增厚伴代谢增高,supports,弥漫大B细胞淋巴瘤
+基因重排：IgH、IgK克隆性扩增,strongly_supports,弥漫大B细胞淋巴瘤
+增强CT示双侧腹股沟及髂血管旁多发软组织密度影（最大短径1.8 cm，轻度均匀强化）,supports,病理：未特指的滤泡性淋巴瘤
+增强CT示多发淋巴结肿大伴融合,supports,套细胞淋巴瘤
+增强CT示多发肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+增强CT：双侧腹股沟、髂血管旁多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+增强CT：双侧腹股沟、髂血管旁多发淋巴结肿大，最大短径约1.8cm，边界清，密度均匀,supports,病理：未特指的滤泡性淋巴瘤
+增强CT：双侧腹股沟及髂血管旁多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+增强CT：右侧颈部Ⅱ-Ⅳ区多发肿大融合淋巴结,supports,弥漫大B细胞淋巴瘤
+增强CT：多区域融合性淋巴结肿大,supports,弥漫大B细胞淋巴瘤
+增强CT：纵隔、肠系膜区多发肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+增强CT：脾脏轻度增大,supports,病理：未特指的滤泡性淋巴瘤
+增强CT：腹膜后融合包块约5cm,supports,病理：未特指的滤泡性淋巴瘤
+增强CT：颈部、纵隔、腹膜后多区域淋巴结受累,supports,病理：未特指的滤泡性淋巴瘤
+增强CT：颈部多发肿大淋巴结（最大约3cm）,supports,病理：未特指的滤泡性淋巴瘤
+外周血CD19+、CD20+、CD5+ B细胞克隆性扩增,supports,套细胞淋巴瘤
+外周血不典型淋巴细胞增多,supports,套细胞淋巴瘤
+外周血可见不典型淋巴细胞,supports,套细胞淋巴瘤
+外周血异型淋巴细胞（5%）,supports,套细胞淋巴瘤
+外周血异常B细胞群（CD19+ CD20+ CD5+ CD23− CD10− FMC7+ sIgM+ κ限制性）,supports,套细胞淋巴瘤
+外周血流式未见异常B细胞克隆,supports,套细胞淋巴瘤
+"外周血流式细胞术：CD19(+), CD20(+), CD5(+), CD23(-), CD10(-), FMC7(+)",supports,套细胞淋巴瘤
+外周血流式细胞术：CD19(+)、CD20(+)、CD5(+)、CD23(-)、FMC7(+)、CD10(-)、CD200(-),supports,套细胞淋巴瘤
+外周血流式细胞术：CD19(+)、CD5(+)、CD20(dim)、CD23(-)、CD10(-)、FMC7(+)，κ轻链限制性表达,strongly_supports,套细胞淋巴瘤
+外周血流式细胞术：CD19+、CD20+、CD5+、FMC7+、CD10-、CD23-,supports,套细胞淋巴瘤
+外周血流式细胞术：CD19+、CD5+、CD20+dim、CD23-、FMC7+、sIg+，κ轻链限制性表达,supports,套细胞淋巴瘤
+外周血流式细胞术：单克隆B细胞群（CD19+、CD20+、CD5+、CD23-、FMC7+、sIg弱+）,strongly_supports,套细胞淋巴瘤
+外周血流式细胞术：单克隆B细胞群（CD19+、CD20+、CD5+、FMC7+、CD10-、CD23-）,supports,套细胞淋巴瘤
+外周血流式细胞术：异常B淋巴细胞群表达CD19、CD20、CD5、FMC7、Cyclin D1，不表达CD10、CD23、CD103，κ轻链限制性表达,strongly_supports,套细胞淋巴瘤
+外周血流式细胞术：异常B细胞群占7.3%，CD19+、CD20+、CD5+、CD23-、CD10-、FMC7+、sIgM+，κ轻链限制性表达,supports,套细胞淋巴瘤
+"外周血流式：CD5(+), CD19(+), CD20(+), CD23(-), CD10(-) 单克隆B细胞",supports,套细胞淋巴瘤
+外周血涂片见异型淋巴细胞,supports,病理：未特指的滤泡性淋巴瘤
+外周血涂片：少量不典型小淋巴细胞，胞浆少、核染色质致密,supports,套细胞淋巴瘤
+外周血涂片：少量不典型淋巴细胞,supports,套细胞淋巴瘤
+外周血涂片：少量异常淋巴细胞，部分核呈裂隙状,supports,套细胞淋巴瘤
+外周血涂片：核形不规则的小至中等淋巴细胞,supports,套细胞淋巴瘤
+外周血淋巴细胞免疫表型：CD19 64.1%、CD22 69.8%、CD20 79%、FMC7 51%、λ轻链99%阳性；CD5 27.3%弱阳性，CD10/CD23/CD103/CD25/CD38/ZAP70阴性,supports,套细胞淋巴瘤
+外周血淋巴细胞增多,supports,套细胞淋巴瘤
+外周血淋巴细胞比例升高,supports,套细胞淋巴瘤
+外周血淋巴细胞比例升高（68%）,supports,套细胞淋巴瘤
+外周血淋巴细胞轻度升高,supports,套细胞淋巴瘤
+外周血：不典型淋巴细胞,supports,套细胞淋巴瘤
+外用糖皮质激素,increases_risk_of,急性淋巴结炎病情加重
+多发小结节样隆起,supports,套细胞淋巴瘤
+多发肠系膜淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+多发肠系膜淋巴结肿大,supports,套细胞淋巴瘤
+头皮小囊肿反复发作,increases_risk_of,急性淋巴结炎
+头皮毛囊炎（原发病灶）,increases_risk_of,急性淋巴结炎
+头皮皮脂腺囊肿破溃感染,increases_risk_of,急性淋巴结炎
+头皮皮脂腺囊肿继发感染,increases_risk_of,急性淋巴结炎
+学业压力大、作息不规律,increases_risk_of,结核性周围淋巴结病
+学业压力大、作息紊乱,increases_risk_of,结核性周围淋巴结病
+实验室检查：B细胞绝对计数为0 cell/μL,supports,弥漫大B细胞淋巴瘤
+实验室检查：CRP 18.90mg/L（↑）,supports,非特异性肠系膜淋巴结炎
+实验室检查：CRP 8.9 mg/L（参考值<10 mg/L）,supports,慢性淋巴结炎
+实验室检查：CRP升高,supports,慢性淋巴结炎
+实验室检查：CRP升高(22mg/L),supports,结核性周围淋巴结病
+实验室检查：CRP升高(47.9mg/L),supports,急性淋巴结炎
+实验室检查：CRP升高（17.3 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：CRP升高（24.2 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：CRP升高（34.4 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：CRP升高（54.5 mg/L）,supports,急性淋巴结炎
+实验室检查：CRP显著升高（93.5 mg/L）,supports,急性淋巴结炎
+实验室检查：CRP正常（2.8 mg/L）,supports,慢性淋巴结炎
+实验室检查：CRP正常（3.8 mg/L）,supports,慢性淋巴结炎
+实验室检查：CRP轻度升高,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：CRP轻度升高,supports,结核性周围淋巴结病
+实验室检查：CRP轻度升高（22 mg/L）,supports,结核性周围淋巴结病
+实验室检查：C反应蛋白<5 mg/L,supports,非特异性肠系膜淋巴结炎
+实验室检查：C反应蛋白升高（25.2 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：C反应蛋白升高（42.7 mg/L）,supports,急性淋巴结炎
+实验室检查：C反应蛋白升高（89.0 mg/L）,supports,急性淋巴结炎
+实验室检查：C反应蛋白显著升高（47.8 mg/L）,supports,急性淋巴结炎
+实验室检查：C反应蛋白轻度升高（11.4 mg/L）,supports,慢性淋巴结炎
+实验室检查：C反应蛋白轻度升高（12.0 mg/L）,supports,结核性周围淋巴结病
+实验室检查：EB病毒DNA(+),increases_risk_of,弥漫大B细胞淋巴瘤
+实验室检查：ESR 28 mm/h,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：ESR升高（52 mm/h）,supports,结核性周围淋巴结病
+实验室检查：ESR增快,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：ESR增快,supports,结核性周围淋巴结病
+实验室检查：ESR明显增快（58mm/h）,supports,结核性周围淋巴结病
+实验室检查：ESR明显增快（68mm/h）,supports,结核性周围淋巴结病
+实验室检查：ESR显著升高,supports,结核性周围淋巴结病
+实验室检查：ESR显著升高（68 mm/h）,supports,结核性周围淋巴结病
+实验室检查：Hb 105 g/L,supports,弥漫大B细胞淋巴瘤
+实验室检查：Hb 82g/L,supports,弥漫大B细胞淋巴瘤
+实验室检查：Hb 97g/L,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：Hb 98g/L,supports,套细胞淋巴瘤
+实验室检查：LDH 1477 U/L,supports,弥漫大B细胞淋巴瘤
+实验室检查：LDH 318U/L,supports,弥漫大B细胞淋巴瘤
+实验室检查：LDH 483 U/L,supports,套细胞淋巴瘤
+实验室检查：LDH 524 U/L,supports,弥漫大B细胞淋巴瘤
+实验室检查：LDH 999 U/L（↑）,supports,弥漫大B细胞淋巴瘤
+实验室检查：LDH升高(1411U/L),supports,弥漫大B细胞淋巴瘤
+实验室检查：LDH升高(261.3U/L),supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：LDH升高（1101 U/L）,supports,弥漫大B细胞淋巴瘤
+实验室检查：LDH升高（1384 U/L）,supports,弥漫大B细胞淋巴瘤
+实验室检查：LDH升高（1482 U/L）,supports,弥漫大B细胞淋巴瘤
+实验室检查：LDH升高（1564U/L）,supports,弥漫大B细胞淋巴瘤
+实验室检查：LDH升高（345U/L）,supports,弥漫大B细胞淋巴瘤
+实验室检查：LDH升高（346 U/L）,supports,弥漫大B细胞淋巴瘤
+实验室检查：LDH升高（473U/L）,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：LDH升高（615 U/L）,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：LDH升高（625U/L）,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：LDH升高（866U/L）,supports,弥漫大B细胞淋巴瘤
+实验室检查：LDH升高（909 U/L）,supports,弥漫大B细胞淋巴瘤
+实验室检查：LDH升高（914 U/L）,supports,套细胞淋巴瘤
+实验室检查：LDH显著升高,supports,弥漫大B细胞淋巴瘤
+实验室检查：LDH显著升高,supports,套细胞淋巴瘤
+实验室检查：LDH显著升高（1608 U/L）,supports,弥漫大B细胞淋巴瘤
+实验室检查：N% 82.9%（↑）,supports,非特异性肠系膜淋巴结炎
+实验室检查：PCT 1.8ng/mL（↑）,supports,急性淋巴结炎
+实验室检查：WBC 15.1×10⁹/L（↑），N% 91.9%（↑）,supports,急性淋巴结炎
+实验室检查：WBC升高（14.36×10⁹/L）,supports,结核性周围淋巴结病
+实验室检查：WBC升高（18.9×10⁹/L）,supports,急性淋巴结炎
+实验室检查：WBC正常（9.2×10⁹/L），中性粒正常（65%），CRP正常（<5 mg/L）,supports,非特异性肠系膜淋巴结炎
+实验室检查：WBC正常，中性粒细胞比例轻度升高，CRP正常,supports,慢性淋巴结炎
+实验室检查：β2-MG 3.8mg/L,supports,弥漫大B细胞淋巴瘤
+实验室检查：β2-微球蛋白 5.9 mg/L,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：β2-微球蛋白 8.6 mg/L（↑）,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：β2-微球蛋白升高(4.1mg/L),supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：β2-微球蛋白升高(4.5mg/L),supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：β2-微球蛋白升高（4.3 mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：β2-微球蛋白升高（6.0mg/L）,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：β2-微球蛋白显著增高,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：β2-微球蛋白轻度升高,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：β2微球蛋白 3.8 mg/L,supports,套细胞淋巴瘤
+实验室检查：β2微球蛋白升高（3.1 mg/L）,supports,弥漫大B细胞淋巴瘤
+实验室检查：β2微球蛋白升高（3.9 mg/L）,supports,套细胞淋巴瘤
+实验室检查：β2微球蛋白升高（4.2 mg/L）,supports,弥漫大B细胞淋巴瘤
+实验室检查：β2微球蛋白升高（5.57 mg/L）,supports,弥漫大B细胞淋巴瘤
+实验室检查：中性粒细胞比例升高(87.3%),supports,急性淋巴结炎
+实验室检查：中性粒细胞比例升高(89.4%),supports,急性淋巴结炎
+实验室检查：中性粒细胞比例升高（85.1%）,supports,急性淋巴结炎
+实验室检查：中性粒细胞比例升高（89.9%）,supports,急性淋巴结炎
+实验室检查：中性粒细胞比例升高（90.1%）,supports,急性淋巴结炎
+实验室检查：中性粒细胞比例升高（91.3%）,supports,急性淋巴结炎
+实验室检查：全血淀粉样蛋白 25.23mg/L,supports,急性淋巴结炎
+实验室检查：外周血异型淋巴细胞（8%）,supports,套细胞淋巴瘤
+实验室检查：外周血见异型淋巴细胞,supports,套细胞淋巴瘤
+实验室检查：抗酸染色(+),strongly_supports,结核性周围淋巴结病
+实验室检查：淋巴细胞比例增高,supports,慢性淋巴结炎
+实验室检查：白细胞计数3.15×10⁹/L,supports,套细胞淋巴瘤
+实验室检查：白细胞计数、中性粒细胞比例及CRP均正常,supports,慢性淋巴结炎
+实验室检查：白细胞计数升高(19.8×10⁹/L),supports,急性淋巴结炎
+实验室检查：白细胞计数升高（13.5×10⁹/L），中性粒细胞比例升高（89.9%）,supports,急性淋巴结炎
+实验室检查：白细胞计数升高（17.4×10⁹/L）,supports,急性淋巴结炎
+实验室检查：白细胞计数及中性粒细胞比例正常，CRP正常,supports,慢性淋巴结炎
+实验室检查：白细胞计数正常，CRP正常,supports,非特异性肠系膜淋巴结炎
+实验室检查：白蛋白降低,supports,弥漫大B细胞淋巴瘤
+实验室检查：白蛋白降低,supports,套细胞淋巴瘤
+实验室检查：血小板减少,supports,弥漫大B细胞淋巴瘤
+实验室检查：血小板减少,supports,病理：未特指的滤泡性淋巴瘤
+实验室检查：血小板减少,supports,套细胞淋巴瘤
+实验室检查：血常规及CRP正常,supports,慢性淋巴结炎
+实验室检查：血常规正常,supports,慢性淋巴结炎
+实验室检查：血常规正常（WBC 9.8×10⁹/L，N 58%，CRP <5mg/L）,supports,非特异性肠系膜淋巴结炎
+实验室检查：血常规（WBC 5.3×10⁹/L，N 60.3%，L 32.1%，CRP 1.8mg/L）,supports,慢性淋巴结炎
+实验室检查：血常规（WBC 9.2×10⁹/L，N 58%，L 34%），CRP <5 mg/L,supports,非特异性肠系膜淋巴结炎
+实验室检查：血沉显著增快（58mm/h）,supports,结核性周围淋巴结病
+实验室检查：血红蛋白 92 g/L,supports,弥漫大B细胞淋巴瘤
+实验室检查：贫血（Hb 92 g/L）,supports,弥漫大B细胞淋巴瘤
+实验室检查：足部皮肤KOH镜检见菌丝,supports,急性淋巴结炎
+实验室检查：铁蛋白>3000 ng/mL,supports,弥漫大B细胞淋巴瘤
+家中有亲属曾患肺结核,increases_risk_of,结核性周围淋巴结病
+家乡为结核高发区,increases_risk_of,结核性周围淋巴结病
+家族中叔父曾患肺结核,increases_risk_of,结核性周围淋巴结病
+家族中有肺痨病史,increases_risk_of,结核性周围淋巴结病
+家族史：肺结核（叔父）,increases_risk_of,结核性周围淋巴结病
+密切接触肺结核患者（同宿舍工友）,increases_risk_of,结核性周围淋巴结病
+小肠壁增厚,supports,套细胞淋巴瘤
+居住于结核高发区,increases_risk_of,结核性周围淋巴结病
+居住地为结核病高发区,increases_risk_of,结核性周围淋巴结病
+居住环境拥挤潮湿,increases_risk_of,结核性周围淋巴结病
+居住环境潮湿,increases_risk_of,结核性周围淋巴结病
+左侧腹股沟淋巴结活检病理：弥漫性大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+左侧腹股沟淋巴结活检：滤泡样结构，中心细胞为主，中心母细胞≤15/HPF，符合滤泡性淋巴瘤1-2级,strongly_supports,病理：未特指的滤泡性淋巴瘤
+左侧锁骨上淋巴结肿大,supports,结核性周围淋巴结病
+左侧颈部低回声结节，形态椭圆形，淋巴结门结构清晰，血流信号不丰富,supports,慢性淋巴结炎
+左侧颈部淋巴结切除活检病理符合弥漫大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+左侧颈部淋巴结切除活检病理：弥漫性大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+左侧颈部淋巴结活检病理：弥漫大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+左侧颈部淋巴结活检：滤泡样增生，中心细胞为主，中心母细胞<15/HPF，符合滤泡性淋巴瘤1-2级,strongly_supports,病理：未特指的滤泡性淋巴瘤
+左腋下淋巴结穿刺活检病理：弥漫性大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+左腋窝淋巴结彩超示回声均匀，淋巴门结构完整，血流信号稀少,supports,慢性淋巴结炎
+左锁骨上淋巴结滤泡性淋巴瘤（Ⅱ级）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+左颈部淋巴结活检：滤泡样增生，中心细胞为主,strongly_supports,病理：未特指的滤泡性淋巴瘤
+干酪样坏死,strongly_supports,结核性周围淋巴结病
+干酪样坏死伴类上皮细胞及朗汉斯巨细胞,strongly_supports,结核性周围淋巴结病
+干酪样坏死伴类上皮细胞及朗汉斯巨细胞聚集,strongly_supports,结核性周围淋巴结病
+干酪样坏死伴类上皮细胞及朗汉斯巨细胞聚集，形成结核性肉芽肿,strongly_supports,结核性周围淋巴结病
+干酪样坏死伴结核性肉芽肿,strongly_supports,结核性周围淋巴结病
+干酪样坏死性肉芽肿,strongly_supports,结核性周围淋巴结病
+平时易感冒,increases_risk_of,非特异性肠系膜淋巴结炎
+年轻,increases_risk_of,结核性周围淋巴结病
+年轻时曾有‘肺部旧疾’未系统诊治,increases_risk_of,结核性周围淋巴结病
+年轻时曾有肺部旧疾,increases_risk_of,结核性周围淋巴结病
+年轻时肺部钙化灶,increases_risk_of,结核性周围淋巴结病
+幼年卡介苗接种史,increases_risk_of,结核性周围淋巴结病
+幼年曾接种卡介苗,increases_risk_of,结核性周围淋巴结病
+幼年结核病接触史,increases_risk_of,结核性周围淋巴结病
+幼年结核病接触史（邻居家老人患肺痨）,increases_risk_of,结核性周围淋巴结病
+幼年肺结核家族史,increases_risk_of,结核性周围淋巴结病
+幼年肺结核病史,increases_risk_of,结核性周围淋巴结病
+幼年肺门淋巴结钙化史,increases_risk_of,结核性周围淋巴结病
+幼时曾有肺结核家庭成员同住,increases_risk_of,结核性周围淋巴结病
+弥漫大B细胞淋巴瘤,has_typical_symptom,不规则发热
+弥漫大B细胞淋巴瘤,has_typical_symptom,上腹痛
+弥漫大B细胞淋巴瘤,has_typical_symptom,上腹隐痛
+弥漫大B细胞淋巴瘤,has_typical_symptom,不明原因体重下降
+弥漫大B细胞淋巴瘤,has_typical_symptom,乏力
+弥漫大B细胞淋巴瘤,has_typical_symptom,体重明显下降
+弥漫大B细胞淋巴瘤,has_typical_symptom,午后发热
+弥漫大B细胞淋巴瘤,has_typical_symptom,反复低热
+弥漫大B细胞淋巴瘤,has_typical_symptom,反复发热
+弥漫大B细胞淋巴瘤,has_typical_symptom,发热
+弥漫大B细胞淋巴瘤,has_typical_symptom,周期性高热
+弥漫大B细胞淋巴瘤,has_typical_symptom,声音嘶哑
+弥漫大B细胞淋巴瘤,has_typical_symptom,头部包块
+弥漫大B细胞淋巴瘤,has_typical_symptom,左上腹隐痛
+弥漫大B细胞淋巴瘤,has_typical_symptom,恶心
+弥漫大B细胞淋巴瘤,has_typical_symptom,显著乏力
+弥漫大B细胞淋巴瘤,has_typical_symptom,活动耐力显著减退
+弥漫大B细胞淋巴瘤,has_typical_symptom,消瘦
+弥漫大B细胞淋巴瘤,has_typical_symptom,皮肤瘙痒
+弥漫大B细胞淋巴瘤,has_typical_symptom,盗汗
+弥漫大B细胞淋巴瘤,has_typical_symptom,纳差
+弥漫大B细胞淋巴瘤,has_typical_symptom,肿块疼痛
+弥漫大B细胞淋巴瘤,has_typical_symptom,胸痛
+弥漫大B细胞淋巴瘤,has_typical_symptom,胸闷
+弥漫大B细胞淋巴瘤,has_typical_symptom,腹痛
+弥漫大B细胞淋巴瘤,has_typical_symptom,近期记忆下降
+弥漫大B细胞淋巴瘤,has_typical_symptom,进行性乏力
+弥漫大B细胞淋巴瘤,has_typical_symptom,进行性消瘦
+弥漫大B细胞淋巴瘤,has_typical_symptom,颈部肿物
+弥漫大B细胞淋巴瘤,has_typical_symptom,食欲下降
+弥漫大B细胞淋巴瘤,has_typical_symptom,食欲减退
+弥漫大B细胞淋巴瘤,has_typical_symptom,低热
+弥漫大B细胞淋巴瘤,has_typical_symptom,体重下降
+弥漫大B细胞淋巴瘤,has_typical_symptom,体重减轻
+弥漫大B细胞淋巴瘤,has_typical_symptom,体重进行性下降
+弥漫大B细胞淋巴瘤,has_typical_symptom,全身乏力
+弥漫大B细胞淋巴瘤,has_typical_symptom,全身倦怠
+弥漫大B细胞淋巴瘤,has_typical_symptom,午后低热
+弥漫大B细胞淋巴瘤,has_typical_symptom,厌油腻
+弥漫大B细胞淋巴瘤,has_typical_symptom,口干
+弥漫大B细胞淋巴瘤,has_typical_symptom,右侧肢体疼痛无力
+弥漫大B细胞淋巴瘤,has_typical_symptom,吞咽困难
+弥漫大B细胞淋巴瘤,has_typical_symptom,呃逆
+弥漫大B细胞淋巴瘤,has_typical_symptom,呕吐
+弥漫大B细胞淋巴瘤,has_typical_symptom,咳嗽
+弥漫大B细胞淋巴瘤,has_typical_symptom,喉咙痛
+弥漫大B细胞淋巴瘤,has_typical_symptom,夜间大汗
+弥漫大B细胞淋巴瘤,has_typical_symptom,夜间盗汗
+弥漫大B细胞淋巴瘤,has_typical_symptom,大便次数增多
+弥漫大B细胞淋巴瘤,has_typical_symptom,头晕
+弥漫大B细胞淋巴瘤,has_typical_symptom,小便赤黄
+弥漫大B细胞淋巴瘤,has_typical_symptom,干咳
+弥漫大B细胞淋巴瘤,has_typical_symptom,持续性低热
+弥漫大B细胞淋巴瘤,has_typical_symptom,持续性头晕
+弥漫大B细胞淋巴瘤,has_typical_symptom,持续高热
+弥漫大B细胞淋巴瘤,has_typical_symptom,排便困难
+弥漫大B细胞淋巴瘤,has_typical_symptom,无发热、盗汗、体重下降
+弥漫大B细胞淋巴瘤,has_typical_symptom,无痛性淋巴结肿大
+弥漫大B细胞淋巴瘤,has_typical_symptom,无痛性颈部肿块
+弥漫大B细胞淋巴瘤,has_typical_symptom,无痛性颈部肿物
+弥漫大B细胞淋巴瘤,has_typical_symptom,早饱感
+弥漫大B细胞淋巴瘤,has_typical_symptom,明显消瘦
+弥漫大B细胞淋巴瘤,has_typical_symptom,查体：无痛性颈部肿块
+弥漫大B细胞淋巴瘤,has_typical_symptom,气促
+弥漫大B细胞淋巴瘤,has_typical_symptom,活动后气促
+弥漫大B细胞淋巴瘤,has_typical_symptom,活动耐力下降
+弥漫大B细胞淋巴瘤,has_typical_symptom,畏寒
+弥漫大B细胞淋巴瘤,has_typical_symptom,腹泻
+弥漫大B细胞淋巴瘤,has_typical_symptom,腹胀
+弥漫大B细胞淋巴瘤,has_typical_symptom,腹胀进行性加重
+弥漫大B细胞淋巴瘤,has_typical_symptom,腹部隐痛
+弥漫大B细胞淋巴瘤,has_typical_symptom,血便
+弥漫大B细胞淋巴瘤,has_typical_symptom,认知功能下降
+弥漫大B细胞淋巴瘤,has_typical_symptom,说话表达不清
+弥漫大B细胞淋巴瘤,has_typical_symptom,进食后饱胀感
+弥漫大B细胞淋巴瘤,has_typical_symptom,间断低热
+弥漫大B细胞淋巴瘤,has_typical_symptom,间断高热
+弥漫大B细胞淋巴瘤,has_typical_symptom,面部肿胀
+弥漫大B细胞淋巴瘤,has_typical_symptom,颈部无痛性肿物
+弥漫大B细胞淋巴瘤,has_typical_symptom,颈部淋巴结增大
+弥漫大B细胞淋巴瘤,has_typical_symptom,颈部肿块
+弥漫大B细胞淋巴瘤,has_typical_symptom,黑便
+弥漫大B细胞淋巴瘤,manifests_as,CT/MRI：网膜囊及肠系膜散在絮状影
+弥漫大B细胞淋巴瘤,manifests_as,CT：腹盆腔散在积液
+弥漫大B细胞淋巴瘤,manifests_as,上腔静脉压迫综合征
+弥漫大B细胞淋巴瘤,manifests_as,上腔静脉受压
+弥漫大B细胞淋巴瘤,manifests_as,上腹压痛
+弥漫大B细胞淋巴瘤,manifests_as,上腹部不适
+弥漫大B细胞淋巴瘤,manifests_as,上腹部压痛
+弥漫大B细胞淋巴瘤,manifests_as,中上腹压痛
+弥漫大B细胞淋巴瘤,manifests_as,中上腹及脐周压痛
+弥漫大B细胞淋巴瘤,manifests_as,中上腹轻压痛
+弥漫大B细胞淋巴瘤,manifests_as,乏力
+弥漫大B细胞淋巴瘤,manifests_as,双手麻木
+弥漫大B细胞淋巴瘤,manifests_as,右侧颈部无痛性肿物
+弥漫大B细胞淋巴瘤,manifests_as,左侧偏头痛
+弥漫大B细胞淋巴瘤,manifests_as,消瘦
+弥漫大B细胞淋巴瘤,manifests_as,纳差
+弥漫大B细胞淋巴瘤,manifests_as,胸闷
+弥漫大B细胞淋巴瘤,manifests_as,颈部淋巴结进行性肿大
+弥漫大B细胞淋巴瘤,manifests_as,全身多发淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,全身多处淋巴结无痛性肿大
+弥漫大B细胞淋巴瘤,manifests_as,双下肢轻度凹陷性水肿
+弥漫大B细胞淋巴瘤,manifests_as,无痛性肿块
+弥漫大B细胞淋巴瘤,manifests_as,双手稍水肿
+弥漫大B细胞淋巴瘤,manifests_as,口唇苍白
+弥漫大B细胞淋巴瘤,manifests_as,右下腹压痛
+弥漫大B细胞淋巴瘤,manifests_as,右侧腋窝肿大淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,右侧腹股沟可扪及肿大淋巴结，活动度差，无压痛
+弥漫大B细胞淋巴瘤,manifests_as,右侧腹股沟多发肿大淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,右侧锁骨上淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,右侧颈部多发肿大淋巴结，质硬、活动度差
+弥漫大B细胞淋巴瘤,manifests_as,右侧颈部淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,右侧颈部肿大淋巴结，质韧、无压痛、活动度可
+弥漫大B细胞淋巴瘤,manifests_as,右腹股沟多发融合淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,咀嚼时疼痛加重
+弥漫大B细胞淋巴瘤,manifests_as,多发浅表淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,多发淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,多发融合性淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,左侧太阳穴压痛
+弥漫大B细胞淋巴瘤,manifests_as,左侧颈部多发淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,左侧颈部淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,左腋下肿大淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,左颈部多发融合淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,干咳
+弥漫大B细胞淋巴瘤,manifests_as,弥漫性腹部压痛
+弥漫大B细胞淋巴瘤,manifests_as,影像学：前纵隔占位性病变
+弥漫大B细胞淋巴瘤,manifests_as,影像学：纵隔巨大占位
+弥漫大B细胞淋巴瘤,manifests_as,影像学：胃肠道管壁增厚
+弥漫大B细胞淋巴瘤,manifests_as,影像学：腹膜后多发淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,影像：腹膜后淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,无痛性颈部肿块
+弥漫大B细胞淋巴瘤,manifests_as,查体/影像：多发肿大淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,查体：上腹压痛
+弥漫大B细胞淋巴瘤,manifests_as,查体：不流动且无法活动的肿块
+弥漫大B细胞淋巴瘤,manifests_as,查体：中上腹及左上腹深压痛
+弥漫大B细胞淋巴瘤,manifests_as,查体：中上腹及左上腹轻压痛
+弥漫大B细胞淋巴瘤,manifests_as,查体：中上腹及左下腹深压痛
+弥漫大B细胞淋巴瘤,manifests_as,查体：中上腹及脐周深压痛
+弥漫大B细胞淋巴瘤,manifests_as,查体：中上腹及脐周轻压痛
+弥漫大B细胞淋巴瘤,manifests_as,查体：中度贫血貌
+弥漫大B细胞淋巴瘤,manifests_as,查体：全身多发浅表淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,查体：双侧颈部多发肿大淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,查体：口唇略苍白
+弥漫大B细胞淋巴瘤,manifests_as,查体：右上肺呼吸音减弱
+弥漫大B细胞淋巴瘤,manifests_as,查体：右上腹及脐周轻压痛
+弥漫大B细胞淋巴瘤,manifests_as,查体：右侧腋窝淋巴结增大
+弥漫大B细胞淋巴瘤,manifests_as,查体：右侧颈部肿大淋巴结（质硬、边界不清、活动度差）
+弥漫大B细胞淋巴瘤,manifests_as,查体：右侧颈部质硬、边界欠清、活动度差淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,查体：右腋下肿大淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,查体：右腹股沟肿大淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,查体：左上腹压痛
+弥漫大B细胞淋巴瘤,manifests_as,查体：左上腹及中腹部轻压痛
+弥漫大B细胞淋巴瘤,manifests_as,查体：左上腹巨大包块
+弥漫大B细胞淋巴瘤,manifests_as,查体：左侧腋窝多发淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,查体：左脸颊、下颌骨和颈部迅速扩大的肿块
+弥漫大B细胞淋巴瘤,manifests_as,查体：左腋下无痛性肿块，质硬，活动度差
+弥漫大B细胞淋巴瘤,manifests_as,查体：左腋下无痛性肿物
+弥漫大B细胞淋巴瘤,manifests_as,查体：左腋窝质硬、边界不清、活动度差的淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,查体：左腹股沟肿大淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,查体：慢性病容
+弥漫大B细胞淋巴瘤,manifests_as,查体：无痛性颈部淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,查体：淋巴结质地硬
+弥漫大B细胞淋巴瘤,manifests_as,查体：淋巴结质硬、活动度差
+弥漫大B细胞淋巴瘤,manifests_as,查体：淋巴结质硬、边界不清、活动度差
+弥漫大B细胞淋巴瘤,manifests_as,查体：淋巴结质硬、边界不清、活动度差、融合成团
+弥漫大B细胞淋巴瘤,manifests_as,查体：皮肤红色斑疹
+弥漫大B细胞淋巴瘤,manifests_as,查体：皮肤黏膜苍白
+弥漫大B细胞淋巴瘤,manifests_as,查体：肝脏增大
+弥漫大B细胞淋巴瘤,manifests_as,查体：胆囊稍增大
+弥漫大B细胞淋巴瘤,manifests_as,查体：脾脏增大
+弥漫大B细胞淋巴瘤,manifests_as,查体：脾脏明显增大
+弥漫大B细胞淋巴瘤,manifests_as,查体：脾脏显著肿大
+弥漫大B细胞淋巴瘤,manifests_as,查体：脾脏肿大
+弥漫大B细胞淋巴瘤,manifests_as,查体：腹部膨胀
+弥漫大B细胞淋巴瘤,manifests_as,查体：腹部膨隆
+弥漫大B细胞淋巴瘤,manifests_as,查体：融合性淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,查体：质硬、活动度差的淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,查体：质韧、活动度好、部分融合的淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,查体：贫血貌
+弥漫大B细胞淋巴瘤,manifests_as,查体：轻度贫血貌
+弥漫大B细胞淋巴瘤,manifests_as,查体：面色萎黄
+弥漫大B细胞淋巴瘤,manifests_as,查体：颈部及甲状腺巨大肿块，质硬
+弥漫大B细胞淋巴瘤,manifests_as,查体：颈部无痛性肿大淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,查体：颜面部及颈部轻度肿胀
+弥漫大B细胞淋巴瘤,manifests_as,查体：颜面部轻度肿胀
+弥漫大B细胞淋巴瘤,manifests_as,气促
+弥漫大B细胞淋巴瘤,manifests_as,气管受压狭窄
+弥漫大B细胞淋巴瘤,manifests_as,浅表淋巴结未触及明显肿大
+弥漫大B细胞淋巴瘤,manifests_as,浅表淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,消瘦貌
+弥漫大B细胞淋巴瘤,manifests_as,淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,淋巴结融合成团
+弥漫大B细胞淋巴瘤,manifests_as,淋巴结质硬、固定、无压痛
+弥漫大B细胞淋巴瘤,manifests_as,睑结膜稍苍白
+弥漫大B细胞淋巴瘤,manifests_as,端坐呼吸
+弥漫大B细胞淋巴瘤,manifests_as,纵隔及肺门淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,纵隔巨大软组织肿块
+弥漫大B细胞淋巴瘤,manifests_as,纵隔淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,肝门部淋巴结增大
+弥漫大B细胞淋巴瘤,manifests_as,肠系膜淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,肺门淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,胰腺稍肿胀，边缘不清，周围渗出
+弥漫大B细胞淋巴瘤,manifests_as,脐周及左上腹深压痛
+弥漫大B细胞淋巴瘤,manifests_as,脸颊及下颌压痛
+弥漫大B细胞淋巴瘤,manifests_as,脾大
+弥漫大B细胞淋巴瘤,manifests_as,脾肿大
+弥漫大B细胞淋巴瘤,manifests_as,脾脏Ⅲ度肿大
+弥漫大B细胞淋巴瘤,manifests_as,脾脏显著增大
+弥漫大B细胞淋巴瘤,manifests_as,脾脏轻度增大
+弥漫大B细胞淋巴瘤,manifests_as,脾脏轻度肿大
+弥漫大B细胞淋巴瘤,manifests_as,腹股沟淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,腹胀
+弥漫大B细胞淋巴瘤,manifests_as,腹腔多发淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,腹膜、网膜囊、肠系膜、双肾周筋膜及桥隔增厚
+弥漫大B细胞淋巴瘤,manifests_as,腹膜后多发肿大淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,腹膜后多发融合性淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,腹膜后多发融合性肿大淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,腹部疼痛
+弥漫大B细胞淋巴瘤,manifests_as,贫血
+弥漫大B细胞淋巴瘤,manifests_as,轻度贫血
+弥漫大B细胞淋巴瘤,manifests_as,重度消瘦
+弥漫大B细胞淋巴瘤,manifests_as,锁骨上淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,面色苍白
+弥漫大B细胞淋巴瘤,manifests_as,颈部包块进行性增大
+弥漫大B细胞淋巴瘤,manifests_as,颈部多发肿大淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,颈部多发融合性淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,颈部无痛性包块
+弥漫大B细胞淋巴瘤,manifests_as,颈部无痛性肿块
+弥漫大B细胞淋巴瘤,manifests_as,颈部无痛性肿物
+弥漫大B细胞淋巴瘤,manifests_as,颈部淋巴结肿大
+弥漫大B细胞淋巴瘤,manifests_as,颈部质硬、活动度差、无压痛的肿大淋巴结
+弥漫大B细胞淋巴瘤,manifests_as,黄疸
+弥漫大B细胞淋巴瘤,needs_differentiation_from,Burkitt淋巴瘤
+弥漫大B细胞淋巴瘤,needs_differentiation_from,感染
+弥漫大B细胞淋巴瘤,needs_differentiation_from,消化道出血
+弥漫大B细胞淋巴瘤,needs_differentiation_from,霍奇金淋巴瘤
+弥漫大B细胞淋巴瘤,needs_differentiation_from,高级别B细胞淋巴瘤
+弥漫大B细胞淋巴瘤（生发中心细胞来源）,needs_differentiation_from,病理：未特指的滤泡性淋巴瘤
+彩超：双侧颌下淋巴结增大（右侧明显），形态规则，边界清，皮髓质分界清晰，淋巴门结构存在，血流信号略丰富，未见钙化及液化，符合炎性增生性淋巴结改变,supports,慢性淋巴结炎
+彩超：多发低回声淋巴结伴皮质增厚、皮髓质界限模糊、淋巴门消失,supports,套细胞淋巴瘤
+彩超：淋巴结低回声、皮髓质分界模糊、淋巴门偏心或消失、内部血流丰富,supports,急性淋巴结炎
+彩超：淋巴结肿大，门结构尚存,supports,急性淋巴结炎
+彩超：淋巴结融合，皮髓质分界模糊，淋巴门偏心或消失，内部血流丰富呈‘火海征’,supports,急性淋巴结炎
+彩超：皮质增厚，血流信号增加,supports,急性淋巴结炎
+影像学提示淋巴瘤,supports,病理：未特指的滤泡性淋巴瘤
+影像学：CT示多发肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+影像学：PET-CT示多区域淋巴结代谢增高，考虑淋巴瘤,supports,病理：未特指的滤泡性淋巴瘤
+影像学：PET-CT示胃窦、十二指肠及回盲部代谢增高灶（SUVmax 8.6）,supports,套细胞淋巴瘤
+影像学：PET-CT高代谢（SUVmax 12.4）,supports,套细胞淋巴瘤
+影像学：全腹增强CT示胃壁弥漫性增厚、多发淋巴结肿大,supports,套细胞淋巴瘤
+影像学：全身增强CT示多发淋巴结肿大（部分融合），脾脏增大,supports,套细胞淋巴瘤
+影像学：全身多发高代谢肿大淋巴结（PET-CT）,supports,弥漫大B细胞淋巴瘤
+影像学：全身多发高代谢肿大淋巴结（PET-CT）,supports,套细胞淋巴瘤
+影像学：全身多组淋巴结高代谢（SUVmax 18.6）,supports,弥漫大B细胞淋巴瘤
+影像学：前纵隔占位（最大径8.1cm）,supports,弥漫大B细胞淋巴瘤
+影像学：前纵隔巨大软组织肿块,supports,弥漫大B细胞淋巴瘤
+影像学：双侧胸壁软组织增厚，部分椎体密度异常；纵隔及右侧腋窝增大淋巴结，考虑转移,supports,病理：未特指的滤泡性淋巴瘤
+影像学：双侧胸腔少量积液,supports,弥漫大B细胞淋巴瘤
+影像学：双侧颈部、纵隔及腹膜后多发肿大淋巴结（CT）,supports,弥漫大B细胞淋巴瘤
+影像学：双侧颈部多发环形强化融合淋巴结,supports,弥漫大B细胞淋巴瘤
+影像学：右上肺斑片状钙化灶、纤维条索影及磨玻璃小结节，考虑陈旧性结核伴部分活动可能,supports,结核性周围淋巴结病
+影像学：右上肺陈旧性钙化灶伴磨玻璃样小结节,supports,结核性周围淋巴结病
+影像学：右侧胸腔积液，邻近肺组织膨胀不全,supports,病理：未特指的滤泡性淋巴瘤
+影像学：右侧腋窝区淋巴结增多、增大，部分融合,supports,弥漫大B细胞淋巴瘤
+影像学：回盲部肠壁不均匀增厚伴肠系膜多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+影像学：回盲部肠壁环形不均匀增厚,supports,病理：未特指的滤泡性淋巴瘤
+影像学：多发淋巴结肿大、脾脏增大,supports,弥漫大B细胞淋巴瘤
+影像学：多发肠系膜及腹膜后淋巴结肿大,supports,套细胞淋巴瘤
+影像学：多发肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+影像学：多发肿大淋巴结,supports,套细胞淋巴瘤
+影像学：左肝占位,manifests_as,弥漫大B细胞淋巴瘤
+影像学：纵隔及左锁骨上多发肿大淋巴结,supports,结核性周围淋巴结病
+影像学：纵隔及左锁骨上淋巴结肿大伴环形强化（胸部CT）,supports,结核性周围淋巴结病
+影像学：肠系膜根部多发肿大淋巴结（串珠/簇状，最大17.5×8.0mm）,strongly_supports,非特异性肠系膜淋巴结炎
+影像学：胃体-胃窦壁增厚伴高代谢（SUVmax 18.6）,supports,弥漫大B细胞淋巴瘤
+影像学：胃窦、十二指肠及回盲部肠壁弥漫性增厚,supports,套细胞淋巴瘤
+影像学：胸部CT示肺部多发钙化灶及斑片影,supports,结核性周围淋巴结病
+影像学：脾脏弥漫性增大（18.2×10.5 cm）,supports,套细胞淋巴瘤
+影像学：脾脏显著增大,supports,套细胞淋巴瘤
+影像学：脾脏轻度增大,supports,病理：未特指的滤泡性淋巴瘤
+影像学：腹股沟及髂血管旁多发淋巴结肿大（增强CT）,supports,病理：未特指的滤泡性淋巴瘤
+影像学：腹膜后多发淋巴结肿大,supports,套细胞淋巴瘤
+影像学：腹膜后多发融合性淋巴结肿大（CT）,supports,弥漫大B细胞淋巴瘤
+影像学：腹膜后多发融合性淋巴结肿大（腹部增强CT）,supports,弥漫大B细胞淋巴瘤
+影像学：腹膜后淋巴结代谢显著增高（SUVmax 18.6）,supports,弥漫大B细胞淋巴瘤
+影像学：腹膜后高代谢病灶（SUVmax 18.6）,supports,弥漫大B细胞淋巴瘤
+影像学：腹部增强CT示胃壁增厚及腹腔淋巴结肿大,supports,套细胞淋巴瘤
+影像学：腹部增强CT示脾脏弥漫性增大伴多发低密度灶,supports,弥漫大B细胞淋巴瘤
+影像学：腹部增强CT示脾脏弥漫性增大伴多发占位，腹腔及腹膜后多发淋巴结肿大,supports,弥漫大B细胞淋巴瘤
+影像学：腹部增强CT示脾脏显著增大（18.5 cm），无占位及腹膜后淋巴结肿大,supports,套细胞淋巴瘤
+影像学：腹部增强CT示腹膜后多发融合性淋巴结,supports,弥漫大B细胞淋巴瘤
+影像学：阑尾未增粗（直径4.2 mm），腔内无粪石，周围无积液,supports,非特异性肠系膜淋巴结炎
+影像学：阑尾未扩张（直径5.2 mm），腔内无粪石，周围无积液，血流正常,supports,非特异性肠系膜淋巴结炎
+影像学：阑尾未见异常,supports,非特异性肠系膜淋巴结炎
+影像学：阑尾未见明显异常,supports,非特异性肠系膜淋巴结炎
+影像学：颈部及胸部增强CT示双侧颈部、锁骨上多发肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+影像学：颈部及胸部多发肿大淋巴结伴融合,supports,弥漫大B细胞淋巴瘤
+影像学：颈部及腹膜后融合性淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+影像学：颈部增强CT示右侧颈深部多发融合性淋巴结（最大4.8×3.6 cm）,supports,弥漫大B细胞淋巴瘤
+影像学：颈部淋巴结低回声结节伴丰富血流信号（彩超）,supports,急性淋巴结炎
+影像：PET-CT示胃肠道多发高代谢病灶,supports,套细胞淋巴瘤
+影像：全腹增强CT示脾大、回盲部肠壁增厚伴肠系膜淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+影像：右上肺陈旧性钙化灶、左下肺斑片影,supports,结核性周围淋巴结病
+影像：右肺心膈角区肿块，考虑肿瘤性病变,supports,病理：未特指的滤泡性淋巴瘤
+影像：回盲部肠壁不均匀增厚，肠系膜多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+影像：多发肿大淋巴结（CT/PET-CT）,supports,套细胞淋巴瘤
+影像：左侧大脑脚-丘脑-基底节区稍高密度团块伴糖代谢增高（Deauville 5分）,supports,弥漫大B细胞淋巴瘤
+影像：左侧锁骨上多发淋巴结肿大，部分融合,supports,结核性周围淋巴结病
+影像：左侧颈深部多发融合性淋巴结肿大,supports,弥漫大B细胞淋巴瘤
+影像：年轻时肺门淋巴结钙化,increases_risk_of,结核性周围淋巴结病
+影像：横膈上下多发高代谢淋巴结,supports,病理：未特指的滤泡性淋巴瘤
+影像：纵隔及肺门多发肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+影像：胰尾至脾内肿块（5.5×3.7cm），脾门血管受侵，轻度狭窄,supports,弥漫大B细胞淋巴瘤
+影像：胸部CT示右上肺斑片状钙化灶及纤维条索影，左下肺磨玻璃小结节,supports,结核性周围淋巴结病
+影像：脾脏多发低密度占位,supports,弥漫大B细胞淋巴瘤
+影像：脾脏实性占位,supports,弥漫大B细胞淋巴瘤
+影像：脾脏轻度增大,supports,套细胞淋巴瘤
+影像：腹膜后多发融合性肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+影像：腹膜后淋巴结肿大,supports,弥漫大B细胞淋巴瘤
+影像：腹膜后融合性软组织包块,supports,病理：未特指的滤泡性淋巴瘤
+影像：腹部+盆腔增强CT示腹膜后、肠系膜及双侧腋窝多发肿大淋巴结，部分融合成团；脾脏增大,supports,弥漫大B细胞淋巴瘤
+影像：腹部MRI示脾脏弥漫性增大，信号不均,supports,套细胞淋巴瘤
+影像：阑尾外径5.2 mm，管壁层次结构完整，腔内无粪石，周围无积液或脂肪组织增厚,supports,非特异性肠系膜淋巴结炎
+影像：阑尾显影清晰，管腔未扩张，直径约4.2mm，壁无增厚，周围无积液,supports,非特异性肠系膜淋巴结炎
+微生物学：脓液细菌培养无化脓性细菌生长,supports,结核性周围淋巴结病
+微生物检查：抗酸染色阳性杆菌,strongly_supports,结核性周围淋巴结病
+微生物检查：脓液培养阴性,supports,结核性周围淋巴结病
+心包受侵,supports,弥漫大B细胞淋巴瘤
+急性化脓性淋巴结炎,needs_differentiation_from,结核性周围淋巴结病
+急性扁桃体炎,increases_risk_of,急性淋巴结炎
+急性扁桃体炎,needs_differentiation_from,急性淋巴结炎
+急性胃肠炎,needs_differentiation_from,非特异性肠系膜淋巴结炎
+急性阑尾炎,needs_differentiation_from,非特异性肠系膜淋巴结炎
+惰性病程,increases_risk_of,病理：未特指的滤泡性淋巴瘤
+感冒受凉,increases_risk_of,慢性淋巴结炎
+慢性感染,needs_differentiation_from,病理：未特指的滤泡性淋巴瘤
+慢性根尖周炎,increases_risk_of,慢性淋巴结炎
+慢性淋巴细胞白血病,needs_differentiation_from,套细胞淋巴瘤
+慢性淋巴结炎,has_typical_symptom,一过性畏寒
+慢性淋巴结炎,has_typical_symptom,乏力
+慢性淋巴结炎,has_typical_symptom,反复发作的胀痛
+慢性淋巴结炎,has_typical_symptom,反复发作的颌下区胀痛
+慢性淋巴结炎,has_typical_symptom,反复肿块
+慢性淋巴结炎,has_typical_symptom,反复肿块伴局部压痛
+慢性淋巴结炎,has_typical_symptom,反复肿块伴轻度疼痛
+慢性淋巴结炎,has_typical_symptom,吞咽不适
+慢性淋巴结炎,has_typical_symptom,周身乏力
+慢性淋巴结炎,has_typical_symptom,夜间跳痛
+慢性淋巴结炎,has_typical_symptom,头痛
+慢性淋巴结炎,has_typical_symptom,局部胀痛
+慢性淋巴结炎,has_typical_symptom,局部轻度疼痛
+慢性淋巴结炎,has_typical_symptom,局部轻微胀痛
+慢性淋巴结炎,has_typical_symptom,局部隐痛
+慢性淋巴结炎,has_typical_symptom,胀痛
+慢性淋巴结炎,has_typical_symptom,轻度头痛
+慢性淋巴结炎,has_typical_symptom,轻微头痛
+慢性淋巴结炎,has_typical_symptom,间歇性肿痛
+慢性淋巴结炎,has_typical_symptom,颈部包块反复出现
+慢性淋巴结炎,has_typical_symptom,颈部肿块反复发作
+慢性淋巴结炎,has_typical_symptom,颈部肿物反复发作
+慢性淋巴结炎,has_typical_symptom,食欲减退
+慢性淋巴结炎,has_typical_symptom,鼻塞
+慢性淋巴结炎,has_typical_symptom,乏力感
+慢性淋巴结炎,has_typical_symptom,低热
+慢性淋巴结炎,has_typical_symptom,偶伴低热
+慢性淋巴结炎,has_typical_symptom,偶有轻微触痛
+慢性淋巴结炎,has_typical_symptom,全身乏力
+慢性淋巴结炎,has_typical_symptom,全身倦怠
+慢性淋巴结炎,has_typical_symptom,双侧腋窝及腹股沟区反复出现肿块伴轻度压痛
+慢性淋巴结炎,has_typical_symptom,反复出现肿块
+慢性淋巴结炎,has_typical_symptom,反复出现肿块伴轻度压痛
+慢性淋巴结炎,has_typical_symptom,反复双侧腋窝及腹股沟肿块
+慢性淋巴结炎,has_typical_symptom,反复肿块伴局部压痛
+慢性淋巴结炎,has_typical_symptom,反复肿块伴轻度压痛
+慢性淋巴结炎,has_typical_symptom,右侧颌下区反复肿痛
+慢性淋巴结炎,has_typical_symptom,右侧颌下反复肿痛
+慢性淋巴结炎,has_typical_symptom,右侧颌下反复肿痛伴局部包块
+慢性淋巴结炎,has_typical_symptom,咀嚼困难
+慢性淋巴结炎,has_typical_symptom,咀嚼或转头时疼痛加剧
+慢性淋巴结炎,has_typical_symptom,咽痛
+慢性淋巴结炎,has_typical_symptom,局部淋巴结肿大
+慢性淋巴结炎,has_typical_symptom,局部皮肤轻度红斑及瘙痒
+慢性淋巴结炎,has_typical_symptom,局部红肿、皮温升高、触痛
+慢性淋巴结炎,has_typical_symptom,局部红肿热痛
+慢性淋巴结炎,has_typical_symptom,局部肿胀、隐痛
+慢性淋巴结炎,has_typical_symptom,局部轻度压痛
+慢性淋巴结炎,has_typical_symptom,张口受限
+慢性淋巴结炎,has_typical_symptom,张口轻度受限
+慢性淋巴结炎,has_typical_symptom,持续性钝痛
+慢性淋巴结炎,has_typical_symptom,无痛性肿块
+慢性淋巴结炎,has_typical_symptom,明显肿胀
+慢性淋巴结炎,has_typical_symptom,查体：下颌下肿物
+慢性淋巴结炎,has_typical_symptom,查体：压痛
+慢性淋巴结炎,has_typical_symptom,查体：双侧腋窝及腹股沟肿块伴压痛
+慢性淋巴结炎,has_typical_symptom,查体：局部压痛
+慢性淋巴结炎,has_typical_symptom,查体：局部可触及肿块
+慢性淋巴结炎,has_typical_symptom,查体：局部硬结
+慢性淋巴结炎,has_typical_symptom,查体：局部硬结感
+慢性淋巴结炎,has_typical_symptom,查体：局部红肿
+慢性淋巴结炎,has_typical_symptom,查体：皮温升高
+慢性淋巴结炎,has_typical_symptom,查体：触之有钝痛或跳痛感
+慢性淋巴结炎,has_typical_symptom,查体：轻度压痛
+慢性淋巴结炎,has_typical_symptom,查体：轻度红肿
+慢性淋巴结炎,has_typical_symptom,查体：颌下包块伴间歇性疼痛
+慢性淋巴结炎,has_typical_symptom,查体：颌下淋巴结肿大
+慢性淋巴结炎,has_typical_symptom,活动颈部时疼痛加重
+慢性淋巴结炎,has_typical_symptom,淋巴结压痛
+慢性淋巴结炎,has_typical_symptom,淋巴结反复肿大伴轻度压痛
+慢性淋巴结炎,has_typical_symptom,淋巴结肿大
+慢性淋巴结炎,has_typical_symptom,灼热感
+慢性淋巴结炎,has_typical_symptom,畏寒
+慢性淋巴结炎,has_typical_symptom,畏寒、乏力
+慢性淋巴结炎,has_typical_symptom,肿块时大时小
+慢性淋巴结炎,has_typical_symptom,触痛
+慢性淋巴结炎,has_typical_symptom,触痛明显
+慢性淋巴结炎,has_typical_symptom,跳痛
+慢性淋巴结炎,has_typical_symptom,转头及吞咽时疼痛加剧
+慢性淋巴结炎,has_typical_symptom,转颈疼痛
+慢性淋巴结炎,has_typical_symptom,轻度乏力
+慢性淋巴结炎,has_typical_symptom,轻微胀痛
+慢性淋巴结炎,has_typical_symptom,轻微跳痛
+慢性淋巴结炎,has_typical_symptom,轻微隐痛
+慢性淋巴结炎,has_typical_symptom,进食冷热刺激食物时诱发颌下尖锐刺痛
+慢性淋巴结炎,has_typical_symptom,隐痛
+慢性淋巴结炎,has_typical_symptom,颈部包块
+慢性淋巴结炎,has_typical_symptom,颈部包块反复发作
+慢性淋巴结炎,has_typical_symptom,颈部反复肿痛
+慢性淋巴结炎,has_typical_symptom,颈部淋巴结肿大
+慢性淋巴结炎,has_typical_symptom,颈部肿块
+慢性淋巴结炎,has_typical_symptom,颌下区反复红肿热痛
+慢性淋巴结炎,has_typical_symptom,颌下区反复肿痛
+慢性淋巴结炎,has_typical_symptom,颌下反复肿痛
+慢性淋巴结炎,has_typical_symptom,颌下淋巴结反复肿痛
+慢性淋巴结炎,has_typical_symptom,颌下淋巴结肿痛
+慢性淋巴结炎,has_typical_symptom,颌下肿块伴间歇性疼痛
+慢性淋巴结炎,manifests_as,张口及转颈牵涉痛致活动受限
+慢性淋巴结炎,manifests_as,张口或转颈时牵涉痛
+慢性淋巴结炎,manifests_as,搏动性跳痛
+慢性淋巴结炎,manifests_as,搏动样疼痛
+慢性淋巴结炎,manifests_as,包块缩小至蚕豆大小，轻压痛，无红肿热象
+慢性淋巴结炎,manifests_as,双侧扁桃体Ⅱ度肿大伴陈旧性瘢痕及白色隐窝分泌物
+慢性淋巴结炎,manifests_as,双侧腋窝及右侧腹股沟可触及肿块
+慢性淋巴结炎,manifests_as,双侧腋窝及右侧腹股沟可触及肿大淋巴结
+慢性淋巴结炎,manifests_as,双侧腋窝及右侧腹股沟多个肿大淋巴结，质韧，活动度可，伴轻度压痛
+慢性淋巴结炎,manifests_as,双侧腋窝及腹股沟区可触及肿大淋巴结，边界清楚，质地偏韧，活动度尚可，与周围组织无粘连，触之有明显压痛，但无波动感
+慢性淋巴结炎,manifests_as,双侧腋窝及腹股沟可触及肿大淋巴结，质地中等偏韧，活动度尚可，轻压痛
+慢性淋巴结炎,manifests_as,双侧腹股沟淋巴结肿大（0.8–1.2cm），质韧，边界清，活动可，无压痛
+慢性淋巴结炎,manifests_as,口咽部黏膜充血
+慢性淋巴结炎,manifests_as,口咽部黏膜弥漫性充血
+慢性淋巴结炎,manifests_as,口腔检查：左下第二磨牙深龋
+慢性淋巴结炎,manifests_as,右侧腋窝可触及一枚肿大淋巴结，约2.0×1.5cm，表面皮肤轻度潮红，皮温稍高，边界清楚，质地偏韧，活动度中等，与周围组织无粘连，轻压痛
+慢性淋巴结炎,manifests_as,右侧腹股沟可触及肿大淋巴结，质地中等，有轻微压痛，活动度尚可
+慢性淋巴结炎,manifests_as,右侧颈部可触及数个肿大淋巴结，大者1.5×1.5 cm，质稍硬，轻度压痛，活动可
+慢性淋巴结炎,manifests_as,右侧颌下可触及固定包块，质中偏硬，活动度差，压痛(+)
+慢性淋巴结炎,manifests_as,咽后壁淋巴滤泡增生
+慢性淋巴结炎,manifests_as,咽部黏膜充血
+慢性淋巴结炎,manifests_as,咽部黏膜弥漫性充血
+慢性淋巴结炎,manifests_as,咽部黏膜轻度充血
+慢性淋巴结炎,manifests_as,局部微红
+慢性淋巴结炎,manifests_as,局部皮肤微红
+慢性淋巴结炎,manifests_as,局部皮肤微红、皮温升高
+慢性淋巴结炎,manifests_as,局部皮肤潮红
+慢性淋巴结炎,manifests_as,局部皮肤潮红、皮温升高
+慢性淋巴结炎,manifests_as,局部皮肤潮红伴皮温升高
+慢性淋巴结炎,manifests_as,局部红肿热痛
+慢性淋巴结炎,manifests_as,局部迅速红肿、皮温升高，触之有明显跳痛
+慢性淋巴结炎,manifests_as,左下第一磨牙深龋
+慢性淋巴结炎,manifests_as,左侧腹股沟可触及肿大淋巴结（最大2.0×1.5cm）
+慢性淋巴结炎,manifests_as,左侧颈部II区可扪及淋巴结，约1.8×1.5cm，质地中等偏韧，活动度尚可，边界清楚
+慢性淋巴结炎,manifests_as,左侧颈部可触及融合性淋巴结
+慢性淋巴结炎,manifests_as,左侧颈部可触及融合性淋巴结，质地中等偏韧，活动度尚可，轻压痛
+慢性淋巴结炎,manifests_as,左侧颈部肿大淋巴结
+慢性淋巴结炎,manifests_as,张口受限
+慢性淋巴结炎,manifests_as,扁桃体Ⅱ度肿大伴白色分泌物
+慢性淋巴结炎,manifests_as,查体：与周围组织无明显粘连
+慢性淋巴结炎,manifests_as,查体：压痛
+慢性淋巴结炎,manifests_as,查体：压痛明显伴跳痛
+慢性淋巴结炎,manifests_as,查体：双侧扁桃体Ⅱ°肿大，表面有陈旧性瘢痕及白色分泌物
+慢性淋巴结炎,manifests_as,查体：双侧扁桃体Ⅱ度肿大
+慢性淋巴结炎,manifests_as,查体：双侧扁桃体Ⅱ度肿大伴白色分泌物嵌塞隐窝
+慢性淋巴结炎,manifests_as,查体：双侧扁桃体Ⅱ度肿大伴隐窝分泌物
+慢性淋巴结炎,manifests_as,查体：双侧扁桃体Ⅱ度肿大，隐窝内见白色点状分泌物
+慢性淋巴结炎,manifests_as,查体：双侧扁桃体Ⅱ度肿大，隐窝见白色分泌物
+慢性淋巴结炎,manifests_as,查体：双侧腋窝及右侧腹股沟可触及肿大淋巴结，质地中等偏韧，活动度尚可，轻度触痛
+慢性淋巴结炎,manifests_as,查体：双侧腋窝及右侧腹股沟可触及肿大淋巴结，质地偏韧，活动度尚可，轻压痛，无波动感
+慢性淋巴结炎,manifests_as,查体：双侧腋窝及腹股沟可触及肿大淋巴结
+慢性淋巴结炎,manifests_as,查体：双侧腋窝及腹股沟肿大淋巴结，椭圆形、边界清、活动可、质偏韧、轻度触痛、无波动感
+慢性淋巴结炎,manifests_as,查体：双颈部可及多个肿大淋巴结，无红、肿、热、痛
+慢性淋巴结炎,manifests_as,查体：口咽部黏膜轻度充血
+慢性淋巴结炎,manifests_as,查体：口咽部黏膜轻度充血，扁桃体Ⅱ度肿大伴白色脓栓及瘢痕
+慢性淋巴结炎,manifests_as,查体：右侧腋窝可触及2枚肿大淋巴结，最大1.5×1.0 cm
+慢性淋巴结炎,manifests_as,查体：右侧腹股沟融合性淋巴结，表面皮肤轻度潮红，皮温略高，触痛明显
+慢性淋巴结炎,manifests_as,查体：右侧颌下区可触及活动性包块，直径约1.5cm，质地中等，压痛明显
+慢性淋巴结炎,manifests_as,查体：右侧颌下区隆起
+慢性淋巴结炎,manifests_as,查体：右侧颌下可触及融合性淋巴结，最大约1.8cm×1.2cm，椭圆形，边界尚清，质地中等偏硬，活动度差，压痛明显
+慢性淋巴结炎,manifests_as,查体：右侧颌下淋巴结肿大（1.5cm×1.2cm），边界清楚，质地中等偏韧，活动度尚可，无粘连，有压痛，无波动感
+慢性淋巴结炎,manifests_as,查体：右侧颌下淋巴结（1.5×1.2 cm），质地中等偏韧，活动度尚可，边界清，无粘连
+慢性淋巴结炎,manifests_as,查体：右侧颌下肿块，边界清楚，质地中等偏韧，活动度尚可，轻压痛
+慢性淋巴结炎,manifests_as,查体：右侧颌下肿大淋巴结（1.5×1.2 cm），边界清，质地中等，活动度尚可，轻度压痛
+慢性淋巴结炎,manifests_as,查体：右侧颌下肿大淋巴结（1.8×1.5 cm），椭圆形，边界清晰，质中偏硬，活动度差，压痛明显
+慢性淋巴结炎,manifests_as,查体：右侧颌下肿大淋巴结（1.8×1.5cm），边界尚清，活动度差，压痛明显
+慢性淋巴结炎,manifests_as,查体：右侧颌下融合性淋巴结，质韧，边界尚清，活动度差，明显压痛
+慢性淋巴结炎,manifests_as,查体：头颈活动受限
+慢性淋巴结炎,manifests_as,查体：局部皮温升高
+慢性淋巴结炎,manifests_as,查体：局部皮温略高
+慢性淋巴结炎,manifests_as,查体：局部皮温略高于对侧
+慢性淋巴结炎,manifests_as,查体：局部皮温稍高
+慢性淋巴结炎,manifests_as,查体：局部皮肤发红、皮温升高
+慢性淋巴结炎,manifests_as,查体：局部皮肤微红、皮温升高
+慢性淋巴结炎,manifests_as,查体：局部皮肤轻度潮红、皮温略高
+慢性淋巴结炎,manifests_as,查体：局部皮肤轻度潮红，皮温升高
+慢性淋巴结炎,manifests_as,查体：局部皮肤轻度潮红，皮温略高
+慢性淋巴结炎,manifests_as,查体：局部红肿
+慢性淋巴结炎,manifests_as,查体：左侧下颌下肿块（质稍硬、活动好、压痛±）
+慢性淋巴结炎,manifests_as,查体：左侧腋窝可触及两枚较小淋巴结，最大约1.0×0.8 cm，表面肤色正常，无红肿热象，轻压微痛，活动良好
+慢性淋巴结炎,manifests_as,查体：左侧颈部II区肿大淋巴结（2.0×1.5 cm），边界清晰，质地中等偏韧，活动度尚可，轻度触痛
+慢性淋巴结炎,manifests_as,查体：左侧颈部可触及淋巴结伴轻度触痛
+慢性淋巴结炎,manifests_as,查体：左侧颈部可触及肿大淋巴结
+慢性淋巴结炎,manifests_as,查体：左侧颈部可触及肿大淋巴结，椭圆形，边界清楚，质地中等，活动度尚可，轻度触痛
+慢性淋巴结炎,manifests_as,查体：左侧颈部可触及肿大淋巴结，边界清楚，质地中等偏韧，活动度尚可，无粘连，有压痛
+慢性淋巴结炎,manifests_as,查体：左侧颈部可触及融合性淋巴结，质地中等偏韧，活动度差，压痛明显
+慢性淋巴结炎,manifests_as,查体：左侧颈部可触及融合性淋巴结，质地中等偏韧，活动度差，边界尚清，皮温略高
+慢性淋巴结炎,manifests_as,查体：左侧颈部肿大淋巴结，边界清晰，质地中等偏韧，活动度尚可，轻度触痛
+慢性淋巴结炎,manifests_as,查体：左侧颈部肿大淋巴结，边界清，质中偏韧，活动可，轻压痛
+慢性淋巴结炎,manifests_as,查体：左侧颈部胸锁乳突肌上1/3前缘可触及肿大淋巴结（1.8×1.5cm），椭圆形，皮肤正常，边界清，质中等偏韧，活动可，无粘连
+慢性淋巴结炎,manifests_as,查体：左侧颈部胸锁乳突肌前缘中上段可触及融合性淋巴结
+慢性淋巴结炎,manifests_as,查体：左侧颈部融合性淋巴结团，质地中等偏韧，活动度差，压痛阳性
+慢性淋巴结炎,manifests_as,查体：左侧颈部融合性肿大淋巴结
+慢性淋巴结炎,manifests_as,查体：左颈部多发肿大淋巴结（质中，活动可，轻压痛）
+慢性淋巴结炎,manifests_as,查体：张口略受限
+慢性淋巴结炎,manifests_as,查体：急性期局部红肿热痛、皮温升高、明显压痛
+慢性淋巴结炎,manifests_as,查体：扁桃体Ⅱ度肿大伴白色点状渗出物
+慢性淋巴结炎,manifests_as,查体：扁桃体Ⅱ度肿大伴脓点
+慢性淋巴结炎,manifests_as,查体：淋巴结压痛
+慢性淋巴结炎,manifests_as,查体：淋巴结活动度尚可
+慢性淋巴结炎,manifests_as,查体：淋巴结活动度差
+慢性淋巴结炎,manifests_as,查体：淋巴结活动度良好
+慢性淋巴结炎,manifests_as,查体：淋巴结皮温略高
+慢性淋巴结炎,manifests_as,查体：淋巴结肿大，质韧，边界清，活动度尚可
+慢性淋巴结炎,manifests_as,查体：淋巴结质地中等偏韧，活动度良好，边界清晰
+慢性淋巴结炎,manifests_as,查体：淋巴结质地韧、表面光滑、边界清、活动度好、无压痛
+慢性淋巴结炎,manifests_as,查体：淋巴结质韧，活动度中等，边界清晰
+慢性淋巴结炎,manifests_as,查体：淋巴结边界清楚
+慢性淋巴结炎,manifests_as,查体：淋巴结边界清楚、活动度尚可、与周围组织无粘连
+慢性淋巴结炎,manifests_as,查体：皮温升高
+慢性淋巴结炎,manifests_as,查体：皮温增高
+慢性淋巴结炎,manifests_as,查体：皮温略高
+慢性淋巴结炎,manifests_as,查体：皮温略高于对侧
+慢性淋巴结炎,manifests_as,查体：皮温略高，边界尚清，与周围组织轻度粘连
+慢性淋巴结炎,manifests_as,查体：皮肤微红、皮温略高
+慢性淋巴结炎,manifests_as,查体：肿大淋巴结呈椭圆形，表面皮肤轻度潮红，皮温稍高，边界清楚，质地中等偏韧，活动度尚可，轻度触痛，无波动感，未融合
+慢性淋巴结炎,manifests_as,查体：肿大淋巴结（2.0×1.5 cm，椭圆形，边界尚清，表面光滑，质地中等偏韧，活动度尚可，无粘连）
+慢性淋巴结炎,manifests_as,查体：肿大淋巴结（椭圆形，边界尚清，表面光滑，质地中等偏韧，活动度差，轻度粘连）
+慢性淋巴结炎,manifests_as,查体：表面皮肤微红
+慢性淋巴结炎,manifests_as,查体：触之有轻度跳痛感
+慢性淋巴结炎,manifests_as,查体：转颈动作受限
+慢性淋巴结炎,manifests_as,查体：转颈稍受限
+慢性淋巴结炎,manifests_as,查体：轻度压痛
+慢性淋巴结炎,manifests_as,查体：边界清楚、质地中等、活动度尚可的淋巴结
+慢性淋巴结炎,manifests_as,查体：边界清楚、质地中等偏韧、活动度尚可的淋巴结
+慢性淋巴结炎,manifests_as,查体：颈部活动受限
+慢性淋巴结炎,manifests_as,查体：颌下区包块
+慢性淋巴结炎,manifests_as,查体：颌下区类圆形隆起，质韧，边界清，活动可，与周围组织无粘连
+慢性淋巴结炎,manifests_as,查体：颌下可触及椭圆形、质地中等偏硬、边界清楚、活动度尚可、轻压痛的淋巴结
+慢性淋巴结炎,manifests_as,查体：颌下淋巴结质地中等偏韧、活动度尚可、边界清楚
+慢性淋巴结炎,manifests_as,查体：颌下肿大淋巴结，边界清、表面光滑、质中等偏韧、活动可、有压痛
+慢性淋巴结炎,manifests_as,查体：颌下融合性淋巴结（质地中等偏硬，活动度差，触痛明显）
+慢性淋巴结炎,manifests_as,浅表淋巴结肿大
+慢性淋巴结炎,manifests_as,淋巴结活动度尚可
+慢性淋巴结炎,manifests_as,淋巴结活动度差，与周围组织轻度粘连
+慢性淋巴结炎,manifests_as,淋巴结肿大
+慢性淋巴结炎,manifests_as,淋巴结肿大，边界尚清，无波动感
+慢性淋巴结炎,manifests_as,淋巴结质地中等偏硬、活动度差
+慢性淋巴结炎,manifests_as,淋巴结质地中等偏韧
+慢性淋巴结炎,manifests_as,淋巴结质韧、活动度差、触痛明显
+慢性淋巴结炎,manifests_as,淋巴结轻压痛
+慢性淋巴结炎,manifests_as,淋巴结：质地中等偏韧，活动度良好，边界清晰
+慢性淋巴结炎,manifests_as,皮肤微红，皮温略高
+慢性淋巴结炎,manifests_as,肿大淋巴结（质中偏韧）
+慢性淋巴结炎,manifests_as,融合性淋巴结（最大2.0×1.5 cm，质地中等偏韧，活动度差，边界尚清，与周围组织无明显粘连）
+慢性淋巴结炎,manifests_as,触痛明显
+慢性淋巴结炎,manifests_as,跳痛感致转颈受限
+慢性淋巴结炎,manifests_as,轻压痛
+慢性淋巴结炎,manifests_as,轻度触痛或跳痛
+慢性淋巴结炎,manifests_as,颌下区皮肤轻度潮红
+慢性淋巴结炎,manifests_as,颌下区隆起，质韧、边界尚清、活动度差、压痛(+)
+慢性淋巴结炎,manifests_as,颌下扪及肿物，硬币大小，表面光滑无黏连，伴压痛
+慢性淋巴结炎,manifests_as,颌下肿大淋巴结，质韧、边界不清、活动度差、压痛明显
+慢性淋巴结炎,manifests_as,颌下融合性淋巴结肿大
+慢性淋巴结炎,manifests_as,龋齿
+慢性淋巴结炎,needs_differentiation_from,急性化脓性淋巴结炎
+慢性淋巴结炎,needs_differentiation_from,恶性淋巴瘤
+慢性淋巴结炎,needs_differentiation_from,淋巴结结核
+慢性淋巴结炎,needs_differentiation_from,病理转移性淋巴结癌
+慢性淋巴结炎,needs_differentiation_from,病理：反应性淋巴结增生
+慢性淋巴结炎,needs_differentiation_from,病理：未特指的滤泡性淋巴瘤
+慢性淋巴结炎,needs_differentiation_from,系统性自身免疫性疾病
+慢性淋巴结炎,needs_differentiation_from,结核
+慢性淋巴结炎,needs_differentiation_from,结核性淋巴结炎
+慢性淋巴结炎,needs_differentiation_from,唾液腺肿瘤
+慢性淋巴结炎,needs_differentiation_from,套细胞淋巴瘤
+慢性淋巴结炎,needs_differentiation_from,淋巴瘤
+慢性淋巴结炎,needs_differentiation_from,猫抓病
+慢性淋巴结炎,needs_differentiation_from,转移癌
+慢性淋巴结炎,needs_differentiation_from,转移性肿瘤
+慢性淋巴结炎,needs_differentiation_from,转移性肿瘤淋巴结
+慢性淋巴结炎,needs_differentiation_from,颌下急性化脓性淋巴结炎
+慢性淋巴结炎,needs_differentiation_from,颌下淋巴结结核
+慢性湿疹合并轻度继发感染,increases_risk_of,慢性淋巴结炎
+慢性湿疹急性发作,increases_risk_of,慢性淋巴结炎
+慢性肠炎,needs_differentiation_from,病理：未特指的滤泡性淋巴瘤
+慢性胃炎,needs_differentiation_from,病理：未特指的滤泡性淋巴瘤
+扁桃体Ⅱ度肿大伴白色分泌物,supports,慢性淋巴结炎
+扁桃体Ⅱ度肿大伴脓点,manifests_as,急性淋巴结炎
+抗感染治疗无效,increases_risk_of,弥漫大B细胞淋巴瘤
+抗生素治疗无效,increases_risk_of,结核性周围淋巴结病
+抗生素治疗无效,supports,结核性周围淋巴结病
+抗酸染色(+),strongly_supports,结核性周围淋巴结病
+抗酸染色找到阳性杆菌（3+）,strongly_supports,结核性周围淋巴结病
+抗酸染色（Ziehl-Neelsen法）查见少量红色杆状抗酸杆菌,strongly_supports,结核性周围淋巴结病
+抗酸染色（Ziehl-Neelsen法）：抗酸杆菌(+),strongly_supports,结核性周围淋巴结病
+抗酸染色（Ziehl-Neelsen法）：查见少量抗酸杆菌(+),strongly_supports,结核性周围淋巴结病
+抗酸染色：(+),strongly_supports,结核性周围淋巴结病
+抗酸染色：找到抗酸杆菌,strongly_supports,结核性周围淋巴结病
+抗酸染色：抗酸杆菌(+),strongly_supports,结核性周围淋巴结病
+抗酸染色：抗酸杆菌(++),strongly_supports,结核性周围淋巴结病
+抗酸染色：抗酸杆菌(+++),strongly_supports,结核性周围淋巴结病
+抗酸染色：抗酸杆菌(++）,strongly_supports,结核性周围淋巴结病
+抗酸染色：抗酸杆菌（+）,strongly_supports,结核性周围淋巴结病
+抗酸染色：查见红色杆状抗酸杆菌,strongly_supports,结核性周围淋巴结病
+抗酸染色：红色杆菌(+),strongly_supports,结核性周围淋巴结病
+抗酸染色：阳性杆菌（+）,strongly_supports,结核性周围淋巴结病
+抗酸染色：阳性杆菌（2+）,strongly_supports,结核性周围淋巴结病
+抽出黄白色豆渣样/干酪样脓液,supports,结核性周围淋巴结病
+抽出黄白色豆渣样脓液,supports,结核性周围淋巴结病
+搔抓皮肤导致破损感染,increases_risk_of,急性淋巴结炎
+搔抓破溃,increases_risk_of,慢性淋巴结炎
+搔抓致足趾间皮肤破损,increases_risk_of,急性淋巴结炎
+操作记录：穿刺抽出豆渣样脓液,supports,结核性周围淋巴结病
+无B症状（无持续发热、夜间盗汗、进行性消瘦）,supports,慢性淋巴结炎
+无吸烟史,increases_risk_of,结核性周围淋巴结病
+无夜间盗汗,supports,慢性淋巴结炎
+既往史：PPD试验阳性,increases_risk_of,结核性周围淋巴结病
+既往史：偶有头皮油腻、毛囊炎,increases_risk_of,急性淋巴结炎
+既往史：局部皮肤囊肿,increases_risk_of,急性淋巴结炎
+既往史：幼时接种卡介苗,increases_risk_of,结核性周围淋巴结病
+既往史：肺结核,increases_risk_of,结核性周围淋巴结病
+既往肺结核病史且未规律治疗,increases_risk_of,结核性周围淋巴结病
+既往肺结核病史（未规范治疗）,increases_risk_of,结核性周围淋巴结病
+易感冒,increases_risk_of,非特异性肠系膜淋巴结炎
+普通细菌性淋巴结炎,needs_differentiation_from,结核性周围淋巴结病
+智齿冠周炎,increases_risk_of,慢性淋巴结炎
+月经期,increases_risk_of,慢性淋巴结炎
+朗汉斯巨细胞,strongly_supports,结核性周围淋巴结病
+未显示BCL2（18q21）染色体易位,supports,病理：未特指的滤泡性淋巴瘤
+"染色体核型：46,XX,-4,6q+,8q+,t(11;14)(q13;q32),-12,i(17q),+mar1,+mar2",supports,套细胞淋巴瘤
+查体：体弱,increases_risk_of,结核性周围淋巴结病
+查体：双侧扁桃体Ⅱ°肿大,manifests_as,非特异性肠系膜淋巴结炎
+查体：双侧扁桃体Ⅱ°肿大,supports,非特异性肠系膜淋巴结炎
+查体：双侧腋窝淋巴结肿大,manifests_as,病理：未特指的滤泡性淋巴瘤
+查体：口腔卫生差,increases_risk_of,慢性淋巴结炎
+查体：右侧下颌第二磨牙深龋伴牙龈窦道及脓液溢出,increases_risk_of,慢性淋巴结炎
+查体：右侧大腿内侧湿疹样皮损,increases_risk_of,慢性淋巴结炎
+查体：右小腿湿疹破溃继发感染,increases_risk_of,慢性淋巴结炎
+查体：右耳后头皮破溃伴脓性分泌物,increases_risk_of,急性淋巴结炎
+查体：咽部弥漫性充血,manifests_as,急性淋巴结炎
+查体：咽部黏膜充血水肿,manifests_as,急性淋巴结炎
+查体：头皮毛囊感染（黑头样开口伴脓性分泌物）,increases_risk_of,急性淋巴结炎
+查体：头皮破溃渗液（搔抓所致，未消毒）,increases_risk_of,急性淋巴结炎
+查体：扁桃体Ⅱ°肿大伴黄白色脓点,manifests_as,急性淋巴结炎
+查体：扁桃体肿大伴脓点,manifests_as,急性淋巴结炎
+查体：挤压皮肤结节,increases_risk_of,急性淋巴结炎
+查体：搔抓后局部皮肤破损,increases_risk_of,急性淋巴结炎
+查体：无明显浅表淋巴结肿大,increases_risk_of,套细胞淋巴瘤误诊为良性胃肠疾病
+查体：枕部头皮破溃伴脓性分泌物,increases_risk_of,急性淋巴结炎
+查体：湿疹,increases_risk_of,慢性淋巴结炎
+查体：牙龈溢脓,increases_risk_of,慢性淋巴结炎
+查体：皮肤破损,increases_risk_of,慢性淋巴结炎
+查体：皮肤破损,increases_risk_of,急性淋巴结炎
+查体：脾脏增大,supports,弥漫大B细胞淋巴瘤
+查体：脾脏增大,supports,病理：未特指的滤泡性淋巴瘤
+查体：脾脏稍大（肋下约2cm）,supports,病理：未特指的滤泡性淋巴瘤
+查体：营养状况一般,increases_risk_of,结核性周围淋巴结病
+活检示黏膜固有层及黏膜下层大量异型小至中等淋巴细胞浸润，核形不规则，核分裂象易见,strongly_supports,套细胞淋巴瘤
+活检：回盲部异型淋巴样细胞浸润伴滤泡样结构,strongly_supports,病理：未特指的滤泡性淋巴瘤
+流式细胞术及淋巴瘤免疫组化标记(-),supports,结核性周围淋巴结病
+流式细胞术检出异常B淋巴细胞群,strongly_supports,弥漫大B细胞淋巴瘤
+流式细胞术示单克隆B细胞表达CD19、CD20、CD5、FMC7、Cyclin D1，不表达CD10、CD23、CD200,strongly_supports,套细胞淋巴瘤
+"流式细胞术：CD19(+), CD20(+), CD5(+), CD23(-), CD10(-), FMC7(+), sIgM(+)",supports,套细胞淋巴瘤
+"流式细胞术：CD19(+), CD20(+), CD5(+), CD23(-), FMC7(+), sIgM(+)",strongly_supports,套细胞淋巴瘤
+流式细胞术：CD19(+)、CD20(+)、CD10(+)、BCL-2(+)、BCL-6(+)、MUM1(部分+)，κ轻链限制性表达,strongly_supports,病理：未特指的滤泡性淋巴瘤
+流式细胞术：CD19(+)、CD20(+)、CD5(+)、FMC7(+)、CD23(-)、CD10(-)、CD200(-)，κ轻链限制性表达,strongly_supports,套细胞淋巴瘤
+流式细胞术：CD19(+)、CD20(+)、CD5(+)、FMC7(+)、Cyclin D1(+)，CD10(-)、CD23(-)、CD200(-),strongly_supports,套细胞淋巴瘤
+流式细胞术：CD19(+)、CD20(+dim)、CD5(+)、FMC7(+)、CD23(-)、sIgκ(+),strongly_supports,套细胞淋巴瘤
+流式细胞术：CD19(+)、CD5(+)、CD20(dim+)、CD23(-)、CD10(-)、FMC7(+)、sIgM(+)、κ轻链限制性表达,supports,套细胞淋巴瘤
+流式细胞术：CD19(+)，CD20(+)，CD5(+)，FMC7(+)，CD10(-)，CD23(-)，kappa限制性表达,strongly_supports,套细胞淋巴瘤
+"流式细胞术：CD19+, CD5+, CD20+(dim), CD23-, CD10-, FMC7+, sIgM+, κ轻链限制性表达",supports,套细胞淋巴瘤
+流式细胞术：CD19+、CD20+dim、CD5+、CD23-、FMC7+,strongly_supports,套细胞淋巴瘤
+流式细胞术：CD19+、CD20+、CD5+、CD23-、FMC7+、sIgM+,strongly_supports,套细胞淋巴瘤
+流式细胞术：CD19+、CD5+、CD20+（弱）、CD23−、CD10−、FMC7+、sIgM+,strongly_supports,套细胞淋巴瘤
+流式细胞术：CD19+、CD5+、CD23-、FMC7+、Cyclin D1+,strongly_supports,套细胞淋巴瘤
+流式细胞术：CD5(+)、CD19(+)、CD20(+dim)、CD23(-)、CD10(-)、FMC7(+)，κ轻链限制性表达,supports,套细胞淋巴瘤
+"流式细胞术：单克隆B细胞表达CD19(+), CD20(+), CD5(+), FMC7(+), CD10(-), CD23(-)",strongly_supports,套细胞淋巴瘤
+流式细胞术：外周血单克隆B细胞群（CD19+、CD20+dim、CD5+、CD23−、CD10−、FMC7+、sIgM+、sIgD−）,supports,套细胞淋巴瘤
+流式细胞术：外周血单克隆B细胞（CD19(+)、CD20(dim+)、CD5(+)、CD23(-)、FMC7(+)、sIgM(+)、sIgD(-)）,supports,套细胞淋巴瘤
+流式细胞术：外周血未见明显异常克隆性B细胞,supports,套细胞淋巴瘤
+流式细胞术：外周血见单克隆B细胞群，表达CD19、CD20、CD5、FMC7、Cyclin D1，不表达CD10、CD23、CD200,strongly_supports,套细胞淋巴瘤
+"流式细胞术：异常B淋巴细胞群占62%，表型CD19(+), CD20(dim), CD5(+), CD23(-), CD10(-), FMC7(+), sIgM(+), sIgD(-)，κ轻链限制性表达",supports,套细胞淋巴瘤
+流式细胞术：异常B细胞免疫表型,strongly_supports,套细胞淋巴瘤
+"流式细胞术：异常B细胞群42%，CD19(+), CD20(+), CD5(+), FMC7(+), CD10(-), CD23(-)",supports,套细胞淋巴瘤
+"流式细胞术：异常B细胞群表达CD19, CD20, CD5, FMC7，不表达CD10, CD23，CD200弱阳性",strongly_supports,套细胞淋巴瘤
+流式细胞术：异常B细胞表达CD19、CD20、CD5、FMC7、Cyclin D1，不表达CD10、CD23、CD200,supports,套细胞淋巴瘤
+流式细胞术：骨髓中CD19+CD10+BCL-2+单克隆B细胞群（32%）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+流式细胞术：骨髓中约18%异常B细胞群，表型为CD19(+)、CD20(+)、CD10(+)、CD23(-)、FMC7(+)、sIgκ(+),strongly_supports,病理：未特指的滤泡性淋巴瘤
+"流式细胞术：骨髓中见约8%单克隆B细胞，表型CD19(+), CD20(+), CD10(+), CD23(-), FMC7(+), sIgD(+)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"流式：CD5(+), CD23(-), CD10(-), FMC7(+), Cyclin D1(+)",supports,套细胞淋巴瘤
+"流式：骨髓异常B细胞群（CD19+, CD20弱+, CD5+, FMC7+, CD23-, CD10-, CD200-）",supports,套细胞淋巴瘤
+流行病学史：居住于结核高发区,increases_risk_of,结核性周围淋巴结病
+流行病学史：来自结核高发地区,increases_risk_of,结核性周围淋巴结病
+流行病学：学生中有咳嗽迁延不愈者,increases_risk_of,结核性周围淋巴结病
+流行病学：工友中有肺结核患者,increases_risk_of,结核性周围淋巴结病
+浸渍糜烂型足癣,increases_risk_of,急性淋巴结炎
+消化性溃疡,needs_differentiation_from,弥漫大B细胞淋巴瘤
+淋巴滤泡结构破坏伴弥漫性淋巴组织增生，符合套细胞淋巴瘤（MCL）,strongly_supports,套细胞淋巴瘤
+淋巴滤泡结构破坏，极性消失，套区消失,strongly_supports,病理：未特指的滤泡性淋巴瘤
+淋巴滤泡结构破坏，淋巴组织弥漫增生，细胞中等偏小，核圆形,strongly_supports,套细胞淋巴瘤
+淋巴组织干酪样坏死结节,strongly_supports,结核性周围淋巴结病
+淋巴组织滤泡样增生（中心细胞为主，可见核分裂象）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+淋巴组织滤泡样结构增生，以中心细胞为主,strongly_supports,病理：未特指的滤泡性淋巴瘤
+淋巴组织被大型非典型细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+淋巴细胞减少,supports,病理：未特指的滤泡性淋巴瘤
+淋巴细胞增多,supports,病理：未特指的滤泡性淋巴瘤
+淋巴细胞比例升高,supports,套细胞淋巴瘤
+淋巴细胞比率降低（16.2%）,supports,弥漫大B细胞淋巴瘤
+淋巴细胞绝对值0.09×10⁹/L,supports,弥漫大B细胞淋巴瘤
+淋巴细胞绝对值4.39×10⁹/L,supports,套细胞淋巴瘤
+淋巴细胞计数 0.92×10⁹/L,supports,弥漫大B细胞淋巴瘤
+淋巴结呈椭圆形、边界清晰、皮髓质分界尚清、淋巴门结构可见,supports,慢性淋巴结炎
+淋巴结彩超示低回声结节，形态规则，边界清晰，淋巴门结构可见但略偏移，皮髓质分界尚清，内部血流信号较对侧增多，呈门型分布,supports,慢性淋巴结炎
+淋巴结彩超：低回声结节，形态规则，长径/短径比>2，皮髓质分界尚清，可见典型淋巴门结构，门型血流分布,supports,慢性淋巴结炎
+淋巴结彩超：形态规则，皮髓质分界尚清，淋巴门结构可见，门型血流信号,supports,慢性淋巴结炎
+淋巴结活检PCR：结核分枝杆菌DNA(+),strongly_supports,结核性周围淋巴结病
+淋巴结活检显示滤泡样结构、中心母细胞增多（>15/HPF）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+淋巴结活检病理：弥漫性中等偏大淋巴样细胞浸润，核形不规则，可见核仁,supports,套细胞淋巴瘤
+淋巴结活检符合结核,strongly_supports,结核性周围淋巴结病
+淋巴结活检诊断为弥漫大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+淋巴结活检：弥漫大B细胞淋巴瘤（非生发中心来源）,strongly_supports,弥漫大B细胞淋巴瘤
+淋巴结活检：弥漫性中等至大B细胞浸润，部分母细胞样,strongly_supports,套细胞淋巴瘤
+淋巴结活检：弥漫性大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+淋巴结活检：滤泡性淋巴瘤3B级（中心母细胞>15/HPF）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+淋巴结活检：滤泡样增生，中心母细胞>15/HPF，符合滤泡性淋巴瘤3A级,strongly_supports,病理：未特指的滤泡性淋巴瘤
+淋巴结活检：滤泡样增生，中心细胞为主，BCL2强阳性，Ki67约26%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+淋巴结炎,needs_differentiation_from,病理：未特指的滤泡性淋巴瘤
+淋巴结病理：干酪样坏死伴类上皮细胞及朗汉斯巨细胞,strongly_supports,结核性周围淋巴结病
+淋巴结病理：弥漫性中等至较大淋巴样细胞浸润，核形不规则，可见母细胞样形态,strongly_supports,套细胞淋巴瘤
+淋巴结穿刺活检：干酪样坏死、类上皮细胞、朗汉斯巨细胞,strongly_supports,结核性周围淋巴结病
+淋巴结结构破坏伴滤泡样增生（中心母细胞为主，伴硬化）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+淋巴结结构破坏，弥漫性中等至大细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+淋巴结结构破坏，弥漫性中等至大细胞浸润，核仁明显，核分裂象易见,strongly_supports,弥漫大B细胞淋巴瘤
+淋巴结结构破坏，弥漫性大细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+淋巴结结构破坏，肿瘤细胞弥漫增生,strongly_supports,弥漫大B细胞淋巴瘤
+淋巴结结构部分破坏伴滤泡样增生（中心细胞与中心母细胞混合，中心母细胞15–20/HPF）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+淋巴结超声显示椭圆形低回声结节，纵横比>2，皮髓质分界尚清，可见典型淋巴门结构，内部血流呈门型分布,supports,慢性淋巴结炎
+淋巴结超声：低回声结节，边界清晰，内部可见典型‘淋巴门’高回声结构，皮髓质分界尚清，门部点状血流信号,supports,慢性淋巴结炎
+淋巴结超声：混合/无/低回声，伴钙化,supports,结核性周围淋巴结病
+淋巴结：干酪样坏死结节,strongly_supports,结核性周围淋巴结病
+深龋,increases_risk_of,慢性淋巴结炎
+深龋,increases_risk_of,急性淋巴结炎
+深龋伴根尖周感染,increases_risk_of,慢性淋巴结炎
+深龋伴牙周感染,increases_risk_of,慢性淋巴结炎
+深龋伴牙源性感染,increases_risk_of,慢性淋巴结炎
+深龋伴牙龈溢脓,increases_risk_of,慢性淋巴结炎
+深龋继发牙周溢脓,increases_risk_of,慢性淋巴结炎
+深龋（右下第二磨牙）,increases_risk_of,急性淋巴结炎
+湿热季节,increases_risk_of,慢性淋巴结炎
+湿疹伴继发感染,increases_risk_of,急性淋巴结炎
+湿疹搔抓,increases_risk_of,慢性淋巴结炎
+湿疹搔抓后继发感染,increases_risk_of,慢性淋巴结炎
+滤泡性淋巴瘤,needs_differentiation_from,套细胞淋巴瘤
+滤泡样结构，中心细胞为主，少量中心母细胞（<15/HPF）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+灰白色豆渣样脓液,strongly_supports,结核性周围淋巴结病
+灰白色豆渣样脓液,supports,结核性周围淋巴结病
+炎症指标：CRP 18 mg/L,supports,结核性周围淋巴结病
+炎症指标：CRP 7.3 mg/L,supports,慢性淋巴结炎
+炎症指标：ESR 58 mm/h,supports,结核性周围淋巴结病
+熬夜,increases_risk_of,慢性淋巴结炎
+牙周反复溢脓,increases_risk_of,慢性淋巴结炎
+牙源性感染,increases_risk_of,慢性淋巴结炎
+牙源性感染（右下第一磨牙残根伴牙周脓肿）,increases_risk_of,慢性淋巴结炎
+牙源性感染（右下第一磨牙深龋伴溢脓）,increases_risk_of,慢性淋巴结炎
+牙片：右下第一磨牙根尖周阴影,strongly_supports,慢性淋巴结炎
+牙龈窦道伴脓性分泌物,increases_risk_of,慢性淋巴结炎
+牙龈窦道伴脓液溢出,increases_risk_of,慢性淋巴结炎
+特应性皮炎,increases_risk_of,慢性淋巴结炎
+特殊染色：抗酸染色(+++),strongly_supports,结核性周围淋巴结病
+生化：LDH 501 U/L（↑），β2微球蛋白 3.8 mg/L（↑）,supports,套细胞淋巴瘤
+生活压力大、作息不规律,increases_risk_of,结核性周围淋巴结病
+甲状腺穿刺活检：淋巴组织增生性病变，以中等至中等偏大淋巴细胞为主,strongly_supports,弥漫大B细胞淋巴瘤
+病史：反复右耳后小囊肿,increases_risk_of,急性淋巴结炎
+病史：否认结核接触史,increases_risk_of,慢性淋巴结炎
+病史：多次抗炎治疗有效但病情反复,supports,慢性淋巴结炎
+病史：家中有肺结核患者接触史,increases_risk_of,结核性周围淋巴结病
+病史：密切接触肺结核患者,increases_risk_of,结核性周围淋巴结病
+病史：年轻时肺部钙化,increases_risk_of,结核性周围淋巴结病
+病史：幼年接种卡介苗,increases_risk_of,结核性周围淋巴结病
+病史：幼时PPD试验阳性,increases_risk_of,结核性周围淋巴结病
+病史：幼时肺结核密切接触史（祖母）,increases_risk_of,结核性周围淋巴结病
+病史：感冒,increases_risk_of,慢性淋巴结炎
+病史：感冒,increases_risk_of,急性淋巴结炎
+病史：熬夜操劳,increases_risk_of,慢性淋巴结炎
+病史：肺结核家族史,increases_risk_of,结核性周围淋巴结病
+病史：近期上呼吸道感染（咽痛、流涕）,increases_risk_of,非特异性肠系膜淋巴结炎
+病史：近期腹泻及呕吐,increases_risk_of,非特异性肠系膜淋巴结炎
+病理活检：左腋窝淋巴结结构破坏，弥漫性大B细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+病理活检：干酪样坏死、类上皮细胞及朗汉斯巨细胞,strongly_supports,结核性周围淋巴结病
+病理活检：弥漫性异型淋巴样细胞浸润，核大、核仁明显，核分裂象多见,strongly_supports,弥漫大B细胞淋巴瘤
+病理示弥漫大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+病理结果：乳腺组织中见异型淋巴细胞浸润，结合形态、免疫组化染色及分子检测结果，符合滤泡性淋巴瘤（3B）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理侵袭性B细胞淋巴瘤（高增殖活性），生发中心B细胞来源（Hans分类）,strongly_supports,弥漫大B细胞淋巴瘤
+病理侵袭性B细胞淋巴瘤，首先考虑弥漫大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+病理小肠黏膜低级别滤泡性淋巴瘤样改变,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理弥漫大B细胞淋巴瘤（侵袭性B细胞淋巴瘤）,strongly_supports,弥漫大B细胞淋巴瘤
+病理弥漫大B细胞淋巴瘤（高增殖活性，非生发中心来源，BCL-2及c-MYC双表达）,strongly_supports,弥漫大B细胞淋巴瘤
+病理弥漫大B细胞淋巴瘤，Non-GCB型,strongly_supports,弥漫大B细胞淋巴瘤
+病理弥漫性大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+病理弥漫性大B细胞淋巴瘤（nonGCB型）,strongly_supports,弥漫大B细胞淋巴瘤
+病理弥漫性大B细胞淋巴瘤（腹股沟淋巴结）,strongly_supports,弥漫大B细胞淋巴瘤
+病理弥漫性大B细胞淋巴瘤（腹膜后淋巴结）,strongly_supports,弥漫大B细胞淋巴瘤
+"病理弥漫性大B细胞淋巴瘤（腹膜后淋巴结），免疫组化CD20(+), CD79a(+), PAX5(+), Ki-67约75%",strongly_supports,弥漫大B细胞淋巴瘤
+病理慢性淋巴细胞白血病/小淋巴细胞淋巴瘤,needs_differentiation_from,套细胞淋巴瘤
+病理滤泡性淋巴瘤（1-2级，腹股沟淋巴结）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理肉芽肿性炎伴干酪样坏死，抗酸染色(+)，符合结核,strongly_supports,结核性周围淋巴结病
+病理肉芽肿性炎伴干酪样坏死，符合结核,strongly_supports,结核性周围淋巴结病
+病理非霍奇金B细胞淋巴瘤,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理骨髓中异型淋巴细胞弥漫浸润,strongly_supports,套细胞淋巴瘤
+病理（脾切除标本）：淋巴组织结构破坏，大量紧密排列的滤泡样结构，中心母细胞增多（>15个/高倍视野），符合滤泡性淋巴瘤3A级,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理（腹膜后淋巴结穿刺活检）示弥漫性异型淋巴样细胞浸润，免疫组化：CD20（弥漫强+），CD10（-），BCL6（+），MUM1（+），BCL-2（约85%+），Ki-67（约96%+）,strongly_supports,弥漫大B细胞淋巴瘤
+病理：B细胞淋巴瘤（免疫表型及基因重排支持）,strongly_supports,弥漫大B细胞淋巴瘤
+病理：Hans分型为Non-GCB亚型,strongly_supports,弥漫大B细胞淋巴瘤
+病理：Hans分型为Non-GCB型,strongly_supports,弥漫大B细胞淋巴瘤
+病理：侵袭性B细胞淋巴瘤，倾向弥漫大B细胞淋巴瘤（WHO）,strongly_supports,弥漫大B细胞淋巴瘤
+病理：侵袭性B细胞淋巴瘤，符合弥漫大B细胞淋巴瘤（WHO，高增殖活性）,strongly_supports,弥漫大B细胞淋巴瘤
+病理：十二指肠球部弥漫大B细胞淋巴瘤（EBV+，高增殖活性）,strongly_supports,弥漫大B细胞淋巴瘤
+病理：反应性淋巴结增生,needs_differentiation_from,弥漫大B细胞淋巴瘤
+病理：反应性淋巴结增生,needs_differentiation_from,病理：未特指的滤泡性淋巴瘤
+病理：右侧腹股沟淋巴结弥漫大B细胞淋巴瘤（高增殖活性）,strongly_supports,弥漫大B细胞淋巴瘤
+病理：右侧颈部淋巴结弥漫性大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+病理：右侧颈部淋巴结穿刺活检示增生性淋巴结炎,strongly_supports,慢性淋巴结炎
+病理：右腋窝淋巴结结构破坏，弥漫性结节状浸润，EBER(-)，免疫表型：CD3(-)、CD10(-)、Cyclin D1(-)、CD5(-)，BCL-2(+)、BCL-6(+)、CD20(+)、CD23(+)、CD30(+)，Ki-67≈70%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：右腹股沟淋巴结弥漫增生的中等至大淋巴样细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+病理：回盲部穿刺组织示滤泡性淋巴瘤1-2级,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：左侧腹股沟淋巴结滤泡样增生，中心细胞为主伴少量中心母细胞（1–2级）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+"病理：左侧腹股沟淋巴结滤泡样增生；免疫组化：CD20(+), CD10(+), BCL6(+), MUM1(-), BCL-2强阳性(>90%), Ki-67约8%",strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：左侧腹股沟淋巴结滤泡样结构增生，中心细胞为主,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：左侧颈部淋巴结弥漫性大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+"病理：左侧颈部淋巴结滤泡样结构增生；免疫组化：CD20(+), CD10(+), BCL6(+), BCL-2强阳性, Ki-67约27%",strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：左颈部淋巴结滤泡样结构增生，中心细胞为主，中心母细胞≤15个/HPF,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：干酪样坏死,strongly_supports,结核性周围淋巴结病
+病理：干酪样坏死、类上皮细胞及朗汉斯巨细胞,strongly_supports,结核性周围淋巴结病
+病理：干酪样坏死、类上皮细胞及朗汉斯巨细胞聚集,strongly_supports,结核性周围淋巴结病
+病理：干酪样坏死伴类上皮细胞及朗汉斯巨细胞,strongly_supports,结核性周围淋巴结病
+病理：干酪样坏死伴类上皮细胞及朗汉斯巨细胞聚集,strongly_supports,结核性周围淋巴结病
+病理：干酪样坏死及结核性肉芽肿,strongly_supports,结核性周围淋巴结病
+病理：干酪样坏死性肉芽肿性炎,strongly_supports,结核性周围淋巴结病
+病理：弥漫性中等至大B细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+病理：弥漫性中等至大B细胞浸润，核圆形或不规则，核仁明显，核分裂象易见,strongly_supports,弥漫大B细胞淋巴瘤
+病理：弥漫性大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+病理：弥漫性大B细胞淋巴瘤（淋巴结穿刺活检）,strongly_supports,弥漫大B细胞淋巴瘤
+病理：弥漫性大B细胞淋巴瘤，Non-GCB型（Hans分型）,strongly_supports,弥漫大B细胞淋巴瘤
+病理：弥漫性异型大淋巴样细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+病理：弥漫性异型大淋巴样细胞浸润（腹膜后淋巴结）,strongly_supports,弥漫大B细胞淋巴瘤
+"病理：弥漫性异型大淋巴样细胞浸润，免疫组化CD20(+), CD79a(+), PAX5(+), Ki-67约83%",strongly_supports,弥漫大B细胞淋巴瘤
+病理：弥漫性异型大淋巴样细胞浸润，核大、核仁明显，核分裂象易见,strongly_supports,弥漫大B细胞淋巴瘤
+病理：弥漫性异型大淋巴样细胞浸润，淋巴结结构破坏,strongly_supports,弥漫大B细胞淋巴瘤
+病理：弥漫性异型淋巴样细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+病理：弥漫性异型淋巴样细胞浸润（核大、核仁明显、核分裂象易见）,strongly_supports,弥漫大B细胞淋巴瘤
+病理：弥漫性异型淋巴样细胞浸润，免疫组化：CD20弥漫强阳性,strongly_supports,弥漫大B细胞淋巴瘤
+病理：弥漫性异型淋巴样细胞浸润，母细胞样形态,strongly_supports,套细胞淋巴瘤
+病理：抗酸染色(+),strongly_supports,结核性周围淋巴结病
+病理：抗酸染色阳性（查见抗酸杆菌）,strongly_supports,结核性周围淋巴结病
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,上腹部不适
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,下肢无力
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,乏力
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,喘憋
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,夜间疼痛明显
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,左上腹隐痛
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,恶心
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,无痛性乳房肿物
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,盗汗
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,背部疼痛
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,胸闷
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,胸闷气短
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,腰背部疼痛
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,腹痛
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,食欲减退
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,低热
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,体力明显下降
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,体重下降
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,体重减轻
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,全身浅表淋巴结未触及肿大
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,午后低热
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,厌食
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,双侧腹股沟淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,双侧腹股沟疼痛
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,咳嗽
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,咳痰
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,夜间盗汗
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,头晕
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,头晕乏力
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,左上腹饱胀不适
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,左上腹饱胀感
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,左颌下肿物
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,早饱感
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,查体：右下肢水肿
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,活动后气促
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,活动耐力下降
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,腰困
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,腹泻
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,腹股沟区疼痛
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,腹胀
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,腹部疼痛
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,腹部隐痛
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,贫血
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,轻度乏力
+病理：未特指的滤泡性淋巴瘤,has_typical_symptom,颈部淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,CT：肠系膜多发淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,CT：腹膜后融合性软组织包块
+病理：未特指的滤泡性淋巴瘤,manifests_as,颈部肿物
+病理：未特指的滤泡性淋巴瘤,manifests_as,全身多发淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,双侧腹股沟区肿大淋巴结
+病理：未特指的滤泡性淋巴瘤,manifests_as,双侧腹股沟多发肿大淋巴结
+病理：未特指的滤泡性淋巴瘤,manifests_as,双侧腹股沟淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,右下腹深压轻度不适
+病理：未特指的滤泡性淋巴瘤,manifests_as,右下腹轻压痛
+病理：未特指的滤泡性淋巴瘤,manifests_as,回盲部肠壁不均匀增厚
+病理：未特指的滤泡性淋巴瘤,manifests_as,回盲部肠壁增厚
+病理：未特指的滤泡性淋巴瘤,manifests_as,多发无痛性淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,多发淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,多浆膜腔积液
+病理：未特指的滤泡性淋巴瘤,manifests_as,左上腹包块
+病理：未特指的滤泡性淋巴瘤,manifests_as,左上腹膨隆
+病理：未特指的滤泡性淋巴瘤,manifests_as,左侧颌下可触及数枚大小1.0–3.0 cm的实性肿物，相互融合，边界尚清
+病理：未特指的滤泡性淋巴瘤,manifests_as,影像/查体：腹腔淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,影像学：肠系膜及腹膜后多发淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,影像学：肠系膜多发低回声结节
+病理：未特指的滤泡性淋巴瘤,manifests_as,影像学：腹膜后多发淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：全身多发肿大淋巴结
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：双侧腹股沟多发肿大淋巴结
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：双侧锁骨上及颈部肿大淋巴结
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：右下腹压痛
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：右下腹深压轻不适
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：右乳上象限质韧、边界欠清肿物
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：左上腹饱满
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：左侧腹股沟肿胀
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：睑结膜苍白
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：脾脏增大
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：脾脏肋下刚可触及
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：脾脏肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：脾轻度肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：腋窝淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：腹股沟多发淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：腹股沟深部淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：轻度贫血貌
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：颈部多发无痛性淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：颈部无痛性肿大淋巴结
+病理：未特指的滤泡性淋巴瘤,manifests_as,查体：颈部淋巴结肿大，质地稍硬，活动良好
+病理：未特指的滤泡性淋巴瘤,manifests_as,浅表淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,病理：甲状腺部分切除术偶见淋巴结
+病理：未特指的滤泡性淋巴瘤,manifests_as,肝脾大
+病理：未特指的滤泡性淋巴瘤,manifests_as,肠系膜多发肿大淋巴结
+病理：未特指的滤泡性淋巴瘤,manifests_as,肠系膜根部肿物
+病理：未特指的滤泡性淋巴瘤,manifests_as,脾内多发实质性病变
+病理：未特指的滤泡性淋巴瘤,manifests_as,脾大
+病理：未特指的滤泡性淋巴瘤,manifests_as,脾肋下刚可触及
+病理：未特指的滤泡性淋巴瘤,manifests_as,脾肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,脾脏显著增大
+病理：未特指的滤泡性淋巴瘤,manifests_as,脾脏轻度增大
+病理：未特指的滤泡性淋巴瘤,manifests_as,脾脏轻度肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,腹股沟多发无痛性肿大淋巴结
+病理：未特指的滤泡性淋巴瘤,manifests_as,腹股沟无痛性淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,腹股沟淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,腹胀
+病理：未特指的滤泡性淋巴瘤,manifests_as,腹腔内多发肿大淋巴结
+病理：未特指的滤泡性淋巴瘤,manifests_as,腹腔多发淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,腹膜增厚
+病理：未特指的滤泡性淋巴瘤,manifests_as,腹部淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,腹部膨隆，可触及大小不一融合实质性肿块
+病理：未特指的滤泡性淋巴瘤,manifests_as,轻度苍白貌
+病理：未特指的滤泡性淋巴瘤,manifests_as,轻度贫血
+病理：未特指的滤泡性淋巴瘤,manifests_as,面色苍白
+病理：未特指的滤泡性淋巴瘤,manifests_as,颈部多发淋巴结肿大
+病理：未特指的滤泡性淋巴瘤,manifests_as,颈部多发肿大淋巴结
+病理：未特指的滤泡性淋巴瘤,needs_differentiation_from,肠道功能紊乱
+病理：未特指的滤泡性淋巴瘤,needs_differentiation_from,慢性胃炎
+病理：未特指的滤泡性淋巴瘤,needs_differentiation_from,病理：反应性淋巴结增生
+病理：未特指的滤泡性淋巴瘤,needs_differentiation_from,肠道占位
+病理：未特指的滤泡性淋巴瘤,needs_differentiation_from,营养不良
+病理：未特指的滤泡性淋巴瘤,needs_differentiation_from,隐匿性转移癌
+病理：淋巴滤泡中央深染，周围淡染，淡染区厚薄不一呈环状包绕,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：淋巴滤泡样结构增生，中心母细胞≤15/HPF，符合滤泡性淋巴瘤1-2级,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：淋巴滤泡结构增生，中心细胞为主，核裂明显，套区变薄,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：淋巴组织滤泡样结构增生，部分滤泡融合，中心母细胞>15/HPF，符合滤泡性淋巴瘤3A级,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：淋巴组织肉芽肿性病变伴坏死,strongly_supports,结核性周围淋巴结病
+病理：淋巴结正常结构消失，代之以大小不等结节，结节内大淋巴样细胞弥漫分布,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：淋巴结正常结构消失，淋巴组织增生，中等大小淋巴细胞弥漫分布，排列紧密,strongly_supports,套细胞淋巴瘤
+病理：淋巴结皮髓质结构消失，滤泡样结构弥漫增生,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：淋巴结穿刺活检示滤泡样增生（中心细胞为主）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：淋巴结结构破坏伴弥漫性中等至大细胞浸润,strongly_supports,套细胞淋巴瘤
+病理：淋巴结结构破坏，呈结节状生长，细胞弥漫、核大、胞浆稀少,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：淋巴结结构破坏，小至中等大小异型淋巴细胞弥漫性增生,strongly_supports,套细胞淋巴瘤
+病理：淋巴结结构破坏，弥漫性中等大小淋巴样细胞浸润，部分核不规则，母细胞样形态,strongly_supports,套细胞淋巴瘤
+病理：淋巴结结构破坏，弥漫性大细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+病理：淋巴结结构破坏，弥漫性异型大细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+病理：淋巴结结构部分破坏伴滤泡样增生,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：淋巴结结构部分破坏伴滤泡样结构增生,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：淋巴结结核（TB-DNA阳性）,strongly_supports,结核性周围淋巴结病
+病理：滤泡性淋巴瘤1-2级（滤泡样结构，中心母细胞增多）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：滤泡性淋巴瘤1–2级,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：滤泡性淋巴瘤1–2级（滤泡为主，局灶弥漫）；免疫组化：CD20(+)、CD10(+)、BCL-6(+)、MUM1(弱+)、BCL-2(>90%+)、Ki-67(22%),strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：滤泡性淋巴瘤3A级,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：滤泡性淋巴瘤3A级（滤泡性生长模式，中心细胞为主，核分裂象增多）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：滤泡性淋巴瘤，3A级,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：滤泡性淋巴瘤，3B级,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：滤泡样结构增生，中心细胞为主，中心母细胞>15/HPF,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：滤泡结构部分保留，滤泡中心细胞与中心母细胞混杂，中心母细胞≥15个/HPF，符合滤泡性淋巴瘤3B级,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：直肠慢性炎伴大量淋巴细胞浸润,strongly_supports,套细胞淋巴瘤
+病理：直肠黏膜内淋巴组织增生,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：类上皮细胞及朗汉斯巨细胞,strongly_supports,结核性周围淋巴结病
+病理：类上皮细胞栅栏状排列,strongly_supports,结核性周围淋巴结病
+病理：类上皮细胞聚集,strongly_supports,结核性周围淋巴结病
+病理：纵隔镜活检示弥漫性异型大淋巴样细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+病理：结核性肉芽肿,strongly_supports,结核性周围淋巴结病
+病理：结核性肉芽肿（伴干酪样坏死、类上皮细胞及朗汉斯巨细胞）,strongly_supports,结核性周围淋巴结病
+病理：肉芽肿性炎伴干酪样坏死，可见类上皮细胞及朗汉斯巨细胞,strongly_supports,结核性周围淋巴结病
+病理：肉芽肿性炎伴干酪样坏死，类上皮细胞聚集，朗汉斯巨细胞,strongly_supports,结核性周围淋巴结病
+病理：肉芽肿性炎伴干酪样坏死，类上皮细胞聚集，朗汉斯巨细胞，抗酸染色：(+),strongly_supports,结核性周围淋巴结病
+病理：肉芽肿性炎伴干酪样坏死，见类上皮细胞及朗汉斯巨细胞,strongly_supports,结核性周围淋巴结病
+病理：肉芽肿性炎伴朗汉斯巨细胞,strongly_supports,结核性周围淋巴结病
+病理：肉芽肿性炎（类上皮细胞及朗汉斯巨细胞）,strongly_supports,结核性周围淋巴结病
+病理：肠系膜淋巴结结构部分破坏，见典型滤泡样结构，中心母细胞≤15/HPF,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：肺侵袭性B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+病理：胃肠间质瘤合并滤泡性淋巴瘤（Ⅰ级）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：胃镜活检示黏膜内弥漫性异型淋巴细胞浸润,strongly_supports,套细胞淋巴瘤
+病理：胃黏膜内弥漫浸润中等大小淋巴样细胞，核形不规则，染色质较粗,strongly_supports,套细胞淋巴瘤
+病理：胃黏膜弥漫性小至中等淋巴样细胞浸润，核形不规则,strongly_supports,套细胞淋巴瘤
+病理：胃黏膜弥漫性异型淋巴样细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+病理：脾脏结构完全破坏，弥漫性小至中等淋巴细胞浸润，免疫表型与骨髓一致,strongly_supports,套细胞淋巴瘤
+病理：脾门淋巴结穿刺活检示典型滤泡样结构，免疫组化CD20(+)、CD10(+)、BCL6(+)、BCL-2强(+)，Ki-67约26%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：腋窝淋巴结穿刺活检示非霍奇金B细胞淋巴瘤，结合免疫组化考虑滤泡性淋巴瘤,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：腹膜后淋巴结弥漫性中-大B细胞浸润，CD20(强+),strongly_supports,弥漫大B细胞淋巴瘤
+病理：腹膜后淋巴结穿刺活检示弥漫性大细胞浸润，核大、异型明显，核仁突出,strongly_supports,弥漫大B细胞淋巴瘤
+病理：腹膜后淋巴结穿刺活检示弥漫性异型大淋巴样细胞浸润，免疫组化CD20(+)、PAX-5(+)、CD19(+)、CD3(-)、BCL-6(+)、MUM-1(+)、BCL-2强(+)、c-MYC弱(+)、Ki-67(66%),strongly_supports,弥漫大B细胞淋巴瘤
+病理：镜下见弥漫性中等至大B细胞浸润，核形不规则，核仁明显，核分裂象易见,strongly_supports,弥漫大B细胞淋巴瘤
+病理：非特异性慢性炎症,strongly_supports,慢性淋巴结炎
+"病理：颈部淋巴结弥漫大B细胞淋巴瘤（EBV+, BCL-2+/c-MYC+）",strongly_supports,弥漫大B细胞淋巴瘤
+病理：颈部淋巴结弥漫性异型大淋巴样细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+病理：颈部淋巴结穿刺活检示弥漫大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+病理：颈部淋巴结结构破坏，弥漫性异型大B细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+病理：骨髓中小淋巴细胞浸润（42%）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：骨髓中异常小淋巴细胞浸润,supports,套细胞淋巴瘤
+病理：骨髓局灶性淋巴细胞浸润,supports,套细胞淋巴瘤
+"病理：骨髓弥漫大B细胞淋巴瘤浸润（CD20+, CD10+, BCL6+, BCL-2强+, Ki-67 17%, t(14;18)+）",strongly_supports,病理：未特指的滤泡性淋巴瘤
+"病理：骨髓弥漫性异型小B细胞浸润；免疫组化：CD20(+), CD5(+), Cyclin D1强阳性, SOX11(+), CD10(-), CD23(-), BCL6(-), Ki-67约86%",strongly_supports,套细胞淋巴瘤
+病理：骨髓弥漫性淋巴样细胞浸润，细胞中等大小，核形不规则,strongly_supports,套细胞淋巴瘤
+病理：骨髓未见淋巴瘤细胞浸润,supports,弥漫大B细胞淋巴瘤
+病理：骨髓淋巴样细胞弥漫浸润,strongly_supports,套细胞淋巴瘤
+病理：骨髓淋巴瘤侵犯,strongly_supports,套细胞淋巴瘤
+病理：骨髓淋巴瘤浸润，与胃部一致,strongly_supports,套细胞淋巴瘤
+病理：骨髓淋巴细胞比例增高,supports,套细胞淋巴瘤
+病理：骨髓细胞核比例升高，符合滤泡性淋巴瘤表现；免疫组化：CD20(+)、CD19(+)、CD23(-)、CD5(-),strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：高度侵袭性B细胞淋巴瘤（考虑DLBCL/Burkitt/高级别B细胞淋巴瘤）,strongly_supports,弥漫大B细胞淋巴瘤
+病理：高级别B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+病理：黏膜下密集淋巴样细胞浸润，呈滤泡样结构，中心母细胞≤15/HPF,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：黏膜下层及固有肌层内小至中等淋巴样细胞呈滤泡样浸润（滤泡比例约60%）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+病理：黏膜固有层及黏膜下层弥漫浸润中等大小异型淋巴细胞，核形不规则，染色质粗糙,strongly_supports,套细胞淋巴瘤
+病理：黏膜固有层异型淋巴细胞浸润，呈滤泡样结构,strongly_supports,病理：未特指的滤泡性淋巴瘤
+白细胞介素2受体升高,supports,弥漫大B细胞淋巴瘤
+白细胞介素2受体升高（2251.0 U/mL）,supports,弥漫大B细胞淋巴瘤
+白细胞减少,supports,弥漫大B细胞淋巴瘤
+白细胞升高（11.2×10⁹/L）,supports,慢性淋巴结炎
+白细胞升高（WBC 11.3×10⁹/L）,supports,弥漫大B细胞淋巴瘤
+白细胞升高（WBC 15.8×10⁹/L），中性粒细胞比例升高（N 82%）,supports,急性淋巴结炎
+白细胞升高（WBC 22.74×10⁹/L）,supports,非特异性肠系膜淋巴结炎
+白细胞计数19.5×10⁹/L,supports,急性淋巴结炎
+白细胞计数升高,supports,套细胞淋巴瘤
+白细胞计数升高,supports,急性淋巴结炎
+白细胞计数升高,supports,非特异性肠系膜淋巴结炎
+白细胞计数升高（13.3×10⁹/L）,supports,急性淋巴结炎
+白细胞计数升高（13.5×10⁹/L）,supports,急性淋巴结炎
+白细胞计数升高（14.5×10⁹/L）,supports,急性淋巴结炎
+白细胞计数升高（14.7×10⁹/L）,supports,急性淋巴结炎
+白细胞计数升高（14.8×10⁹/L）,supports,急性淋巴结炎
+白细胞计数升高（14.9×10⁹/L）,supports,急性淋巴结炎
+白细胞计数升高（15.6×10⁹/L）,supports,急性淋巴结炎
+白细胞计数升高（16.2×10⁹/L）,supports,急性淋巴结炎
+白细胞计数升高（16.8×10⁹/L）,supports,急性淋巴结炎
+白细胞计数升高（18.0×10⁹/L）,supports,急性淋巴结炎
+白细胞计数升高（18.2×10⁹/L）,supports,急性淋巴结炎
+白细胞计数升高（18.4×10⁹/L）,supports,急性淋巴结炎
+白细胞计数升高（18.6×10⁹/L）,supports,急性淋巴结炎
+白细胞计数升高（19.9×10⁹/L）,supports,急性淋巴结炎
+白细胞计数升高（20.4×10⁹/L），中性粒细胞比例升高（88.8%）,supports,急性淋巴结炎
+白细胞计数升高（20.5×10⁹/L）,supports,急性淋巴结炎
+白细胞计数升高（36×10⁹/L）,supports,套细胞淋巴瘤
+白细胞计数升高（WBC 16.1×10⁹/L）,supports,急性淋巴结炎
+白细胞计数及中性粒细胞比例正常,supports,慢性淋巴结炎
+白细胞计数正常,supports,慢性淋巴结炎
+白细胞计数正常（9.2×10⁹/L）,supports,非特异性肠系膜淋巴结炎
+白细胞计数正常（9.8×10⁹/L），中性粒细胞比例正常（62%），CRP <5 mg/L,supports,非特异性肠系膜淋巴结炎
+白细胞计数正常，中性粒细胞比例正常，C反应蛋白<5mg/L,supports,非特异性肠系膜淋巴结炎
+白细胞计数轻度升高（WBC 10.2×10⁹/L），中性粒细胞比例正常（N 58%），CRP正常（<5 mg/L）,supports,非特异性肠系膜淋巴结炎
+白细胞计数降低,supports,病理：未特指的滤泡性淋巴瘤
+皮肤搔抓破损,increases_risk_of,慢性淋巴结炎
+皮肤破损继发感染,increases_risk_of,慢性淋巴结炎
+皮肤破损（右足趾间抓挠后）,increases_risk_of,急性淋巴结炎
+皮肤破损（右足趾间糜烂）,increases_risk_of,急性淋巴结炎
+皮肤破溃继发细菌感染,increases_risk_of,慢性淋巴结炎
+皮脂腺囊肿继发感染,increases_risk_of,急性淋巴结炎
+真菌镜检（KOH法）：(+),supports,急性淋巴结炎
+穿刺抽出灰白色豆渣样脓液,supports,结核性周围淋巴结病
+穿刺抽出物呈黄白色豆渣样物质,supports,结核性周围淋巴结病
+穿刺抽出黄白色“豆渣样”脓液,strongly_supports,结核性周围淋巴结病
+穿刺抽出黄白色豆渣样脓液,supports,结核性周围淋巴结病
+穿刺抽吸物呈黄白色豆渣样,supports,结核性周围淋巴结病
+穿刺抽吸物呈黄白色豆渣样物质,supports,结核性周围淋巴结病
+类上皮细胞及多核朗汉斯巨细胞,strongly_supports,结核性周围淋巴结病
+类上皮细胞及朗汉斯巨细胞聚集,strongly_supports,结核性周围淋巴结病
+类上皮细胞聚集及多核朗汉斯巨细胞,strongly_supports,结核性周围淋巴结病
+粪常规：隐血试验+++,supports,套细胞淋巴瘤
+粪隐血阳性,supports,弥漫大B细胞淋巴瘤
+糖尿病,increases_risk_of,病理：未特指的滤泡性淋巴瘤
+纵隔及左锁骨上区多发淋巴结肿大伴环形强化,supports,结核性周围淋巴结病
+纵隔多发肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+纵隔肿块穿刺活检病理：弥漫性大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+纵隔镜活检病理示弥漫性大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+纵隔镜活检病理：弥漫性大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+纵隔镜活检病理：弥漫性异型大淋巴样细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+细胞学穿刺：散在一致的淋巴源细胞，考虑为非霍奇金淋巴瘤,supports,病理：未特指的滤泡性淋巴瘤
+细胞学：大量坏死碎屑及类上皮细胞,strongly_supports,结核性周围淋巴结病
+细胞遗传学：t(11;14)(q13;q32)易位,strongly_supports,套细胞淋巴瘤
+细菌培养：无化脓性致病菌生长,supports,结核性周围淋巴结病
+细菌感染,increases_risk_of,慢性淋巴结炎
+细针穿刺抽出豆渣样脓液,supports,结核性周围淋巴结病
+结核,needs_differentiation_from,急性淋巴结炎
+结核分枝杆菌GeneXpert MTB/RIF检测(+),strongly_supports,结核性周围淋巴结病
+结核分枝杆菌PCR检查阳性,strongly_supports,结核性周围淋巴结病
+结核性周围淋巴结病,has_typical_symptom,乏力
+结核性周围淋巴结病,has_typical_symptom,体重明显下降
+结核性周围淋巴结病,has_typical_symptom,咳白黏痰
+结核性周围淋巴结病,has_typical_symptom,无痛性颈部肿块进行性增大
+结核性周围淋巴结病,has_typical_symptom,消瘦
+结核性周围淋巴结病,has_typical_symptom,盗汗
+结核性周围淋巴结病,has_typical_symptom,神疲乏力
+结核性周围淋巴结病,has_typical_symptom,纳差
+结核性周围淋巴结病,has_typical_symptom,颈部双侧结节
+结核性周围淋巴结病,has_typical_symptom,颈部肿物
+结核性周围淋巴结病,has_typical_symptom,颈部肿痛
+结核性周围淋巴结病,has_typical_symptom,食欲减退
+结核性周围淋巴结病,has_typical_symptom,低热
+结核性周围淋巴结病,has_typical_symptom,体重下降
+结核性周围淋巴结病,has_typical_symptom,体重减轻
+结核性周围淋巴结病,has_typical_symptom,午后低热
+结核性周围淋巴结病,has_typical_symptom,右侧颈部无痛性肿块进行性增大
+结核性周围淋巴结病,has_typical_symptom,咳嗽
+结核性周围淋巴结病,has_typical_symptom,咳痰
+结核性周围淋巴结病,has_typical_symptom,夜间盗汗
+结核性周围淋巴结病,has_typical_symptom,慢性咳嗽
+结核性周围淋巴结病,has_typical_symptom,明显消瘦
+结核性周围淋巴结病,has_typical_symptom,查体：无痛性颈部淋巴结肿大
+结核性周围淋巴结病,has_typical_symptom,查体：无痛性颈部肿块
+结核性周围淋巴结病,has_typical_symptom,查体：颌下肿痛
+结核性周围淋巴结病,has_typical_symptom,痰中带血丝
+结核性周围淋巴结病,has_typical_symptom,轻度疼痛不适
+结核性周围淋巴结病,has_typical_symptom,颈部无痛性肿块进行性增大
+结核性周围淋巴结病,manifests_as,C反应蛋白轻度升高
+结核性周围淋巴结病,manifests_as,中央区明显波动感
+结核性周围淋巴结病,manifests_as,左侧锁骨上无痛性包块进行性增大
+结核性周围淋巴结病,manifests_as,无痛性进行性淋巴结肿大
+结核性周围淋巴结病,manifests_as,消瘦
+结核性周围淋巴结病,manifests_as,体型偏瘦
+结核性周围淋巴结病,manifests_as,体温升高（37.5°C）
+结核性周围淋巴结病,manifests_as,双侧锁骨上可触及绿豆大小淋巴结数枚
+结核性周围淋巴结病,manifests_as,双侧颈部及腹股沟多发淋巴结肿大
+结核性周围淋巴结病,manifests_as,右侧颈部淋巴结肿大
+结核性周围淋巴结病,manifests_as,多发浅表淋巴结肿大
+结核性周围淋巴结病,manifests_as,多发淋巴结肿大
+结核性周围淋巴结病,manifests_as,多处浅表淋巴结肿大
+结核性周围淋巴结病,manifests_as,局部皮肤发红
+结核性周围淋巴结病,manifests_as,局部皮肤微红
+结核性周围淋巴结病,manifests_as,局部皮肤微红、皮温升高
+结核性周围淋巴结病,manifests_as,局部皮肤暗红伴轻微波动感
+结核性周围淋巴结病,manifests_as,局部皮肤红肿伴波动感
+结核性周围淋巴结病,manifests_as,局部皮肤轻度发红
+结核性周围淋巴结病,manifests_as,局部红肿伴波动感
+结核性周围淋巴结病,manifests_as,局部轻度波动感
+结核性周围淋巴结病,manifests_as,干酪样坏死物质
+结核性周围淋巴结病,manifests_as,影像：边界欠清
+结核性周围淋巴结病,manifests_as,按之微热
+结核性周围淋巴结病,manifests_as,无痛性肿块
+结核性周围淋巴结病,manifests_as,朗汉斯巨细胞
+结核性周围淋巴结病,manifests_as,查体：双侧颈部及腹股沟淋巴结进行性肿大
+结核性周围淋巴结病,manifests_as,查体：双侧颈部多发淋巴结肿大
+结核性周围淋巴结病,manifests_as,查体：双侧颈部多发淋巴结肿大（质硬、可活动、无粘连）
+结核性周围淋巴结病,manifests_as,查体：双侧颈部淋巴结肿大
+结核性周围淋巴结病,manifests_as,查体：右侧锁骨上多发肿大淋巴结，质韧，活动可
+结核性周围淋巴结病,manifests_as,查体：右侧颈部淋巴结群肿大、融合成团
+结核性周围淋巴结病,manifests_as,查体：右颈部多个肿大淋巴结，质韧、活动可
+结核性周围淋巴结病,manifests_as,查体：多处淋巴结肿大
+结核性周围淋巴结病,manifests_as,查体：局部皮温略高
+结核性周围淋巴结病,manifests_as,查体：局部皮肤微红伴轻度波动感
+结核性周围淋巴结病,manifests_as,查体：局部皮肤无红肿、无破溃、无窦道
+结核性周围淋巴结病,manifests_as,查体：局部皮肤红肿
+结核性周围淋巴结病,manifests_as,查体：局部皮肤红肿、皮温升高
+结核性周围淋巴结病,manifests_as,查体：局部红肿
+结核性周围淋巴结病,manifests_as,查体：局部轻微波动感
+结核性周围淋巴结病,manifests_as,查体：左侧锁骨上区无痛性包块
+结核性周围淋巴结病,manifests_as,查体：左侧锁骨上无痛性包块
+结核性周围淋巴结病,manifests_as,查体：左侧锁骨上无痛性淋巴结肿大
+结核性周围淋巴结病,manifests_as,查体：左侧锁骨上无痛性肿块
+结核性周围淋巴结病,manifests_as,查体：左侧锁骨上淋巴结肿大
+结核性周围淋巴结病,manifests_as,查体：慢性病容
+结核性周围淋巴结病,manifests_as,查体：淋巴结与周围组织粘连
+结核性周围淋巴结病,manifests_as,查体：淋巴结与周围组织粘连、活动度差
+结核性周围淋巴结病,manifests_as,查体：淋巴结与周围组织轻度粘连
+结核性周围淋巴结病,manifests_as,查体：淋巴结中央区波动感
+结核性周围淋巴结病,manifests_as,查体：淋巴结中央波动感
+结核性周围淋巴结病,manifests_as,查体：淋巴结中央软化呈波动感
+结核性周围淋巴结病,manifests_as,查体：淋巴结有波动感
+结核性周围淋巴结病,manifests_as,查体：淋巴结活动度差
+结核性周围淋巴结病,manifests_as,查体：淋巴结融合成团、活动度差
+结核性周围淋巴结病,manifests_as,查体：淋巴结融合成团伴中心液化
+结核性周围淋巴结病,manifests_as,查体：淋巴结质地中等偏硬
+结核性周围淋巴结病,manifests_as,查体：淋巴结质地稍硬，活动度差
+结核性周围淋巴结病,manifests_as,查体：淋巴结质硬、活动度差
+结核性周围淋巴结病,manifests_as,查体：淋巴结质韧、活动度差、与周围组织轻度粘连
+结核性周围淋巴结病,manifests_as,查体：淋巴结质韧偏硬
+结核性周围淋巴结病,manifests_as,查体：淋巴结质韧偏硬、活动度差、轻度粘连
+结核性周围淋巴结病,manifests_as,查体：淋巴结软化
+结核性周围淋巴结病,manifests_as,查体：皮肤发红
+结核性周围淋巴结病,manifests_as,查体：皮肤发红、皮温略高
+结核性周围淋巴结病,manifests_as,查体：皮肤微红伴波动感
+结核性周围淋巴结病,manifests_as,查体：窦道形成伴灰白色豆渣样分泌物
+结核性周围淋巴结病,manifests_as,查体：耳后淋巴结肿大（2.0×1.5 cm），触痛，边界清，活动度可
+结核性周围淋巴结病,manifests_as,查体：肿物与周围组织粘连，活动度差
+结核性周围淋巴结病,manifests_as,查体：腹股沟多发淋巴结肿大
+结核性周围淋巴结病,manifests_as,查体：融合性包块
+结核性周围淋巴结病,manifests_as,查体：融合性淋巴结包块伴波动感
+结核性周围淋巴结病,manifests_as,查体：轻度压痛
+结核性周围淋巴结病,manifests_as,查体：轻度消瘦
+结核性周围淋巴结病,manifests_as,查体：部分淋巴结有波动感
+结核性周围淋巴结病,manifests_as,查体：颈部多发无痛性淋巴结肿大
+结核性周围淋巴结病,manifests_as,查体：颈部淋巴结融合成团伴波动感
+结核性周围淋巴结病,manifests_as,查体：颌下肿块
+结核性周围淋巴结病,manifests_as,波动感
+结核性周围淋巴结病,manifests_as,消瘦貌
+结核性周围淋巴结病,manifests_as,淋巴结中央区域波动感
+结核性周围淋巴结病,manifests_as,淋巴结中央区波动感
+结核性周围淋巴结病,manifests_as,淋巴结中央区轻度波动感
+结核性周围淋巴结病,manifests_as,淋巴结中央变软伴波动感
+结核性周围淋巴结病,manifests_as,淋巴结中央波动感
+结核性周围淋巴结病,manifests_as,淋巴结中心区域轻微波动感
+结核性周围淋巴结病,manifests_as,淋巴结压痛
+结核性周围淋巴结病,manifests_as,淋巴结波动感
+结核性周围淋巴结病,manifests_as,淋巴结活动度差
+结核性周围淋巴结病,manifests_as,淋巴结破溃伴豆渣样分泌物
+结核性周围淋巴结病,manifests_as,淋巴结肿大伴波动感
+结核性周围淋巴结病,manifests_as,淋巴结融合成团
+结核性周围淋巴结病,manifests_as,淋巴结融合成团伴软化
+结核性周围淋巴结病,manifests_as,淋巴结表面皮肤微红
+结核性周围淋巴结病,manifests_as,淋巴结质地由硬转韧
+结核性周围淋巴结病,manifests_as,淋巴结质地稍硬、活动度差、内部波动感
+结核性周围淋巴结病,manifests_as,淋巴结质韧偏硬、活动度差
+结核性周围淋巴结病,manifests_as,淋巴结质韧偏硬、活动度差、与周围组织粘连
+结核性周围淋巴结病,manifests_as,淋巴结软化、边界尚清、与周围组织轻度粘连
+结核性周围淋巴结病,manifests_as,淋巴结软化伴中央液化
+结核性周围淋巴结病,manifests_as,淋巴结轻压痛
+结核性周围淋巴结病,manifests_as,淋巴结轻度压痛
+结核性周围淋巴结病,manifests_as,淋巴结轻度波动感
+结核性周围淋巴结病,manifests_as,淋巴结边界不清
+结核性周围淋巴结病,manifests_as,淡黄色渗出
+结核性周围淋巴结病,manifests_as,病理：干酪样坏死
+结核性周围淋巴结病,manifests_as,病理：类上皮细胞聚集
+结核性周围淋巴结病,manifests_as,皮肤发红、皮温升高
+结核性周围淋巴结病,manifests_as,皮肤微红
+结核性周围淋巴结病,manifests_as,皮色发红
+结核性周围淋巴结病,manifests_as,窦道形成
+结核性周围淋巴结病,manifests_as,窦道形成伴豆渣样分泌物
+结核性周围淋巴结病,manifests_as,窦道形成伴豆渣样脓液
+结核性周围淋巴结病,manifests_as,腹股沟淋巴结肿大
+结核性周围淋巴结病,manifests_as,血沉增快
+结核性周围淋巴结病,manifests_as,触痛
+结核性周围淋巴结病,manifests_as,豆渣样分泌物
+结核性周围淋巴结病,manifests_as,超声：颈部融合性低回声团块伴液化
+结核性周围淋巴结病,manifests_as,轻度贫血
+结核性周围淋巴结病,manifests_as,边界不清的颈部肿块
+结核性周围淋巴结病,manifests_as,部分淋巴结中央区轻度波动感
+结核性周围淋巴结病,manifests_as,部分淋巴结表面皮肤微红
+结核性周围淋巴结病,manifests_as,锁骨上淋巴结肿大
+结核性周围淋巴结病,manifests_as,颈部多个质韧、活动可的肿物
+结核性周围淋巴结病,manifests_as,颈部无痛性肿块
+结核性周围淋巴结病,manifests_as,颈部无痛性肿块进行性增大
+结核性周围淋巴结病,manifests_as,颈部淋巴结肿大伴融合成团
+结核性周围淋巴结病,manifests_as,颈部肿块（边界不清、质地软）
+结核性周围淋巴结病,needs_differentiation_from,化脓性淋巴结炎
+结核性周围淋巴结病,needs_differentiation_from,急性化脓性淋巴结炎
+结核性周围淋巴结病,needs_differentiation_from,肺癌淋巴结转移
+结核性周围淋巴结病,needs_differentiation_from,肺癌转移
+结核性周围淋巴结病,needs_differentiation_from,化脓性颈部间隙感染
+结核性周围淋巴结病,needs_differentiation_from,急性淋巴结炎
+结核性周围淋巴结病,needs_differentiation_from,支气管炎
+结核性周围淋巴结病,needs_differentiation_from,淋巴瘤
+结核性周围淋巴结病,needs_differentiation_from,自身免疫相关淋巴结病
+结核性周围淋巴结病,needs_differentiation_from,转移性肿瘤
+结核性肉芽肿（类上皮细胞及朗汉斯巨细胞）,strongly_supports,结核性周围淋巴结病
+结核菌素试验（PPD）(-),supports,慢性淋巴结炎
+结核菌素试验（PPD）阴性,supports,慢性淋巴结炎
+结直肠黏膜固有层小淋巴样细胞弥漫性浸润伴淋巴上皮病损,strongly_supports,套细胞淋巴瘤
+羟丁酸脱氢酶升高,supports,弥漫大B细胞淋巴瘤
+老年男性,increases_risk_of,套细胞淋巴瘤
+肉芽肿性炎伴坏死,strongly_supports,结核性周围淋巴结病
+肉芽肿性炎伴干酪样坏死,strongly_supports,结核性周围淋巴结病
+肉芽肿性炎伴干酪样坏死，可见类上皮细胞聚集及朗汉斯巨细胞,strongly_supports,结核性周围淋巴结病
+肉芽肿性炎伴干酪样坏死，抗酸染色(+)，见类上皮细胞及朗汉斯巨细胞,strongly_supports,结核性周围淋巴结病
+肉芽肿性炎伴干酪样坏死，类上皮细胞及朗汉斯巨细胞可见,strongly_supports,结核性周围淋巴结病
+肉芽肿性炎伴干酪样坏死，类上皮细胞及朗汉斯巨细胞聚集,strongly_supports,结核性周围淋巴结病
+肠系膜及腹膜后多发淋巴结肿大（最大短径1.5cm）,supports,病理：未特指的滤泡性淋巴瘤
+肠系膜及腹膜后淋巴结肿大,supports,套细胞淋巴瘤
+肠系膜多发肿大淋巴结,supports,病理：未特指的滤泡性淋巴瘤
+肠系膜多发肿大淋巴结,supports,套细胞淋巴瘤
+肠系膜根部多个肿大淋巴结，呈串珠状及簇状分布，最大11.6mm×5.9mm，形态规则，边界清晰，皮髓质分界清楚，内部回声均匀，血流信号稀疏,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部多个肿大淋巴结，呈串珠状及簇状分布，最大15.3mm×8.9mm，形态规则，边界清晰，皮髓质分界清楚，内部回声均匀，血流信号稀疏,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部多个肿大淋巴结，呈串珠状及簇状分布，最大约12.0 mm × 8.8 mm，形态规则，皮髓质分界清楚，内部回声均匀，CDFI血流信号稀疏,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部多个肿大淋巴结，呈串珠状及簇状分布，最大约14.4mm×7.3mm，形态规则，边界清晰，皮髓质分界清楚，内部回声均匀，血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部多个肿大淋巴结，呈串珠状及簇状分布，最大约14.6mm×8.5mm，形态规则，皮髓质分界清晰，门部结构可见，内部血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部多个肿大淋巴结，呈串珠状及簇状分布，最大约14.7mm×7.8mm，形态规则，皮髓质分界清晰，门部结构可见，内部血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部多个肿大淋巴结，呈串珠状及簇状分布，最大约16.6mm×6.3mm，形态规则，边界清晰，皮髓质分界清楚，内部回声均匀，血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部多个肿大淋巴结，呈串珠状及簇状分布，最大约16.6mm×8.7mm，形态规则，边界清晰，皮髓质分界清楚，内部回声均匀，血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部多个肿大淋巴结，呈串珠状及簇状分布，最大约17.3 mm × 6.3 mm，形态规则，皮髓质分界清晰，门部结构可见，内部血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部多发低回声淋巴结，串珠状/簇状分布，边界清，皮髓质分界清，纵横比>2，血流稀少，RI≈0.62,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部多发肿大淋巴结（串珠/簇状，最大14.3×8.8 mm，皮髓质分界清晰，门结构可见，血流不丰富）,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部多发肿大淋巴结（串珠/簇状，最大15.0×8.2 mm，边界清，回声均匀）,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部多发肿大淋巴结（串珠状/簇状，最大13.6×9.0 mm），形态规则，皮髓质分界清晰，门结构可见，血流信号稀少,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部多发肿大淋巴结，串珠状及簇状分布，最大15.0mm×6.5mm，形态规则，边界清晰，皮髓质分界清楚，内部回声均匀，血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部多发肿大淋巴结，串珠状及簇状分布，最大15.9mm×7.3mm，形态规则，边界清晰，皮髓质分界清楚，内部回声均匀，血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部多发肿大淋巴结，最大约16.7×7.5mm，形态规则，皮髓质分界清，门结构可见，血流稀疏，RI约0.62,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部彩超：多发类圆形低回声结节，呈串珠状及簇状分布，边界清晰，皮髓质分界清楚，内部回声均匀，血流信号稀少，阻力指数0.58,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部超声/CT：多个肿大淋巴结，呈串珠状及簇状分布，最大约14.6mm×6.9mm，形态规则，皮髓质分界清晰，门部结构可见，内部血流信号稀少,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜根部超声/CT：多个肿大淋巴结，呈串珠状及簇状分布，最大约17.0mm×6.4mm，边界清晰，皮髓质分界清楚，门部结构可见，内部血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜淋巴结增多、增大,supports,弥漫大B细胞淋巴瘤
+肠系膜淋巴结肿大,strongly_supports,非特异性肠系膜淋巴结炎
+肠系膜淋巴结肿大,supports,套细胞淋巴瘤
+肠系膜淋巴结肿大,supports,急性淋巴结炎
+肠结核,needs_differentiation_from,病理：未特指的滤泡性淋巴瘤
+肠道慢性炎症,needs_differentiation_from,病理：未特指的滤泡性淋巴瘤
+肠镜活检：黏膜慢性炎伴淋巴组织增生,needs_differentiation_from,病理：未特指的滤泡性淋巴瘤
+肺主动脉干及部分分支受侵,supports,弥漫大B细胞淋巴瘤
+肺癌淋巴结转移,needs_differentiation_from,结核性周围淋巴结病
+肺部感染,needs_differentiation_from,结核性周围淋巴结病
+肺门周围肝肿块，考虑恶性肿瘤,supports,弥漫大B细胞淋巴瘤
+肿物病理：非霍奇金淋巴瘤（滤泡细胞性Ⅱ级）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+肿瘤细胞CD10(-),strongly_supports,套细胞淋巴瘤
+肿瘤细胞CD20(+),strongly_supports,弥漫大B细胞淋巴瘤
+肿瘤细胞SOX11部分表达（约40%）,strongly_supports,套细胞淋巴瘤
+肿瘤细胞不表达BCL-6,strongly_supports,套细胞淋巴瘤
+胃体及胃窦多发溃疡样隆起病变,supports,弥漫大B细胞淋巴瘤
+胃体大弯侧壁不规则增厚,supports,弥漫大B细胞淋巴瘤
+胃体大弯侧溃疡型隆起病灶,strongly_supports,弥漫大B细胞淋巴瘤
+胃体大弯侧黏膜组织内见大量异型淋巴样细胞弥漫浸润，细胞体积大，核深染，可见核仁，核分裂象多见,strongly_supports,弥漫大B细胞淋巴瘤
+胃体巨大溃疡型占位,supports,弥漫大B细胞淋巴瘤
+胃体至胃窦弥漫性黏膜结节样隆起,supports,套细胞淋巴瘤
+胃及小肠多点活检组织病理显示黏膜固有层及黏膜下层弥漫浸润的单形性小B细胞，免疫表型与骨髓一致,strongly_supports,套细胞淋巴瘤
+胃壁广泛增厚伴‘靶征’样改变,supports,套细胞淋巴瘤
+胃壁弥漫性增厚,supports,套细胞淋巴瘤
+胃壁弥漫性增厚伴多发小结节样隆起,supports,套细胞淋巴瘤
+胃窦及十二指肠球部多发黏膜隆起伴糜烂,supports,套细胞淋巴瘤
+胃窦及回盲瓣黏膜多发隆起,supports,病理：未特指的滤泡性淋巴瘤
+胃窦壁及十二指肠降部：不规则增厚，呈‘靶征’样强化,supports,套细胞淋巴瘤
+胃肠功能紊乱,needs_differentiation_from,非特异性肠系膜淋巴结炎
+胃镜活检：黏膜固有层及黏膜下层弥漫浸润的中等大小淋巴样细胞，核形不规则，染色质较粗,strongly_supports,套细胞淋巴瘤
+胃镜示胃体至胃窦多发黏膜下隆起伴表面糜烂,supports,套细胞淋巴瘤
+胃镜：胃体至胃窦黏膜粗糙伴结节样隆起,supports,套细胞淋巴瘤
+胃镜：胃窦、胃体及十二指肠球部黏膜下隆起伴糜烂,supports,套细胞淋巴瘤
+胃黏膜活检免疫组化：SOX11(+),strongly_supports,套细胞淋巴瘤
+胃黏膜活检病理：CD10(-),strongly_supports,套细胞淋巴瘤
+胃黏膜活检病理：CD23(-),strongly_supports,套细胞淋巴瘤
+胃黏膜活检病理：Cyclin D1(强+),strongly_supports,套细胞淋巴瘤
+胃黏膜活检病理：SOX11（强+）,strongly_supports,套细胞淋巴瘤
+胰周淋巴结增大,supports,弥漫大B细胞淋巴瘤
+胸部+腹部+盆腔增强CT：左腋窝多发融合性淋巴结肿大，脾脏轻度肿大,supports,弥漫大B细胞淋巴瘤
+胸部CT：双肺多发结节及团块影伴纵隔淋巴结增大,supports,结核性周围淋巴结病
+胸部CT：双肺尖纤维条索影及钙化灶,supports,结核性周围淋巴结病
+胸部CT：右上肺斑片影伴钙化及磨玻璃影,supports,结核性周围淋巴结病
+胸部CT：右上肺斑片状钙化灶伴磨玻璃影及细支气管壁增厚,supports,结核性周围淋巴结病
+胸部CT：右上肺斑片状钙化灶及磨玻璃影,supports,结核性周围淋巴结病
+胸部CT：右上肺活动性肺结核伴纵隔及左锁骨上淋巴结肿大,supports,结核性周围淋巴结病
+胸部CT：右上肺钙化灶伴条索影，左下肺磨玻璃小结节,supports,结核性周围淋巴结病
+胸部CT：右上肺钙化灶伴磨玻璃影,supports,结核性周围淋巴结病
+胸部CT：右上肺钙化灶伴磨玻璃样渗出影,supports,结核性周围淋巴结病
+胸部CT：右上肺钙化灶及磨玻璃影，陈旧性肺结核合并活动性病灶,supports,结核性周围淋巴结病
+胸部CT：右上肺陈旧性纤维钙化灶,supports,结核性周围淋巴结病
+胸部CT：右肺、肺内及纵隔巨大软组织团块影，考虑肿瘤,supports,弥漫大B细胞淋巴瘤
+胸部CT：左上肺斑片状高密度影伴钙化、树芽征,supports,结核性周围淋巴结病
+胸部CT：纵隔内多发肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+胸部CT：纵隔及双侧肺门多发肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+胸部CT：纵隔及左锁骨上区多发淋巴结肿大、部分融合,supports,结核性周围淋巴结病
+胸部HRCT：右上肺纤维条索、钙化、磨玻璃影及微小空洞,supports,结核性周围淋巴结病
+胸部增强CT：前纵隔不规则软组织肿块,supports,弥漫大B细胞淋巴瘤
+脓液涂片：抗酸染色阳性（抗酸杆菌）,strongly_supports,结核性周围淋巴结病
+脾功能亢进,needs_differentiation_from,病理：未特指的滤泡性淋巴瘤
+脾大,supports,弥漫大B细胞淋巴瘤
+脾大,supports,套细胞淋巴瘤
+脾略大,supports,病理：未特指的滤泡性淋巴瘤
+脾脏弥漫性信号异常,supports,套细胞淋巴瘤
+脾脏明显增大（CT）,supports,套细胞淋巴瘤
+脾脏显著增大,supports,病理：未特指的滤泡性淋巴瘤
+脾脏活检示弥漫性异型大淋巴样细胞浸润，免疫组化：CD20(+)、CD19(+)、PAX5(+)、BCL6(+)、MUM1(+)、BCL-2强阳性，Ki-67增殖指数约93%,strongly_supports,弥漫大B细胞淋巴瘤
+"脾脏穿刺活检病理：弥漫性中等至大淋巴样细胞浸润，免疫组化CD20(+), CD79a(+), PAX5(+), BCL6(+), MUM1(+), BCL2(+), Ki-67约94%",strongly_supports,弥漫大B细胞淋巴瘤
+脾脏穿刺活检病理：弥漫性大B细胞浸润，CD20(+)，CD10(-)，BCL6(+)，MUM1(+)，BCL2(85%+)，Ki-67(66%)，符合Non-GCB型弥漫大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+脾脏穿刺活检病理：弥漫性大B细胞浸润，免疫组化：CD20(+)、CD19(+)、Pax-5(+)、CD3(-)、CD5(-)、CD10(-)、BCL6(+)、MUM1(+)、BCL-2（80–90%+）、c-MYC（<40%+）、P53(>70%+)、Ki-67（约80%+）、TdT(-)、EBER1/2-ISH(-)，符合弥漫大B细胞淋巴瘤，Non-GCB型（Hans分型）,strongly_supports,弥漫大B细胞淋巴瘤
+脾脏穿刺活检病理：弥漫性异型大淋巴样细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+"脾脏穿刺活检病理：弥漫性异型大淋巴样细胞浸润，免疫组化CD20(+), CD79a(+), BCL6(+), MUM1(+), BCL2(约85%+), Ki-67(约87%+)",strongly_supports,弥漫大B细胞淋巴瘤
+脾脏穿刺活检病理：弥漫性异型淋巴样细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+脾脏穿刺病理：弥漫增生的中等至大B淋巴样细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+脾脏轻度增大（12.1 cm）,supports,病理：未特指的滤泡性淋巴瘤
+腋窝及腹股沟淋巴结超声示多个低回声结节，最大约2.1×1.6cm，形态规则，皮髓质分界尚清，可见清晰淋巴门，内部血流稀疏呈门型分布，无明显液化坏死,supports,慢性淋巴结炎
+腋窝淋巴结B超示双侧腋窝淋巴结肿大并异型,supports,病理：未特指的滤泡性淋巴瘤
+腹股沟淋巴结活检病理：非典型滤泡增生、滤泡间隙免疫母细胞及高内皮静脉增生,strongly_supports,病理：未特指的滤泡性淋巴瘤
+腹腔内淋巴结肿大,supports,非特异性肠系膜淋巴结炎
+腹腔及腹膜后多发肿大淋巴结,supports,套细胞淋巴瘤
+腹腔及腹膜后散在肿大淋巴结（CT所见）,supports,病理：未特指的滤泡性淋巴瘤
+腹腔多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+腹腔淋巴结穿刺活检：符合滤泡性淋巴瘤1-2级,strongly_supports,病理：未特指的滤泡性淋巴瘤
+腹膜后及肠系膜区多发肿大淋巴结,supports,套细胞淋巴瘤
+腹膜后及肠系膜区多发肿大淋巴结，部分融合成团,supports,弥漫大B细胞淋巴瘤
+腹膜后多发低回声团块（超声）,supports,弥漫大B细胞淋巴瘤
+腹膜后多发融合性淋巴结肿大,supports,弥漫大B细胞淋巴瘤
+腹膜后多发融合性淋巴结肿大（CT）,supports,弥漫大B细胞淋巴瘤
+腹膜后多发融合性肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+腹膜后淋巴结代谢显著增高（SUVmax 18.5）,supports,弥漫大B细胞淋巴瘤
+"腹膜后淋巴结弥漫性大细胞浸润；免疫组化：CD20(+), PAX-5(+), CD19(+), BCL-6(+), MUM-1(+), BCL-2(强+), c-MYC(30%+), Ki-67(65%)",strongly_supports,弥漫大B细胞淋巴瘤
+腹膜后淋巴结活检：弥漫性异型大淋巴细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+腹膜后淋巴结活检：弥漫性异型大淋巴细胞浸润，CD20强阳性,strongly_supports,弥漫大B细胞淋巴瘤
+腹膜后淋巴结穿刺活检病理示弥漫性异型大淋巴样细胞浸润，免疫组化CD20弥漫强(+),strongly_supports,弥漫大B细胞淋巴瘤
+腹膜后淋巴结穿刺活检病理：弥漫性异型淋巴样细胞浸润,strongly_supports,弥漫大B细胞淋巴瘤
+腹膜后融合性软组织包块（CT）,supports,病理：未特指的滤泡性淋巴瘤
+腹部+盆腔增强CT示右腹股沟多发融合淋巴结伴脂肪间隙模糊,supports,弥漫大B细胞淋巴瘤
+腹部CT：双侧腹股沟及髂血管旁多发淋巴结增大，脾脏轻度增大,supports,病理：未特指的滤泡性淋巴瘤
+腹部CT：脾大,supports,弥漫大B细胞淋巴瘤
+腹部CT：脾脏弥漫性增大,supports,套细胞淋巴瘤
+腹部CT：腹膜后多发淋巴结肿大,supports,弥漫大B细胞淋巴瘤
+腹部增强CT示双侧腹股沟、髂血管旁多发淋巴结肿大，最大短径1.8cm，边界清晰,supports,病理：未特指的滤泡性淋巴瘤
+腹部增强CT示脾脏弥漫性增大（18.2×8.5 cm）伴腹膜后及肠系膜淋巴结轻度增大,supports,套细胞淋巴瘤
+腹部增强CT示脾脏显著增大、多发融合性淋巴结,supports,病理：未特指的滤泡性淋巴瘤
+腹部增强CT示腹膜后多发融合淋巴结,supports,弥漫大B细胞淋巴瘤
+腹部增强CT：双侧腹股沟及髂血管旁多发淋巴结肿大，最大短径1.8 cm，边界清晰,supports,病理：未特指的滤泡性淋巴瘤
+腹部增强CT：多发淋巴结肿大、脾大,supports,病理：未特指的滤泡性淋巴瘤
+腹部增强CT：左腹股沟多发淋巴结肿大融合成团,supports,弥漫大B细胞淋巴瘤
+腹部增强CT：胃体壁增厚伴强化，周围脂肪间隙模糊，多发肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+腹部增强CT：胃体大弯侧壁增厚，呈软组织肿块影，强化不均，周围脂肪间隙模糊,supports,弥漫大B细胞淋巴瘤
+腹部增强CT：胃壁弥漫性增厚伴多发结节样隆起,supports,套细胞淋巴瘤
+腹部增强CT：脾大、回盲部肠壁增厚、多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+腹部增强CT：脾大、多发融合性淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+腹部增强CT：脾大、腹腔及腹膜后多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+腹部增强CT：脾大及腹腔多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+腹部增强CT：脾脏增大（18.2×8.5 cm），密度均匀，无局灶性病变,supports,套细胞淋巴瘤
+腹部增强CT：脾脏增大（18.5×7.0 cm）,supports,套细胞淋巴瘤
+腹部增强CT：脾脏多发占位性病变,supports,弥漫大B细胞淋巴瘤
+腹部增强CT：脾脏弥漫性增大,supports,套细胞淋巴瘤
+腹部增强CT：脾脏弥漫性增大伴多发低密度占位,supports,弥漫大B细胞淋巴瘤
+腹部增强CT：脾脏弥漫性增大伴多发低密度占位（边界不清），腹腔及腹膜后多发淋巴结肿大,supports,弥漫大B细胞淋巴瘤
+腹部增强CT：脾脏弥漫性增大（19.2×8.5 cm），密度均匀，无局灶占位，腹膜后及肠系膜未见明显肿大淋巴结,supports,套细胞淋巴瘤
+腹部增强CT：脾脏明显增大、腹腔多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+腹部增强CT：脾脏显著增大（18.6×7.2 cm）,supports,套细胞淋巴瘤
+腹部增强CT：脾脏显著增大，腹膜后及肠系膜区多发小淋巴结,supports,套细胞淋巴瘤
+腹部增强CT：脾脏轻度增大,supports,弥漫大B细胞淋巴瘤
+腹部增强CT：脾脏轻度增大,supports,病理：未特指的滤泡性淋巴瘤
+腹部增强CT：腹股沟及髂血管旁多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+腹部增强CT：腹腔及腹膜后多发淋巴结肿大,supports,弥漫大B细胞淋巴瘤
+腹部增强CT：腹膜后多发肿大淋巴结，融合成团，包绕腹主动脉及下腔静脉,supports,弥漫大B细胞淋巴瘤
+腹部增强CT：腹膜后多发融合性肿大淋巴结，最大径5.2cm,supports,弥漫大B细胞淋巴瘤
+腹部增强CT：腹膜后腹主动脉旁多发融合性淋巴结肿大（最大4.5×3.8cm）,supports,弥漫大B细胞淋巴瘤
+腹部彩色多普勒超声显示肠系膜根部多个类圆形低回声结节，呈串珠状及簇状分布，最大约13.6mm × 7.7mm，边界清晰，皮髓质分界清楚，纵横比>2，内部血流信号稀疏，阻力指数约0.62,supports,非特异性肠系膜淋巴结炎
+腹部影像：肠系膜根部多发肿大淋巴结（串珠/簇状，最大16.7×8.0mm，皮髓质分界清，门结构可见，血流不丰富）,strongly_supports,非特异性肠系膜淋巴结炎
+腹部超声示肠系膜根部多发低回声结节（最大17.4×6.6 mm，边界清，皮髓质分界清，血流稀疏，RI 0.62）,strongly_supports,非特异性肠系膜淋巴结炎
+腹部超声：肠系膜根部多个低回声结节，呈串珠状及簇状分布，最大11.9×8.2mm，边界清晰，皮髓质分界清楚，血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+腹部超声：肠系膜根部多个肿大淋巴结，呈串珠状及簇状分布，最大13.6×7.3mm，形态规则，皮髓质分界清晰，门结构可见，血流信号稀疏,strongly_supports,非特异性肠系膜淋巴结炎
+腹部超声：肠系膜根部多个肿大淋巴结，呈串珠状及簇状分布，最大13.7×8.0mm，形态规则，皮髓质分界清晰，门结构可见，血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+腹部超声：肠系膜根部多发肿大淋巴结，结构清晰,supports,非特异性肠系膜淋巴结炎
+腹部超声：脾轻度增大,supports,病理：未特指的滤泡性淋巴瘤
+腹部超声：阑尾未见明显增粗，腔内无粪石，周围无积液，蠕动存在,supports,非特异性肠系膜淋巴结炎
+腹部超声：阑尾未见明显增粗，腔内无粪石，周围无积液，血流信号正常,supports,非特异性肠系膜淋巴结炎
+膈肌上下广泛淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+自行外用糖皮质激素软膏（皮炎平）,increases_risk_of,急性淋巴结炎
+荧光原位杂交（FISH）：bcl-2阳性,strongly_supports,病理：未特指的滤泡性淋巴瘤
+血LDH升高（1358 U/L）,supports,弥漫大B细胞淋巴瘤
+血小板减少（PLT 112×10⁹/L）,supports,套细胞淋巴瘤
+血小板计数103×10^9/L,supports,套细胞淋巴瘤
+血小板计数降低,supports,弥漫大B细胞淋巴瘤
+血小板计数降低,supports,病理：未特指的滤泡性淋巴瘤
+血常规及CRP正常,supports,慢性淋巴结炎
+血常规及CRP正常,supports,非特异性肠系膜淋巴结炎
+血常规及CRP正常（WBC 9.8×10⁹/L，N% 62%，CRP<5mg/L）,supports,非特异性肠系膜淋巴结炎
+血常规未见明显异常,supports,慢性淋巴结炎
+血常规正常,supports,慢性淋巴结炎
+血常规正常（WBC 5.5×10⁹/L，中性粒细胞比例58.6%，淋巴细胞比例36.2%）,supports,慢性淋巴结炎
+血常规正常（WBC 6.2×10⁹/L，中性粒细胞比例正常）,supports,慢性淋巴结炎
+血常规正常（白细胞计数7.1×10⁹/L，中性粒细胞比例64.5%，CRP 5.4 mg/L）,supports,慢性淋巴结炎
+血常规正常（白细胞计数正常，中性粒细胞比例正常，CRP <5 mg/L）,supports,非特异性肠系膜淋巴结炎
+血常规正常，CRP轻度升高,supports,慢性淋巴结炎
+血常规白细胞及中性粒细胞比例正常,supports,慢性淋巴结炎
+血常规白细胞计数正常，中性粒细胞比例正常，C反应蛋白正常,supports,慢性淋巴结炎
+血常规示白细胞计数正常、中性粒细胞比例正常、淋巴细胞比例正常,supports,慢性淋巴结炎
+血常规：CRP 19.2 mg/L,supports,病理：未特指的滤泡性淋巴瘤
+血常规：CRP轻度升高（8.4 mg/L）,supports,慢性淋巴结炎
+血常规：ESR升高（38 mm/h）,supports,病理：未特指的滤泡性淋巴瘤
+血常规：HGB 102g/L,supports,弥漫大B细胞淋巴瘤
+血常规：Hb 101 g/L,supports,病理：未特指的滤泡性淋巴瘤
+血常规：Hb 104 g/L,supports,弥漫大B细胞淋巴瘤
+血常规：Hb 109 g/L,supports,病理：未特指的滤泡性淋巴瘤
+血常规：Hb 70 g/L,supports,套细胞淋巴瘤
+血常规：Hb 82 g/L,supports,弥漫大B细胞淋巴瘤
+血常规：Hb 91 g/L（轻度贫血）,supports,病理：未特指的滤泡性淋巴瘤
+血常规：Hb 92 g/L,supports,弥漫大B细胞淋巴瘤
+血常规：Hb 98 g/L,supports,套细胞淋巴瘤
+血常规：LDH升高（318 U/L）,supports,弥漫大B细胞淋巴瘤
+血常规：WBC 10.2×10⁹/L（↑），中性粒细胞62%（正常）,supports,非特异性肠系膜淋巴结炎
+"血常规：WBC 12.3×10⁹/L, 淋巴细胞68%, Hb 92 g/L, PLT 105×10⁹/L",supports,套细胞淋巴瘤
+血常规：WBC 12.5×10⁹/L,supports,急性淋巴结炎
+血常规：WBC 135.6×10⁹/L,supports,病理：未特指的滤泡性淋巴瘤
+血常规：WBC 14.1×10⁹/L，中性粒细胞比例90.9%,supports,急性淋巴结炎
+血常规：WBC 14.4×10⁹/L（↑）,supports,急性淋巴结炎
+血常规：WBC 16.0×10⁹/L（N 83.2%）,supports,急性淋巴结炎
+血常规：WBC 17.1×10⁹/L（↑）,supports,急性淋巴结炎
+"血常规：WBC 19.2×10⁹/L, 淋巴细胞81%, Hb 85 g/L, PLT 88×10⁹/L",supports,套细胞淋巴瘤
+血常规：WBC 5.0×10⁹/L，N 68.9%，L 26.3%,supports,慢性淋巴结炎
+血常规：WBC 6.5×10⁹/L，N 53.0%，L 38.2%,supports,慢性淋巴结炎
+血常规：WBC 6.5×10⁹/L，N% 58.7%，L% 32.1%,supports,慢性淋巴结炎
+血常规：WBC 6.8×10⁹/L，中性粒细胞比例62.4%，淋巴细胞比例28.1%,supports,慢性淋巴结炎
+血常规：WBC 7.0×10⁹/L，中性粒细胞53.5%，淋巴细胞38.2%,supports,慢性淋巴结炎
+血常规：WBC 7.0×10⁹/L，中性粒细胞67.3%，淋巴细胞24.1%,supports,慢性淋巴结炎
+血常规：WBC 7.3×10⁹/L（N 69.2%），CRP 0.9 mg/L,supports,慢性淋巴结炎
+血常规：WBC 8.0×10⁹/L，N% 56.2%，L% 38.5%,supports,慢性淋巴结炎
+血常规：WBC 8.0×10⁹/L，中性粒细胞比例56.3%，淋巴细胞比例38.1%,supports,慢性淋巴结炎
+血常规：WBC 8.2×10⁹/L，中性粒细胞比例64.4%，淋巴细胞比例28.1%,supports,慢性淋巴结炎
+血常规：WBC 8.3×10⁹/L，中性粒细胞比例58.6%，CRP 5.7mg/L,supports,慢性淋巴结炎
+血常规：WBC 8.6×10⁹/L，中性粒细胞比例68.5%，淋巴细胞比例24.1%,supports,慢性淋巴结炎
+血常规：WBC 8.7×10⁹/L，中性粒细胞比例50.7%，淋巴细胞比例42.1%,supports,慢性淋巴结炎
+血常规：WBC 8.9×10⁹/L，中性粒细胞比例66.7%，CRP正常,supports,慢性淋巴结炎
+血常规：WBC 9.1×10⁹/L，中性粒细胞比例69.0%，CRP 4.2mg/L（正常）,supports,慢性淋巴结炎
+血常规：WBC 9.2×10⁹/L（N 58%，L 35%），CRP <5 mg/L,supports,非特异性肠系膜淋巴结炎
+血常规：WBC 9.2×10⁹/L（N 62%，L 30%），CRP <5 mg/L,supports,非特异性肠系膜淋巴结炎
+血常规：WBC 9.2×10⁹/L（N 62%，L 30%），C反应蛋白 <5 mg/L,supports,非特异性肠系膜淋巴结炎
+血常规：WBC 9.2×10⁹/L（N 65%，L 28%），CRP <5 mg/L,supports,非特异性肠系膜淋巴结炎
+血常规：WBC 9.2×10⁹/L，N 68%，L 26%，CRP <5 mg/L,supports,非特异性肠系膜淋巴结炎
+血常规：WBC 9.2×10⁹/L，中性粒细胞比例58%，CRP <5 mg/L,supports,非特异性肠系膜淋巴结炎
+血常规：WBC 9.8×10⁹/L,supports,急性淋巴结炎
+血常规：WBC 9.8×10⁹/L,supports,非特异性肠系膜淋巴结炎
+血常规：WBC 9.8×10⁹/L（N 58%，L 34%），CRP <5 mg/L,supports,非特异性肠系膜淋巴结炎
+血常规：WBC 9.8×10⁹/L（N 62%，L 30%），CRP <5 mg/L,supports,非特异性肠系膜淋巴结炎
+血常规：WBC 9.8×10⁹/L（N 68%），CRP <5 mg/L,supports,非特异性肠系膜淋巴结炎
+血常规：WBC 9.8×10⁹/L，中性粒细胞68%，CRP轻度升高（8.2 mg/L）,supports,非特异性肠系膜淋巴结炎
+血常规：WBC升高（14.6×10⁹/L）,supports,急性淋巴结炎
+血常规：WBC升高（15.7×10⁹/L）,supports,急性淋巴结炎
+血常规：WBC及中性粒细胞比例正常,supports,慢性淋巴结炎
+血常规：WBC正常、中性粒细胞比例正常、CRP升高,supports,慢性淋巴结炎
+血常规：WBC正常、中性粒细胞比例正常、CRP正常,supports,慢性淋巴结炎
+血常规：WBC正常或轻度升高，淋巴细胞比例增高,supports,慢性淋巴结炎
+血常规：WBC正常，中性粒细胞比例正常，CRP正常,supports,慢性淋巴结炎
+血常规：WBC正常，中性粒细胞比例轻度升高，CRP正常,supports,慢性淋巴结炎
+血常规：WBC正常，中性粒细胞比例轻度升高，CRP轻度升高,supports,慢性淋巴结炎
+血常规：α-羟丁酸脱氢酶升高,supports,弥漫大B细胞淋巴瘤
+血常规：中性粒细胞比例升高,supports,急性淋巴结炎
+血常规：中性粒细胞比例升高（81%）,supports,非特异性肠系膜淋巴结炎
+血常规：中性粒细胞比例升高（82.4%）,supports,急性淋巴结炎
+血常规：中性粒细胞比例升高（84.2%）,supports,急性淋巴结炎
+血常规：中性粒细胞比例升高（84.4%）,supports,急性淋巴结炎
+血常规：中性粒细胞比例升高（87.6%）,supports,急性淋巴结炎
+血常规：中性粒细胞比例升高（91.8%）,supports,急性淋巴结炎
+血常规：中性粒细胞比例升高（91.9%）,supports,急性淋巴结炎
+血常规：正常,supports,慢性淋巴结炎
+血常规：正常（WBC 7.0×10⁹/L，中性粒细胞比例59.5%）,supports,慢性淋巴结炎
+血常规：正常（WBC 7.3×10⁹/L，中性粒细胞60.0%，CRP 0.5 mg/L）,supports,慢性淋巴结炎
+血常规：淋巴细胞升高（5.6×10⁹/L）,supports,套细胞淋巴瘤
+血常规：淋巴细胞比例0.95,supports,套细胞淋巴瘤
+血常规：淋巴细胞比例升高,supports,套细胞淋巴瘤
+血常规：淋巴细胞计数升高,supports,病理：未特指的滤泡性淋巴瘤
+血常规：白细胞升高,supports,弥漫大B细胞淋巴瘤
+血常规：白细胞升高,supports,病理：未特指的滤泡性淋巴瘤
+血常规：白细胞升高,supports,急性淋巴结炎
+血常规：白细胞升高（19.74×10⁹/L）,supports,套细胞淋巴瘤
+血常规：白细胞升高，中性粒细胞比例升高,supports,慢性淋巴结炎
+血常规：白细胞及中性粒细胞比例正常偏高,supports,慢性淋巴结炎
+血常规：白细胞正常，中性粒细胞比例正常,supports,慢性淋巴结炎
+血常规：白细胞计数 1.34×10^9/L,supports,弥漫大B细胞淋巴瘤
+血常规：白细胞计数5.4×10⁹/L，中性粒细胞比例60.1%，淋巴细胞比例32.5%,supports,慢性淋巴结炎
+血常规：白细胞计数5.7×10⁹/L，中性粒细胞比例59.0%，淋巴细胞比例34.2%，血红蛋白128 g/L，血小板计数245×10⁹/L；C反应蛋白（CRP）4.4 mg/L（参考值<10 mg/L）,supports,慢性淋巴结炎
+血常规：白细胞计数9.8×10⁹/L（中性粒细胞62%，淋巴细胞30%），C反应蛋白（CRP）<5 mg/L,supports,非特异性肠系膜淋巴结炎
+血常规：白细胞计数及中性粒细胞比例正常,supports,慢性淋巴结炎
+血常规：白细胞计数及中性粒细胞比例正常或轻度升高，CRP正常,supports,慢性淋巴结炎
+血常规：白细胞计数及中性粒细胞比例正常，CRP(-),supports,慢性淋巴结炎
+血常规：白细胞计数及分类基本正常,supports,慢性淋巴结炎
+血常规：白细胞计数正常、中性粒细胞比例正常、CRP轻度升高,supports,慢性淋巴结炎
+血常规：白细胞计数正常（8.6×10⁹/L），中性粒细胞比例正常（56.9%），淋巴细胞比例正常（35.2%）,supports,慢性淋巴结炎
+血常规：白细胞计数正常，C反应蛋白<5 mg/L,supports,非特异性肠系膜淋巴结炎
+血常规：白细胞计数正常，C反应蛋白（CRP）正常,supports,非特异性肠系膜淋巴结炎
+血常规：白细胞计数正常，中性粒细胞比例正常，CRP轻度升高但仍在参考值内,supports,慢性淋巴结炎
+血常规：白细胞计数正常，中性粒细胞比例正常，C反应蛋白正常,supports,非特异性肠系膜淋巴结炎
+血常规：白细胞计数正常，中性粒细胞比例轻度升高,supports,慢性淋巴结炎
+血常规：白细胞计数正常，中性粒细胞比例轻度升高，CRP正常,supports,非特异性肠系膜淋巴结炎
+血常规：白细胞计数正常，中性粒细胞百分比正常,supports,慢性淋巴结炎
+血常规：白细胞计数轻度升高（10.2×10⁹/L），C反应蛋白正常（8.5 mg/L）,supports,非特异性肠系膜淋巴结炎
+血常规：贫血（Hb 102g/L）,supports,弥漫大B细胞淋巴瘤
+血常规：贫血（Hb 112g/L）,supports,结核性周围淋巴结病
+血常规：贫血（Hb 78g/L）,supports,弥漫大B细胞淋巴瘤
+血常规：贫血（Hb 98g/L）,supports,弥漫大B细胞淋巴瘤
+血常规：轻度贫血,supports,弥漫大B细胞淋巴瘤
+血常规：轻度贫血,supports,套细胞淋巴瘤
+血常规：轻度贫血及血小板减少,supports,套细胞淋巴瘤
+血常规：轻度贫血（Hb 92 g/L）,supports,弥漫大B细胞淋巴瘤
+血沉增快,supports,结核性周围淋巴结病
+血沉增快（58 mm/h）,supports,结核性周围淋巴结病
+血沉增快（68 mm/h）,supports,结核性周围淋巴结病
+血沉增快（ESR 28 mm/h）,supports,病理：未特指的滤泡性淋巴瘤
+血清β2微球蛋白5.47 μg/mL,supports,病理：未特指的滤泡性淋巴瘤
+血红蛋白 100 g/L,supports,弥漫大B细胞淋巴瘤
+血红蛋白78 g/L,supports,套细胞淋巴瘤
+血红蛋白95 g/L,supports,套细胞淋巴瘤
+血红蛋白降低,supports,病理：未特指的滤泡性淋巴瘤
+血红蛋白降低（82 g/L）,supports,套细胞淋巴瘤
+血红蛋白降低（82g/L）,supports,弥漫大B细胞淋巴瘤
+血红蛋白降低（89 g/L，轻度贫血）,supports,病理：未特指的滤泡性淋巴瘤
+血红蛋白降低（92 g/L）,supports,弥漫大B细胞淋巴瘤
+血红蛋白降低（98 g/L）,supports,套细胞淋巴瘤
+血红蛋白降低（98 g/L，轻度贫血）,supports,套细胞淋巴瘤
+血红蛋白降低（Hb 98g/L）,supports,弥漫大B细胞淋巴瘤
+血红蛋白降低（Hb 98g/L）,supports,病理：未特指的滤泡性淋巴瘤
+EB病毒感染,increases_risk_of,弥漫大B细胞淋巴瘤
+上呼吸道感染,increases_risk_of,非特异性肠系膜淋巴结炎
+上呼吸道感染（咽痛、流涕、低热）,increases_risk_of,非特异性肠系膜淋巴结炎
+套细胞淋巴瘤,has_typical_symptom,上腹部隐痛
+套细胞淋巴瘤,has_typical_symptom,上腹部饱胀
+套细胞淋巴瘤,has_typical_symptom,上腹隐痛
+套细胞淋巴瘤,has_typical_symptom,乏力
+套细胞淋巴瘤,has_typical_symptom,体质量下降
+套细胞淋巴瘤,has_typical_symptom,吞咽异物感
+套细胞淋巴瘤,has_typical_symptom,声音嘶哑
+套细胞淋巴瘤,has_typical_symptom,左上腹不适
+套细胞淋巴瘤,has_typical_symptom,左上腹胀
+套细胞淋巴瘤,has_typical_symptom,左上腹隐痛
+套细胞淋巴瘤,has_typical_symptom,恶心
+套细胞淋巴瘤,has_typical_symptom,消化不良
+套细胞淋巴瘤,has_typical_symptom,消瘦
+套细胞淋巴瘤,has_typical_symptom,疲劳
+套细胞淋巴瘤,has_typical_symptom,盗汗
+套细胞淋巴瘤,has_typical_symptom,纳差
+套细胞淋巴瘤,has_typical_symptom,腹痛
+套细胞淋巴瘤,has_typical_symptom,腹部不适
+套细胞淋巴瘤,has_typical_symptom,进行性乏力
+套细胞淋巴瘤,has_typical_symptom,颈部淋巴结进行性肿大
+套细胞淋巴瘤,has_typical_symptom,颈部肿物
+套细胞淋巴瘤,has_typical_symptom,颈部进行性增大肿物
+套细胞淋巴瘤,has_typical_symptom,食欲下降
+套细胞淋巴瘤,has_typical_symptom,食欲减退
+套细胞淋巴瘤,has_typical_symptom,食欲缺乏
+套细胞淋巴瘤,has_typical_symptom,饱胀感
+套细胞淋巴瘤,has_typical_symptom,低热
+套细胞淋巴瘤,has_typical_symptom,体力下降
+套细胞淋巴瘤,has_typical_symptom,体重下降
+套细胞淋巴瘤,has_typical_symptom,体重减轻
+套细胞淋巴瘤,has_typical_symptom,便血
+套细胞淋巴瘤,has_typical_symptom,午后低热
+套细胞淋巴瘤,has_typical_symptom,反复上腹隐痛
+套细胞淋巴瘤,has_typical_symptom,多发无痛性淋巴结肿大
+套细胞淋巴瘤,has_typical_symptom,多发淋巴结肿大
+套细胞淋巴瘤,has_typical_symptom,夜间盗汗
+套细胞淋巴瘤,has_typical_symptom,大便次数增多
+套细胞淋巴瘤,has_typical_symptom,持续低热
+套细胞淋巴瘤,has_typical_symptom,排暗红色血便
+套细胞淋巴瘤,has_typical_symptom,无痛性淋巴结肿大
+套细胞淋巴瘤,has_typical_symptom,无痛性淋巴结进行性肿大
+套细胞淋巴瘤,has_typical_symptom,无诱因右颌下肿物进行性增大、增多
+套细胞淋巴瘤,has_typical_symptom,早饱感
+套细胞淋巴瘤,has_typical_symptom,明显乏力
+套细胞淋巴瘤,has_typical_symptom,查体：双侧颈部及腹股沟淋巴结进行性肿大
+套细胞淋巴瘤,has_typical_symptom,查体：无痛性肿物
+套细胞淋巴瘤,has_typical_symptom,查体：颈部及双侧腋下淋巴结进行性肿大
+套细胞淋巴瘤,has_typical_symptom,查体：颈部及腋下多发淋巴结肿大
+套细胞淋巴瘤,has_typical_symptom,活动后气促
+套细胞淋巴瘤,has_typical_symptom,腹泻
+套细胞淋巴瘤,has_typical_symptom,腹股沟淋巴结肿大
+套细胞淋巴瘤,has_typical_symptom,腹胀
+套细胞淋巴瘤,has_typical_symptom,贫血
+套细胞淋巴瘤,has_typical_symptom,进食量减少
+套细胞淋巴瘤,has_typical_symptom,间断低热
+套细胞淋巴瘤,has_typical_symptom,面色苍白
+套细胞淋巴瘤,has_typical_symptom,颈部及双侧腋窝淋巴结进行性肿大
+套细胞淋巴瘤,has_typical_symptom,颈部及双侧腹股沟淋巴结进行性肿大
+套细胞淋巴瘤,has_typical_symptom,颈部及腋下淋巴结进行性肿大
+套细胞淋巴瘤,has_typical_symptom,颈部及腹股沟淋巴结进行性肿大
+套细胞淋巴瘤,has_typical_symptom,颈部无痛性淋巴结肿大
+套细胞淋巴瘤,has_typical_symptom,颈部淋巴结肿大
+套细胞淋巴瘤,has_typical_symptom,餐后饱胀感
+套细胞淋巴瘤,has_typical_symptom,黏液脓血便
+套细胞淋巴瘤,has_typical_symptom,黑便
+套细胞淋巴瘤,manifests_as,PET-CT：纵隔及腹膜后高代谢淋巴结
+套细胞淋巴瘤,manifests_as,上腹部压痛
+套细胞淋巴瘤,manifests_as,上腹隐痛
+套细胞淋巴瘤,manifests_as,左上腹胀
+套细胞淋巴瘤,manifests_as,左上腹隐痛
+套细胞淋巴瘤,manifests_as,无痛性进行性淋巴结肿大
+套细胞淋巴瘤,manifests_as,全血细胞减少
+套细胞淋巴瘤,manifests_as,全身多发淋巴结肿大
+套细胞淋巴瘤,manifests_as,右侧颈部核桃大小肿物
+套细胞淋巴瘤,manifests_as,右腘窝鸡蛋大小肿物
+套细胞淋巴瘤,manifests_as,多发无痛性淋巴结肿大
+套细胞淋巴瘤,manifests_as,多发淋巴结肿大
+套细胞淋巴瘤,manifests_as,实验室检查：血小板减少
+套细胞淋巴瘤,manifests_as,小肠壁节段性增厚
+套细胞淋巴瘤,manifests_as,左上腹饱胀感
+套细胞淋巴瘤,manifests_as,巨脾
+套细胞淋巴瘤,manifests_as,影像学：小肠壁结节样增厚
+套细胞淋巴瘤,manifests_as,影像学：胃壁广泛增厚
+套细胞淋巴瘤,manifests_as,影像：多发淋巴结肿大
+套细胞淋巴瘤,manifests_as,无痛性淋巴结肿大
+套细胞淋巴瘤,manifests_as,早饱感
+套细胞淋巴瘤,manifests_as,查体/影像：腋窝淋巴结融合成团
+套细胞淋巴瘤,manifests_as,查体：上腹压痛
+套细胞淋巴瘤,manifests_as,查体：上腹及左上腹轻压痛
+套细胞淋巴瘤,manifests_as,查体：上腹及脐周压痛
+套细胞淋巴瘤,manifests_as,查体：全身多处浅表淋巴结肿大
+套细胞淋巴瘤,manifests_as,查体：全身浅表淋巴结多处肿大
+套细胞淋巴瘤,manifests_as,查体：剑突下压痛
+套细胞淋巴瘤,manifests_as,查体：右侧腋下肿大淋巴结（13 cm）
+套细胞淋巴瘤,manifests_as,查体：多发肿大淋巴结（右侧颈部、左侧颌下、双侧腋窝），质地软，活动度尚可
+套细胞淋巴瘤,manifests_as,查体：多发肿大淋巴结（锁骨上、腋窝、腹股沟）
+套细胞淋巴瘤,manifests_as,查体：多发肿大淋巴结，质韧、边界清、活动度差、无压痛
+套细胞淋巴瘤,manifests_as,查体：多发融合性淋巴结肿大，质硬、固定
+套细胞淋巴瘤,manifests_as,查体：左侧腋下肿大淋巴结（7 cm）
+套细胞淋巴瘤,manifests_as,查体：左侧颈部直径4cm肿大淋巴结
+套细胞淋巴瘤,manifests_as,查体：慢性病容
+套细胞淋巴瘤,manifests_as,查体：淋巴结融合、质硬、固定
+套细胞淋巴瘤,manifests_as,查体：满月脸
+套细胞淋巴瘤,manifests_as,查体：睑结膜苍白
+套细胞淋巴瘤,manifests_as,查体：肝脾肿大
+套细胞淋巴瘤,manifests_as,查体：脾脏增大
+套细胞淋巴瘤,manifests_as,查体：脾脏显著肿大
+套细胞淋巴瘤,manifests_as,查体：脾脏肿大
+套细胞淋巴瘤,manifests_as,查体：腋窝淋巴结肿大
+套细胞淋巴瘤,manifests_as,查体：腹部稍膨隆
+套细胞淋巴瘤,manifests_as,查体：融合性、质硬、固定淋巴结团
+套细胞淋巴瘤,manifests_as,查体：融合性淋巴结
+套细胞淋巴瘤,manifests_as,查体：贫血貌
+套细胞淋巴瘤,manifests_as,查体：轻度消瘦
+套细胞淋巴瘤,manifests_as,查体：轻度贫血貌
+套细胞淋巴瘤,manifests_as,查体：颈部淋巴结质硬、活动度差、融合成团
+套细胞淋巴瘤,manifests_as,浅表淋巴结肿大
+套细胞淋巴瘤,manifests_as,淋巴结质硬、固定、无压痛
+套细胞淋巴瘤,manifests_as,淋巴结质硬、固定、活动度差
+套细胞淋巴瘤,manifests_as,淋巴结质硬、固定、融合成团
+套细胞淋巴瘤,manifests_as,淋巴结：多发肿大，质硬、边界清、活动度差、无压痛
+套细胞淋巴瘤,manifests_as,淋巴结：质硬、固定、无压痛、融合
+套细胞淋巴瘤,manifests_as,白细胞增多
+套细胞淋巴瘤,manifests_as,结肠广基息肉样隆起
+套细胞淋巴瘤,manifests_as,肠系膜呈‘饼状’改变
+套细胞淋巴瘤,manifests_as,肠系膜淋巴结肿大
+套细胞淋巴瘤,manifests_as,肠鸣音活跃
+套细胞淋巴瘤,manifests_as,胃体及胃窦多发黏膜下隆起样病变
+套细胞淋巴瘤,manifests_as,胃壁弥漫性增厚
+套细胞淋巴瘤,manifests_as,胃窦、胃体及十二指肠球部：弥漫性黏膜颗粒样隆起
+套细胞淋巴瘤,manifests_as,脾大
+套细胞淋巴瘤,manifests_as,脾稍大
+套细胞淋巴瘤,manifests_as,脾肿大
+套细胞淋巴瘤,manifests_as,脾脏显著增大
+套细胞淋巴瘤,manifests_as,脾脏轻度增大
+套细胞淋巴瘤,manifests_as,脾脏轻度肿大
+套细胞淋巴瘤,manifests_as,腋窝肿大淋巴结
+套细胞淋巴瘤,manifests_as,腹股沟淋巴结肿大
+套细胞淋巴瘤,manifests_as,腹股沟肿大淋巴结
+套细胞淋巴瘤,manifests_as,腹胀
+套细胞淋巴瘤,manifests_as,腹腔及腹膜后多发肿大淋巴结
+套细胞淋巴瘤,manifests_as,腹腔及腹膜后淋巴结肿大
+套细胞淋巴瘤,manifests_as,腹腔多发淋巴结肿大
+套细胞淋巴瘤,manifests_as,血常规：白细胞升高
+套细胞淋巴瘤,manifests_as,贫血
+套细胞淋巴瘤,manifests_as,轻度苍白貌
+套细胞淋巴瘤,manifests_as,轻度贫血
+套细胞淋巴瘤,manifests_as,面色苍白
+套细胞淋巴瘤,manifests_as,颈部可触及数枚肿大淋巴结，部分融合，质硬，无压痛，活动度差
+套细胞淋巴瘤,manifests_as,颈部淋巴结肿大
+套细胞淋巴瘤,manifests_as,颈部肿大淋巴结
+套细胞淋巴瘤,manifests_as,颈部质硬、固定、无压痛的肿大淋巴结
+套细胞淋巴瘤,manifests_as,颌下可触及2枚直径约6cm淋巴结
+套细胞淋巴瘤,manifests_as,骨髓活检：异常淋巴细胞浸润
+套细胞淋巴瘤,manifests_as,骨髓淋巴瘤细胞浸润
+套细胞淋巴瘤,needs_differentiation_from,弥漫大B细胞淋巴瘤
+套细胞淋巴瘤,needs_differentiation_from,慢性淋巴细胞白血病
+套细胞淋巴瘤,needs_differentiation_from,滤泡性淋巴瘤
+套细胞淋巴瘤,needs_differentiation_from,病理慢性淋巴细胞白血病/小淋巴细胞淋巴瘤
+套细胞淋巴瘤,needs_differentiation_from,自身免疫性溶血性贫血
+套细胞淋巴瘤,needs_differentiation_from,骨髓增生异常综合征
+套细胞淋巴瘤,needs_differentiation_from,边缘区淋巴瘤
+急性淋巴结炎,has_typical_symptom,乏力
+急性淋巴结炎,has_typical_symptom,发热
+急性淋巴结炎,has_typical_symptom,头痛
+急性淋巴结炎,has_typical_symptom,头痛、全身乏力
+急性淋巴结炎,has_typical_symptom,头痛、全身乏力、食欲减退
+急性淋巴结炎,has_typical_symptom,恶心
+急性淋巴结炎,has_typical_symptom,畏寒、寒战
+急性淋巴结炎,has_typical_symptom,畏寒发热
+急性淋巴结炎,has_typical_symptom,盗汗
+急性淋巴结炎,has_typical_symptom,肿痛
+急性淋巴结炎,has_typical_symptom,腹痛
+急性淋巴结炎,has_typical_symptom,颈部肿痛
+急性淋巴结炎,has_typical_symptom,食欲下降
+急性淋巴结炎,has_typical_symptom,食欲减退
+急性淋巴结炎,has_typical_symptom,全身乏力
+急性淋巴结炎,has_typical_symptom,全身酸痛
+急性淋巴结炎,has_typical_symptom,双侧颈部肿痛
+急性淋巴结炎,has_typical_symptom,右侧腹股沟区红肿热痛
+急性淋巴结炎,has_typical_symptom,右侧腹股沟红肿热痛
+急性淋巴结炎,has_typical_symptom,吞咽困难
+急性淋巴结炎,has_typical_symptom,咽痛
+急性淋巴结炎,has_typical_symptom,寒战
+急性淋巴结炎,has_typical_symptom,查体：耳后及枕部红肿热痛
+急性淋巴结炎,has_typical_symptom,查体：腹股沟红肿热痛
+急性淋巴结炎,has_typical_symptom,查体：颌下肿块
+急性淋巴结炎,has_typical_symptom,畏寒
+急性淋巴结炎,has_typical_symptom,精神萎靡
+急性淋巴结炎,has_typical_symptom,腋窝肿块及疼痛
+急性淋巴结炎,has_typical_symptom,轻微恶心
+急性淋巴结炎,has_typical_symptom,颈部淋巴结肿痛
+急性淋巴结炎,has_typical_symptom,颈部疼痛性肿块
+急性淋巴结炎,has_typical_symptom,高热
+急性淋巴结炎,manifests_as,串珠样排列的肿大淋巴结
+急性淋巴结炎,manifests_as,搏动性跳痛
+急性淋巴结炎,manifests_as,颈部右侧疼痛伴包块
+急性淋巴结炎,manifests_as,压痛(+)
+急性淋巴结炎,manifests_as,压痛剧烈致头颈部活动受限
+急性淋巴结炎,manifests_as,原发病灶破溃伴脓性分泌物
+急性淋巴结炎,manifests_as,右下肢屈髋受限、步态跛行
+急性淋巴结炎,manifests_as,右侧耳后及枕后区域弥漫性红肿
+急性淋巴结炎,manifests_as,右侧耳后及枕部融合性红斑，皮温升高，触痛剧烈
+急性淋巴结炎,manifests_as,右侧耳后肿大淋巴结，约2.5×2.0 cm，表面皮肤弥漫性潮红，皮温升高，压痛剧烈，有跳痛
+急性淋巴结炎,manifests_as,右侧耳后肿大淋巴结，表面皮肤潮红、皮温增高、质硬、固定、活动度差、压痛剧烈
+急性淋巴结炎,manifests_as,右侧腹股沟区椭圆形隆起，表面皮肤弥漫性潮红、光亮，皮温显著增高，触诊质韧、压痛剧烈，拒按，活动度差，深部跳痛
+急性淋巴结炎,manifests_as,右侧腹股沟区红肿
+急性淋巴结炎,manifests_as,右侧腹股沟区隆起性包块，表面皮肤弥漫性潮红，皮温显著增高，质韧、边界尚清但欠光滑，活动度差，压痛极其明显
+急性淋巴结炎,manifests_as,右侧锁骨上淋巴结肿大
+急性淋巴结炎,manifests_as,右腹股沟淋巴结肿大
+急性淋巴结炎,manifests_as,同侧大腿内收时疼痛加剧，致步态外展跛行
+急性淋巴结炎,manifests_as,同侧枕后肿大淋巴结，约1.5×1.2cm，红肿热痛
+急性淋巴结炎,manifests_as,同侧枕后较小淋巴结，轻度红肿、压痛(+)、活动度稍好
+急性淋巴结炎,manifests_as,周围软组织水肿
+急性淋巴结炎,manifests_as,咽赤
+急性淋巴结炎,manifests_as,咽部充血水肿
+急性淋巴结炎,manifests_as,咽部黏膜充血
+急性淋巴结炎,manifests_as,咽部黏膜弥漫性充血
+急性淋巴结炎,manifests_as,头部转动受限
+急性淋巴结炎,manifests_as,局部压痛剧烈
+急性淋巴结炎,manifests_as,局部波动感明显
+急性淋巴结炎,manifests_as,局部淋巴结肿大
+急性淋巴结炎,manifests_as,局部皮肤发红
+急性淋巴结炎,manifests_as,局部皮肤发红，皮温增高
+急性淋巴结炎,manifests_as,局部皮肤弥漫性潮红
+急性淋巴结炎,manifests_as,局部皮肤微红
+急性淋巴结炎,manifests_as,局部皮肤微红、皮温升高
+急性淋巴结炎,manifests_as,局部皮肤潮红
+急性淋巴结炎,manifests_as,局部皮肤潮红、皮温升高
+急性淋巴结炎,manifests_as,局部跳痛
+急性淋巴结炎,manifests_as,左颈部肿块
+急性淋巴结炎,manifests_as,扁桃体Ⅱ度肿大伴脓点
+急性淋巴结炎,manifests_as,搏动感
+急性淋巴结炎,manifests_as,枕后区可触及肿大淋巴结
+急性淋巴结炎,manifests_as,枕部可触及肿大淋巴结
+急性淋巴结炎,manifests_as,查体：压痛剧烈
+急性淋巴结炎,manifests_as,查体：压痛剧烈，拒按
+急性淋巴结炎,manifests_as,查体：双侧扁桃体Ⅱ度肿大伴脓性分泌物
+急性淋巴结炎,manifests_as,查体：可引出明显跳痛
+急性淋巴结炎,manifests_as,查体：右下腹压痛
+急性淋巴结炎,manifests_as,查体：右侧枕后肿大淋巴结伴红肿热痛
+急性淋巴结炎,manifests_as,查体：右侧耳后发际线内1 cm处直径0.8 cm圆形隆起，皮肤微红，中央针尖样破溃口，轻压见黄白色脓性分泌物，周围头皮轻度水肿
+急性淋巴结炎,manifests_as,查体：右侧耳后可触及融合性肿大淋巴结
+急性淋巴结炎,manifests_as,查体：右侧耳后多发肿大淋巴结（最大2.5×2.0cm）
+急性淋巴结炎,manifests_as,查体：右侧耳后淋巴结肿大伴红肿热痛
+急性淋巴结炎,manifests_as,查体：右侧腹股沟包块
+急性淋巴结炎,manifests_as,查体：右侧腹股沟区可触及肿大淋巴结，约2.5×2.0 cm，表面皮肤潮红，皮温升高，压痛明显，拒按，有跳痛
+急性淋巴结炎,manifests_as,查体：右侧腹股沟区隆起性包块，表面皮肤弥漫性潮红，皮温增高，压痛剧烈，拒按，活动度差
+急性淋巴结炎,manifests_as,查体：右侧腹股沟红肿热痛包块
+急性淋巴结炎,manifests_as,查体：右侧腹股沟隆起性包块，皮肤弥漫潮红，皮温增高，明显压痛及搏动性跳痛
+急性淋巴结炎,manifests_as,查体：右耳后类圆形隆起，皮肤潮红，皮温高，边界不清，质韧，压痛剧烈，活动度差，轻度粘连
+急性淋巴结炎,manifests_as,查体：右髋关节屈曲受限
+急性淋巴结炎,manifests_as,查体：右髋关节活动受限（屈曲及内收）
+急性淋巴结炎,manifests_as,查体：同侧多发压痛性淋巴结
+急性淋巴结炎,manifests_as,查体：同侧大腿内侧可触及较小淋巴结，活动度尚可，轻压痛
+急性淋巴结炎,manifests_as,查体：同侧肢体水肿
+急性淋巴结炎,manifests_as,查体：周围可触及多个压痛性较小淋巴结
+急性淋巴结炎,manifests_as,查体：咽部黏膜充血水肿
+急性淋巴结炎,manifests_as,查体：头颈活动受限
+急性淋巴结炎,manifests_as,查体：头颈转动受限
+急性淋巴结炎,manifests_as,查体：局部波动感
+急性淋巴结炎,manifests_as,查体：局部皮温增高
+急性淋巴结炎,manifests_as,查体：局部皮温高
+急性淋巴结炎,manifests_as,查体：局部皮肤弥漫性潮红、皮温增高
+急性淋巴结炎,manifests_as,查体：局部皮肤潮红、皮温增高
+急性淋巴结炎,manifests_as,查体：局部皮肤灼热
+急性淋巴结炎,manifests_as,查体：局部皮肤红肿
+急性淋巴结炎,manifests_as,查体：扁桃体Ⅱ°肿大伴黄白色脓点
+急性淋巴结炎,manifests_as,查体：扁桃体肿大伴脓点
+急性淋巴结炎,manifests_as,查体：枕后区可触及1枚约1.8×1.5 cm红肿热痛淋巴结
+急性淋巴结炎,manifests_as,查体：枕后融合性淋巴结肿大（鸽蛋大小），皮温高，边界尚清，活动度受限，触痛明显
+急性淋巴结炎,manifests_as,查体：枕部淋巴结肿大
+急性淋巴结炎,manifests_as,查体：步态跛行
+急性淋巴结炎,manifests_as,查体：活动度下降
+急性淋巴结炎,manifests_as,查体：淋巴结与周围组织粘连
+急性淋巴结炎,manifests_as,查体：淋巴结与周围组织轻度粘连
+急性淋巴结炎,manifests_as,查体：淋巴结与周围组织轻度粘连、活动度差
+急性淋巴结炎,manifests_as,查体：淋巴结压痛
+急性淋巴结炎,manifests_as,查体：淋巴结压痛剧烈
+急性淋巴结炎,manifests_as,查体：淋巴结活动度差
+急性淋巴结炎,manifests_as,查体：淋巴结活动度差、固定
+急性淋巴结炎,manifests_as,查体：淋巴结活动度差伴周围组织轻度粘连
+急性淋巴结炎,manifests_as,查体：淋巴结活动度差（与深部组织粘连）
+急性淋巴结炎,manifests_as,查体：淋巴结皮温增高
+急性淋巴结炎,manifests_as,查体：淋巴结肿大，质地中等偏硬，活动度差，触痛明显
+急性淋巴结炎,manifests_as,查体：淋巴结肿大，边界尚清、边缘略模糊，质地中等偏硬，活动度差，轻度粘连
+急性淋巴结炎,manifests_as,查体：淋巴结表面皮肤充血发红
+急性淋巴结炎,manifests_as,查体：淋巴结表面皮肤潮红
+急性淋巴结炎,manifests_as,查体：淋巴结表面皮肤轻度潮红
+急性淋巴结炎,manifests_as,查体：淋巴结触痛剧烈
+急性淋巴结炎,manifests_as,查体：淋巴结质硬、固定、活动度差、压痛剧烈、拒按、伴跳动感
+急性淋巴结炎,manifests_as,查体：淋巴结质硬、拒按、跳痛、活动度差、与周围组织轻度粘连
+急性淋巴结炎,manifests_as,查体：皮温升高
+急性淋巴结炎,manifests_as,查体：皮温增高
+急性淋巴结炎,manifests_as,查体：皮肤充血发红
+急性淋巴结炎,manifests_as,查体：皮肤弥漫性潮红
+急性淋巴结炎,manifests_as,查体：皮肤弥漫性红肿
+急性淋巴结炎,manifests_as,查体：皮肤灼热
+急性淋巴结炎,manifests_as,查体：耳后及枕部淋巴结红肿热痛
+急性淋巴结炎,manifests_as,查体：耳后及枕部红肿
+急性淋巴结炎,manifests_as,查体：耳后及枕部红肿热痛
+急性淋巴结炎,manifests_as,查体：肿大淋巴结表面皮肤充血发红
+急性淋巴结炎,manifests_as,查体：肿大淋巴结，质硬，边界不清，活动度差，压痛明显
+急性淋巴结炎,manifests_as,查体：肿大淋巴结，边界尚清，质地中等偏硬，活动度差
+急性淋巴结炎,manifests_as,查体：腹股沟区红肿
+急性淋巴结炎,manifests_as,查体：触之质硬、拒按
+急性淋巴结炎,manifests_as,查体：质地中等偏硬
+急性淋巴结炎,manifests_as,查体：质地变硬
+急性淋巴结炎,manifests_as,查体：质韧拒按
+急性淋巴结炎,manifests_as,查体：转头受限
+急性淋巴结炎,manifests_as,查体：转颈动作受限
+急性淋巴结炎,manifests_as,查体：转颈受限
+急性淋巴结炎,manifests_as,查体：部分淋巴结有搏动感（跳痛）
+急性淋巴结炎,manifests_as,查体：颈部可触及多枚肿大淋巴结
+急性淋巴结炎,manifests_as,查体：颈部可触及肿大淋巴结
+急性淋巴结炎,manifests_as,查体：颈部活动受限
+急性淋巴结炎,manifests_as,查体：颈部淋巴结活动度差
+急性淋巴结炎,manifests_as,查体：颌下压痛性肿块
+急性淋巴结炎,manifests_as,波动感
+急性淋巴结炎,manifests_as,活动受限
+急性淋巴结炎,manifests_as,淋巴结压痛
+急性淋巴结炎,manifests_as,淋巴结活动度差
+急性淋巴结炎,manifests_as,淋巴结皮温升高
+急性淋巴结炎,manifests_as,淋巴结肿大
+急性淋巴结炎,manifests_as,淋巴结肿大伴剧烈压痛、拒按
+急性淋巴结炎,manifests_as,淋巴结肿大伴压痛及拒按
+急性淋巴结炎,manifests_as,淋巴结融合成团
+急性淋巴结炎,manifests_as,淋巴结触痛
+急性淋巴结炎,manifests_as,淋巴结边界欠清、活动度差、与周围组织轻度粘连
+急性淋巴结炎,manifests_as,深龋
+急性淋巴结炎,manifests_as,牙龈红肿
+急性淋巴结炎,manifests_as,皮温升高
+急性淋巴结炎,manifests_as,皮肤发红
+急性淋巴结炎,manifests_as,皮肤表面紧张发亮
+急性淋巴结炎,manifests_as,耳后淋巴结肿大
+急性淋巴结炎,manifests_as,肿大淋巴结，活动度差
+急性淋巴结炎,manifests_as,腋窝触及2.2×1.8 cm淋巴结，压痛
+急性淋巴结炎,manifests_as,腹股沟区椭圆形隆起伴皮肤潮红、皮温升高
+急性淋巴结炎,manifests_as,自发性跳痛
+急性淋巴结炎,manifests_as,融合性肿大淋巴结
+急性淋巴结炎,manifests_as,触之明显压痛
+急性淋巴结炎,manifests_as,触之质韧，边界尚清但欠光滑
+急性淋巴结炎,manifests_as,触痛
+急性淋巴结炎,manifests_as,触痛剧烈
+急性淋巴结炎,manifests_as,触痛剧烈，拒按
+急性淋巴结炎,manifests_as,触痛明显
+急性淋巴结炎,manifests_as,触痛明显、拒按
+急性淋巴结炎,manifests_as,跳痛
+急性淋巴结炎,manifests_as,转颈时疼痛加剧
+急性淋巴结炎,manifests_as,转颈活动受限
+急性淋巴结炎,manifests_as,边界欠光滑
+急性淋巴结炎,manifests_as,颈部多发肿大淋巴结
+急性淋巴结炎,manifests_as,颈部局部红、肿、热、痛
+急性淋巴结炎,manifests_as,颈部活动轻度受限
+急性淋巴结炎,manifests_as,颈部淋巴结肿大
+急性淋巴结炎,manifests_as,颈部肿大淋巴结
+急性淋巴结炎,manifests_as,颌下及颏下淋巴结肿大伴压痛
+急性淋巴结炎,needs_differentiation_from,系统性红斑狼疮
+急性淋巴结炎,needs_differentiation_from,系统性自身免疫性疾病
+急性淋巴结炎,needs_differentiation_from,系统性风湿免疫性疾病
+急性淋巴结炎,needs_differentiation_from,结核
+急性淋巴结炎,needs_differentiation_from,结核性淋巴结炎
+急性淋巴结炎,needs_differentiation_from,自身免疫性疾病
+急性淋巴结炎,needs_differentiation_from,淋巴瘤
+急性淋巴结炎,needs_differentiation_from,转移癌
+惰性B细胞淋巴瘤,needs_differentiation_from,弥漫大B细胞淋巴瘤
+慢性扁桃体炎,increases_risk_of,慢性淋巴结炎
+慢性湿疹,increases_risk_of,慢性淋巴结炎
+淋巴瘤,needs_differentiation_from,结核性周围淋巴结病
+淋巴瘤,needs_differentiation_from,急性淋巴结炎
+深龋伴牙周溢脓,increases_risk_of,慢性淋巴结炎
+皮肤破损继发细菌感染,increases_risk_of,慢性淋巴结炎
+胸腺瘤,needs_differentiation_from,弥漫大B细胞淋巴瘤
+足癣,increases_risk_of,慢性淋巴结炎
+足癣,increases_risk_of,急性淋巴结炎
+足癣伴皮肤破损,increases_risk_of,急性淋巴结炎
+足癣（右足第3-4趾间皮肤浸渍、脱屑，伴抓痕及点状糜烂）,increases_risk_of,急性淋巴结炎
+非霍奇金淋巴瘤，侵袭性B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+诱因：受凉、感冒或过度疲劳,increases_risk_of,慢性淋巴结炎
+诱因：进食辛辣或疲劳,increases_risk_of,慢性淋巴结炎
+豆渣样脓液,supports,结核性周围淋巴结病
+贫血,supports,弥漫大B细胞淋巴瘤
+贫血,supports,病理：未特指的滤泡性淋巴瘤
+贫血,supports,套细胞淋巴瘤
+贫血（Hb 102 g/L）,supports,弥漫大B细胞淋巴瘤
+贫血（Hb 102 g/L）,supports,结核性周围淋巴结病
+贫血（Hb 102 g/L）,supports,套细胞淋巴瘤
+贫血（Hb 105 g/L）,supports,病理：未特指的滤泡性淋巴瘤
+贫血（Hb 108 g/L）,supports,结核性周围淋巴结病
+贫血（Hb 108g/L）,supports,结核性周围淋巴结病
+贫血（Hb 84 g/L）,supports,病理：未特指的滤泡性淋巴瘤
+贫血（Hb 89 g/L）,supports,弥漫大B细胞淋巴瘤
+贫血（Hb 92 g/L）,supports,弥漫大B细胞淋巴瘤
+贫血（Hb 92 g/L）,supports,套细胞淋巴瘤
+贫血（Hb 98 g/L）,supports,弥漫大B细胞淋巴瘤
+贫血（Hb 98 g/L）,supports,套细胞淋巴瘤
+赤脚在公共浴室行走,increases_risk_of,急性淋巴结炎
+超声/CT：右侧耳后及枕部多枚低回声结节，皮髓质分界模糊，淋巴门结构消失，内部丰富点状血流信号,supports,急性淋巴结炎
+超声/CT：回盲部肠壁不均匀增厚伴邻近肠系膜多发淋巴结肿大,supports,病理：未特指的滤泡性淋巴瘤
+超声/CT：多发融合性淋巴结肿大,supports,套细胞淋巴瘤
+超声/CT：胸腹部多发肿大淋巴结影，不能除外淋巴瘤可能,supports,弥漫大B细胞淋巴瘤
+超声/CT：脾脏多发占位、腹膜后多发肿大淋巴结,supports,弥漫大B细胞淋巴瘤
+超声/CT：脾脏弥漫性肿大伴多发低密度灶，腹膜后多发淋巴结肿大,supports,弥漫大B细胞淋巴瘤
+超声/CT：腹膜后多发融合性淋巴结影，最大约6.5cm×5.8cm,supports,弥漫大B细胞淋巴瘤
+超声/CT：阑尾显影清晰，外径约5.2mm，腔内未见粪石，壁层次结构完整，周围无积液,supports,非特异性肠系膜淋巴结炎
+超声/CT：阑尾未见明显增粗扩张，管腔内未见粪石，周围无积液,supports,非特异性肠系膜淋巴结炎
+超声/CT：阑尾未见明显增粗（直径约4.2 mm），腔内无粪石，周围无积液，蠕动可,supports,非特异性肠系膜淋巴结炎
+超声/CT：颌下区低回声结节，形态规则，边界清晰，内部回声均匀，可见清晰淋巴门结构，皮髓质分界尚清，CDFI显示门部短棒状血流信号,supports,慢性淋巴结炎
+超声示多区域肿大淋巴结（双侧颈部Ⅱ~Ⅴ区、锁骨下、腋窝、腹股沟、腹膜后）,supports,套细胞淋巴瘤
+超声：低回声团块伴内部液化坏死,supports,结核性周围淋巴结病
+超声：低回声团块伴液化坏死区,supports,结核性周围淋巴结病
+超声：低回声淋巴结，形态规则，边界清晰，皮髓质分界尚清，可见偏心性淋巴门，内部血流较丰富（门型分布），RI约0.65,supports,慢性淋巴结炎
+超声：低回声淋巴结，形态规则，边界清晰，皮髓质分界尚清，可见典型淋巴门结构，血流呈门型分布,supports,慢性淋巴结炎
+超声：低回声结节，形态规则，边界清晰，保留部分淋巴门结构，皮髓质分界尚清，RI 0.62,supports,慢性淋巴结炎
+超声：低回声结节，形态规则，边界清晰，内部回声均匀，可见清晰淋巴门结构，皮髓质分界尚清，CDFI示门部点状血流信号，RI 0.62,supports,慢性淋巴结炎
+超声：低回声结节，形态规则，边界清晰，皮髓质分界尚清，中央可见典型淋巴门结构，CDFI示门部少许血流信号,supports,慢性淋巴结炎
+超声：低回声结节，形态规则，边界清晰，皮髓质分界尚清，可见典型淋巴门结构，CDFI示门部点状血流信号,supports,慢性淋巴结炎
+超声：全身浅表多区域肿大淋巴结伴形态结构异常,supports,弥漫大B细胞淋巴瘤
+超声：双侧腋窝及腹股沟淋巴结呈反应性增生声像图,supports,慢性淋巴结炎
+超声：双侧颈部、腋窝、腹股沟淋巴结肿大，结构异常,supports,弥漫大B细胞淋巴瘤
+超声：双侧颈部多发低回声结节，形态规则，边界清晰，皮髓质分界部分模糊，淋巴门偏心，内部血流呈‘树枝状’，RI 0.68,supports,急性淋巴结炎
+超声：双侧颈部多发低回声结节，形态规则，边界清，皮髓质分界尚存，淋巴门结构略模糊，内部血流信号丰富，呈树枝状分布,supports,急性淋巴结炎
+超声：右乳上象限不规则低回声区及结节，BI-RADS 4b类,supports,病理：未特指的滤泡性淋巴瘤
+超声：右侧耳后及枕部多个低回声结节，皮髓质分界模糊，淋巴门消失，血流丰富（“火海征”）,supports,急性淋巴结炎
+超声：右侧耳后及枕部多发低回声结节伴结构异常,supports,急性淋巴结炎
+超声：右侧腹股沟低回声淋巴结伴丰富血流,supports,急性淋巴结炎
+超声：右侧腹股沟低回声结节，皮质增厚，髓质受压，丰富血流信号,supports,急性淋巴结炎
+超声：右侧腹股沟低回声结节，皮髓质分界模糊，淋巴门偏移/消失，内部丰富紊乱血流信号（‘火海征’）,supports,急性淋巴结炎
+超声：右侧腹股沟区低回声结节（2.4×1.9cm），皮髓质分界模糊，淋巴门受压移位，血流丰富（火海征）,supports,急性淋巴结炎
+超声：右侧腹股沟多个肿大淋巴结，形态饱满，皮质增厚，髓质受压变窄，皮髓质分界欠清，淋巴门结构部分不清，CDFI示内部丰富血流信号，呈高速低阻型动脉频谱,supports,急性淋巴结炎
+超声：右侧腹股沟多个融合性低回声结节，皮髓质分界模糊，淋巴门偏移，血流丰富,supports,急性淋巴结炎
+超声：右侧腹股沟多发肿大淋巴结，皮髓质分界清晰,supports,慢性淋巴结炎
+超声：右侧腹股沟淋巴结低回声结节伴丰富紊乱血流信号,supports,急性淋巴结炎
+超声：右侧腹股沟淋巴结低回声结节伴丰富血流信号,supports,急性淋巴结炎
+超声：右侧腹股沟淋巴结低回声结节伴血流信号增多,supports,急性淋巴结炎
+超声：右侧颈深部多发淋巴结肿大、结构异常,supports,弥漫大B细胞淋巴瘤
+超声：右侧颈部多发低回声团块融合伴液化坏死,supports,结核性周围淋巴结病
+超声：右侧颈部多发低回声淋巴结融合伴液化,supports,结核性周围淋巴结病
+超声：右侧颈部多枚低回声结节融合伴内部液化,supports,结核性周围淋巴结病
+超声：右侧颈部多枚低回声结节融合伴内部液化坏死,supports,结核性周围淋巴结病
+超声：右侧颌下低回声结节，形态规则，边界清晰，皮髓质分界尚清，淋巴门结构可见，血流呈门型分布,supports,慢性淋巴结炎
+超声：右侧颌下椭圆形低回声结节（18×12mm），边界清晰，形态规则，皮髓质分界清，可见典型淋巴门结构，内部血流信号稍丰富，呈门型分布，无液化坏死或异常钙化,supports,慢性淋巴结炎
+超声：右侧颌下淋巴结（18×13 mm，形态规则、边界清、皮髓质分界清、可见淋巴门血流）,supports,慢性淋巴结炎
+超声：右颞部-颌下不规则肿物（31×25×18 cm）,supports,套细胞淋巴瘤
+超声：多发低回声团块,supports,套细胞淋巴瘤
+超声：多发低回声淋巴结（最大1.7×1.4 cm），形态规则，边界清晰，皮髓质分界尚清，可见典型淋巴门结构，血流呈门型分布,supports,慢性淋巴结炎
+超声：多发低回声结节，形态规则，L/S>2，皮髓质分界尚清，淋巴门结构清晰,supports,慢性淋巴结炎
+超声：多发低回声结节，形态规则，边界清晰，皮髓质分界尚清，可见典型淋巴门结构，CDFI门部点状血流信号,supports,慢性淋巴结炎
+超声：多发异常低回声淋巴结，结构紊乱,supports,套细胞淋巴瘤
+超声：多发淋巴结结构异常,supports,套细胞淋巴瘤
+超声：多发淋巴结肿大伴结构异常,supports,套细胞淋巴瘤
+超声：多枚低回声淋巴结，形态规则，边界清晰，皮髓质分界尚存，淋巴门略偏移，血流信号较丰富,supports,慢性淋巴结炎
+超声：头皮皮下液性暗区伴周边血流增多,supports,急性淋巴结炎
+超声：头皮皮下液性暗区伴血流增多,supports,急性淋巴结炎
+超声：左下颌下淋巴结肿大，形态规则，内部回声均匀,supports,慢性淋巴结炎
+超声：左侧颈部II区低回声结节（1.9×1.4 cm），形态规则，边界清，皮髓质分界尚清，淋巴门可见，门型血流，RI 0.62,supports,慢性淋巴结炎
+超声：左侧颈部Ⅱ区多发低回声结节（最大1.8×1.3 cm），结构基本正常,supports,慢性淋巴结炎
+超声：左侧颈部Ⅱ区多发低回声结节，最大2.1×1.4cm，形态规则，皮髓质分界尚清，可见典型淋巴门，血流呈门型分布，无周边绕行或内部紊乱血流,supports,慢性淋巴结炎
+超声：左肾低回声区（5.8×4.9cm）,supports,病理：未特指的滤泡性淋巴瘤
+超声：左颈Ⅱ区低回声结节（形态规则、边界清、皮髓质分界尚清、偏心淋巴门、门型血流、RI=0.62）,supports,慢性淋巴结炎
+超声：椭圆形低回声淋巴结，形态规则，边界清，皮髓质分界尚清，偏心淋巴门，门型血流,supports,慢性淋巴结炎
+超声：浅表多发低回声结节，形态规则，边界清晰，皮髓质分界尚清，淋巴门略偏移，内部血流信号增多,supports,慢性淋巴结炎
+超声：淋巴结内无血流信号或血流信号明显减少,supports,结核性周围淋巴结病
+超声：淋巴结呈混合性回声、无回声或低回声,supports,结核性周围淋巴结病
+超声：淋巴结形态规则，皮髓质分界尚清，淋巴门结构可见，内部回声均匀，门型血流信号稍增多,supports,慢性淋巴结炎
+超声：淋巴结肿大，包膜增厚，内部回声不均，血流丰富,supports,急性淋巴结炎
+超声：淋巴结血流呈门型分布，无液化坏死,supports,慢性淋巴结炎
+超声：肠系膜区多发淋巴结,supports,非特异性肠系膜淋巴结炎
+超声：肠系膜多发淋巴结肿大,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多个低回声结节，呈串珠状及簇状分布，边界清晰，皮髓质分界清楚，纵横比>1，内部血流信号稀少,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多个椭圆形低回声结节，呈串珠状及簇状分布，最大约14.6mm×6.6mm，边界清晰，皮髓质分界清楚，纵横比>2，内部无液化坏死，血流信号稀少,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多个肿大淋巴结，呈串珠状及簇状分布，形态规则，皮髓质分界清晰，门部结构可见，内部血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多个肿大淋巴结，呈串珠状及簇状分布，最大约12.5mm×8.8mm，形态规则，皮髓质分界清晰，内部回声均匀，彩色血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发低回声结节（串珠/簇状，最大13.8×8.4mm），皮髓质分界清，纵横比>2，血流稀少,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发低回声结节（最大13.9×6.6 mm），边界清，皮髓质分界清，纵横比>2，血流稀疏,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发低回声结节，串珠状及簇状分布，边界清晰，皮髓质分界清楚，内部回声均匀，CDFI血流信号稀少,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发椭圆形低回声结节（最大11.0×6.3mm），边界清，皮髓质分界清，回声均匀，CDFI血流不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发椭圆形低回声结节（最大14.3×7.5mm），串珠状/簇状分布，边界清晰，皮髓质分界清，纵横比>2，回声均匀，血流稀少呈门型分布（RI≈0.58）,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发淋巴结肿大（串珠/簇状，最大11.0×5.8 mm），边界清，皮髓质分界清，血流稀疏,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发淋巴结（串珠/簇状，最大13.4×5.9 mm，边界清、皮髓质分界清、纵横比>2、门型血流）,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发淋巴结（串珠/簇状，最大17.8×5.7 mm，形态规则、皮髓质分界清、无液化/钙化、血流不丰富）,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发肿大淋巴结（串珠/簇状），最大15.3×7.9mm，形态规则，皮髓质分界清，门结构可见，血流稀疏,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发肿大淋巴结（最大12.1×8.5mm），形态规则，皮髓质分界清晰，门结构可见，血流不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发肿大淋巴结（最大16.9×5.6mm），串珠状/簇状分布，形态规则，皮髓质分界清，门结构可见，血流稀少,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发肿大淋巴结（最大16.9×5.9 mm），串珠/簇状分布，形态规则，皮髓质分界清晰，可见淋巴门，血流稀疏,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发肿大淋巴结，串珠/簇状，皮髓质分界清晰，血流不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发肿大淋巴结，串珠状及簇状分布，形态规则，边界清晰，皮髓质分界清楚，内部回声均匀，血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发肿大淋巴结，串珠状及簇状分布，最大13.0×6.5 mm，形态规则，皮髓质分界清晰，门部结构可见，血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发肿大淋巴结，串珠状及簇状分布，最大16.0×6.3mm，边界清，皮髓质分界清，内部回声均匀,strongly_supports,非特异性肠系膜淋巴结炎
+超声：肠系膜根部多发肿大淋巴结，串珠状及簇状分布，边界清晰，皮髓质分界清楚，内部回声均匀，彩色血流信号不丰富,strongly_supports,非特异性肠系膜淋巴结炎
+超声：脾内多发低回声区，边界尚清，形态规则，其内可见高回声带状分隔,supports,病理：未特指的滤泡性淋巴瘤
+超声：脾大,supports,套细胞淋巴瘤
+超声：脾大伴回声不均,supports,弥漫大B细胞淋巴瘤
+超声：脾脏显著增大（厚11.3 cm，长29.8 cm）,supports,套细胞淋巴瘤
+超声：脾脏轻度肿大,supports,弥漫大B细胞淋巴瘤
+超声：腹股沟多发淋巴结（1.4×0.5cm）,supports,病理：未特指的滤泡性淋巴瘤
+超声：腹膜后多发低回声团块,supports,弥漫大B细胞淋巴瘤
+超声：腹部多发淋巴结肿大伴形态异常，符合淋巴瘤,supports,套细胞淋巴瘤
+超声：部分淋巴结钙化,supports,结核性周围淋巴结病
+超声：阑尾显影清晰（直径5.1 mm），腔内无粪石，周围无积液，蠕动存在,supports,非特异性肠系膜淋巴结炎
+超声：阑尾显影清晰，外径约4.8 mm，管壁层次结构完整，腔内未见粪石或积液，周围无渗出,supports,非特异性肠系膜淋巴结炎
+超声：阑尾显影清晰，外径约5.1 mm，腔内无粪石，壁层次结构完整，周围无积液,supports,非特异性肠系膜淋巴结炎
+超声：阑尾显影清晰，无粪石，无积液，蠕动存在,supports,非特异性肠系膜淋巴结炎
+超声：阑尾未见异常,supports,非特异性肠系膜淋巴结炎
+超声：阑尾未见异常（外径5.1 mm）,supports,非特异性肠系膜淋巴结炎
+超声：阑尾未见异常（外径5.2 mm）,supports,非特异性肠系膜淋巴结炎
+超声：阑尾未见明显增粗、扭曲或粪石，最大外径约5.2mm，腔内无积液，周围无渗出,supports,非特异性肠系膜淋巴结炎
+超声：阑尾未见明显增粗、积液或粪石，直径约5.2 mm，腔内透声可，周围无渗出,supports,非特异性肠系膜淋巴结炎
+超声：阑尾未见明显增粗、肿胀或周围积液，腔内无粪石，加压可压缩，符合正常阑尾声像图,supports,非特异性肠系膜淋巴结炎
+超声：阑尾未见明显异常（直径5.2 mm，腔内气体，蠕动存在）,supports,非特异性肠系膜淋巴结炎
+超声：阑尾正常（外径5.2 mm，无粪石/渗出/积液）,supports,非特异性肠系膜淋巴结炎
+超声：颈部Ⅱ区低回声结节，形态规则，边界清晰，皮髓质分界尚清，可见典型淋巴门结构，门型血流，RI 0.62,supports,慢性淋巴结炎
+超声：颈部Ⅱ区多发低回声结节，形态规则，边界清晰，皮髓质分界尚存，可见典型淋巴门结构，门型血流，RI 0.62,supports,慢性淋巴结炎
+超声：颈部低回声淋巴结，皮髓质分界模糊，淋巴门偏心/消失，血流丰富,supports,急性淋巴结炎
+超声：颈部低回声淋巴结，皮髓质分界模糊，淋巴门偏心，血流丰富（火海征）,supports,急性淋巴结炎
+超声：颈部低回声结节伴丰富血流信号,supports,急性淋巴结炎
+超声：颈部低回声结节伴丰富血流信号，呈‘树枝状’分布,supports,急性淋巴结炎
+超声：颈部低回声结节伴内部液化,supports,结核性周围淋巴结病
+超声：颈部低回声结节伴皮质增厚、髓质受压、血流丰富,supports,急性淋巴结炎
+超声：颈部低回声结节伴血流丰富,supports,急性淋巴结炎
+超声：颈部低回声结节（皮髓质分界模糊、淋巴门偏心/消失、丰富血流）,supports,急性淋巴结炎
+超声：颈部低回声结节，形态规则，边界清晰，具典型‘淋巴门’高回声，皮髓质分界尚清，CDFI示门部少许穿入型血流，RI 0.62,supports,慢性淋巴结炎
+超声：颈部低回声结节，形态规则，边界清晰，皮髓质分界尚存，中央可见线状高回声淋巴门结构，CDFI示门型血流信号，RI=0.62,supports,慢性淋巴结炎
+超声：颈部低回声结节，形态规则，边界清晰，皮髓质分界尚清，淋巴门结构典型，血流呈门型分布（RI=0.62）,supports,慢性淋巴结炎
+超声：颈部冷脓肿表现,supports,结核性周围淋巴结病
+超声：颈部及腹股沟多发低回声结节,supports,病理：未特指的滤泡性淋巴瘤
+超声：颈部反应性淋巴结声像图,supports,慢性淋巴结炎
+超声：颈部多个低回声结节，皮髓质分界模糊，淋巴门消失，血流丰富,supports,急性淋巴结炎
+超声：颈部多发低回声团块伴内部液化,supports,结核性周围淋巴结病
+超声：颈部多发低回声团块，边界不清，血流丰富,supports,弥漫大B细胞淋巴瘤
+超声：颈部多发低回声团块，边界不清，部分融合,supports,结核性周围淋巴结病
+超声：颈部多发低回声淋巴结，部分伴内部液化,supports,结核性周围淋巴结病
+超声：颈部多发低回声结节伴丰富血流信号,supports,急性淋巴结炎
+超声：颈部多发低回声结节伴液化,supports,结核性周围淋巴结病
+超声：颈部多发低回声结节伴结构异常,supports,急性淋巴结炎
+超声：颈部多发低回声结节（皮髓质分界模糊、淋巴门不清、丰富血流）,supports,急性淋巴结炎
+超声：颈部多发低回声结节，边界不清、内部回声不均、部分伴液化,supports,结核性周围淋巴结病
+超声：颈部多发低回声结节，边界不清，部分内部液化,supports,结核性周围淋巴结病
+超声：颈部多发淋巴结（1.4 cm×0.5 cm）,supports,病理：未特指的滤泡性淋巴瘤
+超声：颈部多发结构异常淋巴结,supports,弥漫大B细胞淋巴瘤
+超声：颈部多发融合性淋巴结，结构紊乱，内部液化,supports,结核性周围淋巴结病
+超声：颈部多枚融合性低回声团块伴内部液化,supports,结核性周围淋巴结病
+超声：颈部急性炎症性淋巴结改变,supports,急性淋巴结炎
+超声：颈部淋巴结低回声结节伴丰富血流信号（火海征）,supports,急性淋巴结炎
+超声：颈部淋巴结低回声结节伴火海征,supports,急性淋巴结炎
+超声：颈部淋巴结低回声结节伴门型血流,supports,慢性淋巴结炎
+超声：颈部淋巴结内部液化,supports,结核性周围淋巴结病
+超声：颈部淋巴结肿大，皮髓质分界模糊，淋巴门偏心/消失，回声不均，血流丰富,supports,急性淋巴结炎
+超声：颈部淋巴结融合伴液化坏死,supports,结核性周围淋巴结病
+超声：颌下区低回声结节，形态规则，皮髓质分界尚清，可见偏心性淋巴门结构，内部血流信号稀疏,supports,慢性淋巴结炎
+超声：颌下区低回声结节，形态规则，边界清晰，内部回声欠均匀，皮髓质分界部分模糊，可见偏心性淋巴门，门部少许短条状血流，RI 0.62,supports,慢性淋巴结炎
+超声：颌下区低回声结节，形态规则，边界清晰，皮髓质分界尚清，中央可见典型淋巴门结构，门型血流，RI 0.62,supports,慢性淋巴结炎
+超声：颌下区低回声结节，形态规则，边界清晰，皮髓质分界尚清，可见典型淋巴门结构，内部血流信号呈门型分布,supports,慢性淋巴结炎
+超声：颌下区低回声结节，形态规则，边界清晰，皮髓质分界欠清，可见淋巴门结构，门型血流，RI 0.62,supports,慢性淋巴结炎
+超声：颌下区低回声结节，边界清晰，可见淋巴门结构，皮髓质分界尚存,supports,慢性淋巴结炎
+超声：颌下反应性淋巴结炎,strongly_supports,慢性淋巴结炎
+超敏CRP正常（2.9 mg/L）,supports,慢性淋巴结炎
+足癣伴局部化脓性感染,increases_risk_of,慢性淋巴结炎
+轻度正细胞正色素性贫血,supports,病理：未特指的滤泡性淋巴瘤
+轻度正细胞正色素性贫血,supports,套细胞淋巴瘤
+轻度血小板减少,supports,病理：未特指的滤泡性淋巴瘤
+轻度贫血,supports,弥漫大B细胞淋巴瘤
+轻度贫血,supports,病理：未特指的滤泡性淋巴瘤
+轻度贫血,supports,结核性周围淋巴结病
+轻度贫血,supports,套细胞淋巴瘤
+轻度贫血（Hb 102 g/L）,supports,弥漫大B细胞淋巴瘤
+轻度贫血（Hb 102 g/L）,supports,病理：未特指的滤泡性淋巴瘤
+轻度贫血（Hb 102 g/L）,supports,结核性周围淋巴结病
+轻度贫血（Hb 98g/L）,supports,弥漫大B细胞淋巴瘤
+过度疲劳,increases_risk_of,慢性淋巴结炎
+近期上呼吸道感染（咽痛、流涕、低热）,increases_risk_of,非特异性肠系膜淋巴结炎
+近期胃肠道感染史（腹泻、呕吐）,increases_risk_of,非特异性肠系膜淋巴结炎
+近期胃肠道感染（腹泻、呕吐）,increases_risk_of,非特异性肠系膜淋巴结炎
+近期腹泻、呕吐病史,increases_risk_of,非特异性肠系膜淋巴结炎
+进食不洁食物后腹泻、呕吐,increases_risk_of,非特异性肠系膜淋巴结炎
+进食辛辣,increases_risk_of,慢性淋巴结炎
+铁蛋白升高,supports,弥漫大B细胞淋巴瘤
+锁骨上淋巴结活检病理：非霍奇金淋巴瘤（滤泡性淋巴瘤，低级别）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+锁骨上淋巴结超声：低回声团块，边界不清,supports,结核性周围淋巴结病
+镜下见弥漫性异型大B细胞浸润，核大、核仁明显，核分裂象易见,strongly_supports,弥漫大B细胞淋巴瘤
+镜检：异型大淋巴样细胞弥漫增生,strongly_supports,弥漫大B细胞淋巴瘤
+长期未治疗的口腔感染病灶,increases_risk_of,慢性淋巴结炎
+间擦型足癣,increases_risk_of,慢性淋巴结炎
+间擦型足癣（右足第3-4趾间皮肤浸渍、糜烂）,increases_risk_of,急性淋巴结炎
+阑尾外径5.2mm，腔内无粪石，周围无渗出或积液,supports,非特异性肠系膜淋巴结炎
+阑尾显影清晰，外径约5.3mm，腔内无粪石，壁层次结构完整，周围无积液,supports,非特异性肠系膜淋巴结炎
+阑尾显影清晰，无增厚、粪石或积液,supports,非特异性肠系膜淋巴结炎
+阑尾显影清晰，直径约5.2mm，腔内无粪石，壁无增厚，周围无积液,supports,非特异性肠系膜淋巴结炎
+阑尾显影清晰，管腔内无粪石，直径约4.2 mm，壁无增厚，周围无积液,supports,非特异性肠系膜淋巴结炎
+阑尾未见明显增粗，直径约4.2mm，腔内无粪石，周围无积液,supports,非特异性肠系膜淋巴结炎
+阑尾未见明显增粗，直径约5.2mm，腔内未见粪石，周围无积液，血流信号正常,supports,非特异性肠系膜淋巴结炎
+阑尾未见明显异常（直径5.2 mm，无积液/渗出/粪石，蠕动存在）,supports,非特异性肠系膜淋巴结炎
+阑尾超声未见异常（无增粗、扩张、积液或粪石）,supports,非特异性肠系膜淋巴结炎
+阑尾超声：未见明显增粗、肿胀或周围积液，腔内无粪石，可压缩，符合正常表现,supports,非特异性肠系膜淋巴结炎
+阑尾超声：未见明显增粗，直径约5.2mm，腔内无粪石，周围无积液,supports,非特异性肠系膜淋巴结炎
+阻生智齿,increases_risk_of,急性淋巴结炎
+陈旧性肺结核病史,increases_risk_of,结核性周围淋巴结病
+集体宿舍、通风不良,increases_risk_of,结核性周围淋巴结病
+非典型淋巴细胞浸润,strongly_supports,套细胞淋巴瘤
+非特异性肠系膜淋巴结炎,has_typical_symptom,发热
+非特异性肠系膜淋巴结炎,has_typical_symptom,恶心
+非特异性肠系膜淋巴结炎,has_typical_symptom,流涕
+非特异性肠系膜淋巴结炎,has_typical_symptom,流清涕
+非特异性肠系膜淋巴结炎,has_typical_symptom,腹痛
+非特异性肠系膜淋巴结炎,has_typical_symptom,腹痛可自行缓解
+非特异性肠系膜淋巴结炎,has_typical_symptom,进食油腻或生冷食物后诱发腹痛
+非特异性肠系膜淋巴结炎,has_typical_symptom,阵发性腹痛
+非特异性肠系膜淋巴结炎,has_typical_symptom,阵发性钝痛
+非特异性肠系膜淋巴结炎,has_typical_symptom,反复腹痛
+非特异性肠系膜淋巴结炎,has_typical_symptom,呕吐
+非特异性肠系膜淋巴结炎,has_typical_symptom,咽痛
+非特异性肠系膜淋巴结炎,has_typical_symptom,痉挛样疼痛
+非特异性肠系膜淋巴结炎,has_typical_symptom,脐周腹痛
+非特异性肠系膜淋巴结炎,has_typical_symptom,腹痛伴呕吐
+非特异性肠系膜淋巴结炎,has_typical_symptom,间歇性脐周腹痛
+非特异性肠系膜淋巴结炎,has_typical_symptom,间歇性腹痛
+非特异性肠系膜淋巴结炎,has_typical_symptom,阵发性钝痛或痉挛样疼痛
+非特异性肠系膜淋巴结炎,has_typical_symptom,阵发性钝痛或痉挛样腹痛
+非特异性肠系膜淋巴结炎,has_typical_symptom,食欲不振
+非特异性肠系膜淋巴结炎,has_typical_symptom,餐后脐周疼痛
+非特异性肠系膜淋巴结炎,has_typical_symptom,餐后脐周腹痛
+非特异性肠系膜淋巴结炎,has_typical_symptom,餐后腹痛
+非特异性肠系膜淋巴结炎,manifests_as,压痛位置不固定
+非特异性肠系膜淋巴结炎,manifests_as,压痛点位置不固定
+非特异性肠系膜淋巴结炎,manifests_as,右下腹偶有轻压痛但压痛点不固定
+非特异性肠系膜淋巴结炎,manifests_as,右下腹轻压痛
+非特异性肠系膜淋巴结炎,manifests_as,右下腹轻压痛，无固定压痛点
+非特异性肠系膜淋巴结炎,manifests_as,右下腹轻度压痛，压痛点不固定
+非特异性肠系膜淋巴结炎,manifests_as,无固定压痛点
+非特异性肠系膜淋巴结炎,manifests_as,无肌紧张
+非特异性肠系膜淋巴结炎,manifests_as,查体：下腹部压痛
+非特异性肠系膜淋巴结炎,manifests_as,查体：全腹无反跳痛
+非特异性肠系膜淋巴结炎,manifests_as,查体：全腹轻度压痛，以右下腹为著，压痛点不固定
+非特异性肠系膜淋巴结炎,manifests_as,查体：压痛位置游移
+非特异性肠系膜淋巴结炎,manifests_as,查体：压痛点不固定
+非特异性肠系膜淋巴结炎,manifests_as,查体：变换体位后压痛位置变化
+非特异性肠系膜淋巴结炎,manifests_as,查体：右下腹压痛
+非特异性肠系膜淋巴结炎,manifests_as,查体：右下腹压痛（压痛点不固定）
+非特异性肠系膜淋巴结炎,manifests_as,查体：右下腹压痛，压痛点不固定
+非特异性肠系膜淋巴结炎,manifests_as,查体：右下腹轻压痛（位置不固定）
+非特异性肠系膜淋巴结炎,manifests_as,查体：右下腹轻压痛，压痛点不固定
+非特异性肠系膜淋巴结炎,manifests_as,查体：右下腹轻压痛，无固定麦氏点压痛
+非特异性肠系膜淋巴结炎,manifests_as,查体：右下腹轻压痛，无腹膜刺激征
+非特异性肠系膜淋巴结炎,manifests_as,查体：右下腹轻度压痛
+非特异性肠系膜淋巴结炎,manifests_as,查体：右下腹轻度压痛（压痛点不固定）
+非特异性肠系膜淋巴结炎,manifests_as,查体：右下腹轻度压痛，压痛点不固定
+非特异性肠系膜淋巴结炎,manifests_as,查体：咽部轻度充血
+非特异性肠系膜淋巴结炎,manifests_as,查体：扁桃体Ⅰ度肿大
+非特异性肠系膜淋巴结炎,manifests_as,查体：无反跳痛
+非特异性肠系膜淋巴结炎,manifests_as,查体：无肌紧张及反跳痛
+非特异性肠系膜淋巴结炎,manifests_as,查体：无腹肌紧张及反跳痛
+非特异性肠系膜淋巴结炎,manifests_as,查体：脐周压痛
+非特异性肠系膜淋巴结炎,manifests_as,查体：脐周及右下腹压痛阳性，压痛点不固定
+非特异性肠系膜淋巴结炎,manifests_as,查体：脐周及右下腹压痛，压痛点不固定
+非特异性肠系膜淋巴结炎,manifests_as,查体：脐周及右下腹散在压痛，压痛点不固定
+非特异性肠系膜淋巴结炎,manifests_as,查体：脐周及右下腹轻度压痛，压痛点不固定
+非特异性肠系膜淋巴结炎,manifests_as,查体：脐周深压痛
+非特异性肠系膜淋巴结炎,manifests_as,查体：脐周深压痛，压痛点不固定
+非特异性肠系膜淋巴结炎,manifests_as,查体：脐周轻压痛
+非特异性肠系膜淋巴结炎,manifests_as,查体：腹壁柔软，无肌紧张
+非特异性肠系膜淋巴结炎,manifests_as,查体：腹壁柔软，无肌紧张及反跳痛
+非特异性肠系膜淋巴结炎,manifests_as,查体：腹软，无腹肌紧张
+非特异性肠系膜淋巴结炎,manifests_as,查体：腹部平坦柔软，无肌紧张，无反跳痛
+非特异性肠系膜淋巴结炎,manifests_as,查体：腹部无反跳痛、无肌紧张
+非特异性肠系膜淋巴结炎,manifests_as,查体：腹部无肌紧张及反跳痛
+非特异性肠系膜淋巴结炎,manifests_as,查体：腹部柔软无肌紧张
+非特异性肠系膜淋巴结炎,manifests_as,查体：腹部柔软，无肌紧张及反跳痛
+非特异性肠系膜淋巴结炎,manifests_as,查体：麦氏点无固定压痛
+非特异性肠系膜淋巴结炎,manifests_as,肠鸣音活跃
+非特异性肠系膜淋巴结炎,manifests_as,脐周压痛
+非特异性肠系膜淋巴结炎,manifests_as,脐周及右下腹压痛，压痛点不固定
+非特异性肠系膜淋巴结炎,manifests_as,脐周深压痛
+非特异性肠系膜淋巴结炎,manifests_as,脐周深压痛，无固定压痛点
+非特异性肠系膜淋巴结炎,manifests_as,腹壁软，无明显肌紧张，无反跳痛
+非特异性肠系膜淋巴结炎,manifests_as,腹软，无肌紧张，无反跳痛
+非特异性肠系膜淋巴结炎,manifests_as,腹部压痛范围较广，以右下腹为著，压痛点不固定
+非特异性肠系膜淋巴结炎,manifests_as,蜷缩身体
+非特异性肠系膜淋巴结炎,manifests_as,蜷缩身体、表情痛苦、哭闹
+非特异性肠系膜淋巴结炎,manifests_as,阵发性哭闹
+非特异性肠系膜淋巴结炎,manifests_as,面色苍白
+非特异性肠系膜淋巴结炎,manifests_as,麦氏点无固定压痛
+非特异性肠系膜淋巴结炎,needs_differentiation_from,功能性腹痛
+非特异性肠系膜淋巴结炎,needs_differentiation_from,急性阑尾炎
+非特异性肠系膜淋巴结炎,needs_differentiation_from,肠痉挛
+非特异性肠系膜淋巴结炎,needs_differentiation_from,胃肠功能紊乱
+颈、胸、腹部CT平扫及增强：右侧盆壁及右侧腹股沟区淋巴结肿大，淋巴瘤可能,supports,弥漫大B细胞淋巴瘤
+颈胸腹盆增强CT示多发肿大淋巴结及脾脏增大,supports,套细胞淋巴瘤
+颈部及胸部增强CT：多发肿大淋巴结，部分融合成团,supports,弥漫大B细胞淋巴瘤
+颈部及腹主动脉旁多发肿大淋巴结（彩超）,supports,弥漫大B细胞淋巴瘤
+颈部及腹股沟淋巴结彩超：多发低回声结节伴内部液性暗区,supports,结核性周围淋巴结病
+颈部及腹股沟淋巴结超声：多发低回声团块，边界不清，内部回声不均，部分可见液化区,supports,结核性周围淋巴结病
+颈部及腹股沟超声：多发低回声结节，皮髓质结构不清,supports,病理：未特指的滤泡性淋巴瘤
+颈部及腹膜后多发淋巴结肿大（CT）,supports,病理：未特指的滤泡性淋巴瘤
+颈部增强CT示多发肿大淋巴结、部分融合,supports,套细胞淋巴瘤
+颈部增强CT示颈深组多枚淋巴结融合，中心低密度区，符合冷脓肿表现,supports,结核性周围淋巴结病
+颈部增强CT：双侧颈深部及锁骨上多发肿大淋巴结（最大4.2cm，融合）,supports,弥漫大B细胞淋巴瘤
+颈部增强CT：右侧颈Ⅱ–Ⅳ区多发淋巴结肿大（部分融合）,supports,弥漫大B细胞淋巴瘤
+颈部增强CT：多发淋巴结融合，中心低密度，环形强化,supports,结核性周围淋巴结病
+颈部增强CT：多发肿大淋巴结,supports,套细胞淋巴瘤
+颈部增强CT：多发肿大淋巴结，部分融合,supports,套细胞淋巴瘤
+颈部增强CT：甲状腺多发结节及肿块,supports,弥漫大B细胞淋巴瘤
+颈部增强CT：融合成团淋巴结伴坏死,supports,弥漫大B细胞淋巴瘤
+颈部多发低回声结节，边界不清，内部血流丰富,supports,结核性周围淋巴结病
+颈部多发低回声结节，边界不清，血流丰富,supports,弥漫大B细胞淋巴瘤
+颈部多发肿大淋巴结（CT）,supports,病理：未特指的滤泡性淋巴瘤
+颈部多发融合性淋巴结，部分中心低密度、环形强化,supports,结核性周围淋巴结病
+颈部彩色多普勒超声：左侧颈部Ⅱ区低回声结节，形态规则，边界清晰，内部可见典型‘淋巴门’高回声结构，皮髓质分界尚清，CDFI显示门部短条状血流信号，RI 0.62，无异常周边血流、囊性变或钙化,supports,慢性淋巴结炎
+颈部彩超提示左侧颌下腺内及颌下多发淋巴结肿大；左侧颈部多发淋巴结肿大；右侧颈部及右侧颌下多发淋巴结存在,supports,病理：未特指的滤泡性淋巴瘤
+颈部彩超显示多个淋巴结肿大，大者约2.5cm×1.5cm，回声均匀,supports,急性淋巴结炎
+颈部彩超示右耳后及枕部多发低回声结节（形态不规则，皮髓质分界模糊，淋巴门偏移，血流丰富，RI 0.72）,supports,急性淋巴结炎
+颈部彩超：低回声结节，边界清晰，皮髓质分界尚清，偏心性淋巴门，门型血流，RI 0.62,supports,慢性淋巴结炎
+颈部彩超：多发低回声团块，边界不清，内部血流丰富,supports,弥漫大B细胞淋巴瘤
+颈部彩超：左侧II区低回声结节（1.7×1.4 cm），形态规则，边界清晰，皮髓质分界尚清，可见典型淋巴门结构，门型血流分布，RI 0.62,supports,慢性淋巴结炎
+颈部淋巴结上皮样细胞结节性肉芽肿性病变,strongly_supports,结核性周围淋巴结病
+颈部淋巴结切除活检病理：弥漫性大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+颈部淋巴结弥漫性大细胞浸润，核大、核仁明显，核分裂象易见,strongly_supports,弥漫大B细胞淋巴瘤
+颈部淋巴结彩色多普勒超声示急性炎症性淋巴结改变,supports,急性淋巴结炎
+颈部淋巴结彩超：低回声结节，形态规则，边界清晰，皮髓质分界尚清，偏心性淋巴门，门型血流，RI 0.62,supports,慢性淋巴结炎
+颈部淋巴结彩超：低回声结节，形态规则，边界清晰，皮髓质分界尚清，典型淋巴门，门部点状血流,supports,慢性淋巴结炎
+颈部淋巴结活检：滤泡性淋巴瘤Ⅱ级,strongly_supports,病理：未特指的滤泡性淋巴瘤
+颈部淋巴结穿刺活检病理：弥漫大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+颈部淋巴结穿刺活检：弥漫性大B细胞淋巴瘤,strongly_supports,弥漫大B细胞淋巴瘤
+颈部淋巴结穿刺活检：弥漫性异型大淋巴样细胞浸润，免疫组化CD20(+),strongly_supports,弥漫大B细胞淋巴瘤
+颈部淋巴结超声示低回声结节（皮质增厚、髓质受压、淋巴门不清、血流丰富）,supports,急性淋巴结炎
+颈部淋巴结超声示多发低回声结节伴液化,supports,结核性周围淋巴结病
+颈部淋巴结超声：低回声结节，形态规则，边界清晰，皮髓质分界尚清，淋巴门结构可见，内部血流信号呈门型分布,supports,慢性淋巴结炎
+颈部淋巴结超声：低回声结节，皮质增厚，髓质受压，淋巴门部分不清，CDFI呈‘火海征’,supports,急性淋巴结炎
+颈部淋巴结超声：低回声结节，皮髓质分界模糊，淋巴门偏心或部分消失，内部丰富短棒状血流信号,supports,急性淋巴结炎
+颈部淋巴结超声：低回声结节，纵横比>2，皮髓质分界尚清，偏心性淋巴门，门型血流，RI 0.62,supports,慢性淋巴结炎
+颈部淋巴结超声：多发低回声团块，边界不清，血流丰富,supports,弥漫大B细胞淋巴瘤
+颈部淋巴结超声：形态饱满，皮髓质分界模糊，淋巴门消失，回声不均，血流丰富,supports,急性淋巴结炎
+颈部超声示多发低回声结节，边界不清，部分内部液化,supports,结核性周围淋巴结病
+颈部超声：低回声结节伴丰富血流信号,supports,急性淋巴结炎
+颈部超声：低回声结节伴丰富血流信号（火海征）,supports,急性淋巴结炎
+颈部超声：低回声结节融合伴内部液化坏死,supports,结核性周围淋巴结病
+颈部超声：低回声结节，边界清晰，皮髓质分界尚清，可见典型淋巴门结构，门型血流信号,supports,慢性淋巴结炎
+颈部超声：双侧多发肿大淋巴结，结构紊乱,supports,弥漫大B细胞淋巴瘤
+颈部超声：双侧颈部多发低回声结节,supports,弥漫大B细胞淋巴瘤
+颈部超声：双侧颈部多发低回声结节，形态规则，长径/短径比>2，皮髓质分界尚清，部分可见模糊淋巴门结构，CDFI示丰富血流信号，呈高速低阻型动脉频谱,supports,急性淋巴结炎
+颈部超声：双侧颈部多发结构异常淋巴结肿大,supports,弥漫大B细胞淋巴瘤
+颈部超声：右侧耳后及枕后多发异常淋巴结（皮髓质分界模糊，淋巴门偏移，血流丰富）,supports,急性淋巴结炎
+颈部超声：右侧耳后及枕部多枚淋巴结肿大，形态饱满，皮髓质分界模糊，淋巴门结构偏心或部分消失，内部见丰富点条状血流信号,supports,急性淋巴结炎
+颈部超声：多个边界清晰、血流信号丰富的低回声结节,supports,慢性淋巴结炎
+颈部超声：多发低回声淋巴结，结构异常伴丰富血流（“火海征”）,strongly_supports,急性淋巴结炎
+颈部超声：多发低回声结节伴丰富血流信号,supports,急性淋巴结炎
+颈部超声：多发低回声结节，形态规则，长径/短径比>2，皮髓质分界尚清，可见清晰淋巴门结构，门型血流信号,supports,慢性淋巴结炎
+颈部超声：多发低回声结节，皮髓质分界模糊，淋巴门偏心或消失，内部血流丰富,supports,急性淋巴结炎
+颈部超声：多发低回声结节，边界不清，部分融合,supports,结核性周围淋巴结病
+颈部超声：多发异常肿大淋巴结（结构破坏）,supports,弥漫大B细胞淋巴瘤
+颈部超声：多发异常肿大淋巴结，结构破坏,supports,弥漫大B细胞淋巴瘤
+颈部超声：多发融合性淋巴结伴内部液化,supports,结核性周围淋巴结病
+颈部超声：多枚淋巴结融合伴液化坏死,supports,结核性周围淋巴结病
+颈部超声：左侧锁骨上多枚融合淋巴结伴液化区,supports,结核性周围淋巴结病
+颈部超声：左侧锁骨上淋巴结肿大，回声不均,supports,结核性周围淋巴结病
+颈部超声：左侧颈部II区低回声结节，1.7×1.4cm，形态规则，边界清晰，皮髓质分界尚清，淋巴门结构可见，血流呈门型分布，RI 0.58,supports,慢性淋巴结炎
+颈部超声：左侧颈部Ⅱ区低回声结节，形态规则，边界清晰，皮髓质分界尚清，可见典型淋巴门结构，内部血流信号呈门型分布,supports,慢性淋巴结炎
+颈部超声：淋巴结皮髓质结构消失,supports,弥漫大B细胞淋巴瘤
+颈部超声：淋巴结脓肿伴液性暗区,supports,结核性周围淋巴结病
+颈部超声：淋巴结融合、内部液性暗区,supports,结核性周围淋巴结病
+颈部超声：淋巴结融合伴内部液化坏死,supports,结核性周围淋巴结病
+颈部超声：淋巴结融合伴液化坏死,supports,结核性周围淋巴结病
+颈部超声：混合回声团块伴脓肿形成,supports,结核性周围淋巴结病
+颈部超声：颈深淋巴结融合成团伴液化坏死,supports,结核性周围淋巴结病
+颈部软组织彩超：低回声结节伴皮髓质分界模糊、淋巴门结构消失、丰富血流信号,supports,急性淋巴结炎
+颈部软组织彩超：右侧耳后及枕部多枚低回声结节，形态欠规则，皮髓质分界模糊，淋巴门结构消失，内部丰富血流信号（火海征）,supports,急性淋巴结炎
+颈部软组织彩超：右耳后及枕部多枚低回声结节，最大约2.4cm×1.9cm，形态规则，皮髓质分界模糊，淋巴门结构消失，内部血流信号丰富，周边软组织回声增强,supports,急性淋巴结炎
+颈部间隙感染,needs_differentiation_from,结核性周围淋巴结病
+颈部高频彩超示低回声结节，形态规则，边界清晰，皮髓质分界尚清，可见典型淋巴门结构，内部血流信号呈门型分布,strongly_supports,慢性淋巴结炎
+颌下区彩色多普勒超声：右侧颌下见一低回声结节，大小1.4cm×1.1cm，形态规则，边界清晰，皮髓质分界尚清，可见典型淋巴门结构，内部血流信号呈门型分布，阻力指数（RI）0.62,supports,慢性淋巴结炎
+颌下区超声：低回声结节，形态规则，边界清晰，内部回声均匀，皮髓质分界尚清，可见典型‘淋巴门’结构，门部少许穿入型血流信号，RI 0.58,supports,慢性淋巴结炎
+颌下区超声：低回声结节，形态规则，边界清晰，内部回声均匀，皮髓质分界尚清，可见典型淋巴门结构，门部少许点状血流信号,supports,慢性淋巴结炎
+颌下淋巴结彩超：右侧低回声结节（1.4×1.1cm），形态规则，边界清晰，皮髓质分界尚清，偏心性淋巴门，门型血流，无坏死/钙化,supports,慢性淋巴结炎
+颌下淋巴结超声：低回声，形态规则，结构清晰,supports,慢性淋巴结炎
+颌下超声：右侧颌下两枚低回声结节，最大1.8×1.2 cm，形态规则，边界清晰，内部回声欠均匀，皮髓质分界尚清，淋巴门略偏移，少许点状血流信号，RI 0.62，无液化坏死,supports,慢性淋巴结炎
+骨髓FDG代谢轻度增高，SUVmax 3.0,supports,病理：未特指的滤泡性淋巴瘤
+"骨髓中异常B淋巴细胞群占28%（CD19+, CD20+, CD5+, CD23−, CD10−, FMC7+, sIgM+, sIgD弱+, κ限制性表达）",strongly_supports,套细胞淋巴瘤
+骨髓中异常小至中等淋巴细胞浸润,strongly_supports,套细胞淋巴瘤
+骨髓中淋巴细胞比例增高伴不典型形态,supports,套细胞淋巴瘤
+骨髓内可见约15%异常淋巴细胞浸润，形态及免疫表型与胃部病变一致,strongly_supports,套细胞淋巴瘤
+骨髓内套细胞淋巴瘤浸润,strongly_supports,套细胞淋巴瘤
+骨髓受累（淋巴细胞占比约35%）,strongly_supports,套细胞淋巴瘤
+骨髓异型淋巴细胞浸润,strongly_supports,套细胞淋巴瘤
+骨髓异常淋巴样细胞占38%,strongly_supports,套细胞淋巴瘤
+骨髓异常淋巴样细胞浸润,strongly_supports,套细胞淋巴瘤
+骨髓异常淋巴细胞浸润（15%）,supports,套细胞淋巴瘤
+骨髓异常淋巴细胞浸润（35%）,supports,套细胞淋巴瘤
+骨髓异常淋巴细胞浸润（占比约35%）,supports,套细胞淋巴瘤
+骨髓异常淋巴细胞浸润（约30%）,supports,套细胞淋巴瘤
+骨髓异常淋巴细胞浸润（约35%）,supports,套细胞淋巴瘤
+骨髓检查：15%异常淋巴细胞浸润,strongly_supports,套细胞淋巴瘤
+骨髓检查：异常淋巴细胞浸润,strongly_supports,套细胞淋巴瘤
+骨髓检查：未见明确淋巴瘤浸润,supports,病理：未特指的滤泡性淋巴瘤
+骨髓检查：未见淋巴瘤细胞浸润,supports,弥漫大B细胞淋巴瘤
+骨髓检查：淋巴样细胞比例增高（35%）伴形态不典型,supports,套细胞淋巴瘤
+骨髓检查：淋巴瘤细胞浸润（约15%）,strongly_supports,套细胞淋巴瘤
+骨髓检查：约15%异常淋巴样细胞,supports,套细胞淋巴瘤
+骨髓活检HE及免疫组化证实滤泡性淋巴瘤累及（淋巴瘤细胞约占42%）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+"骨髓活检免疫组化：CD20(+), CD5(+), Cyclin D1(+), SOX11(+), CD23(-), CD10(-), BCL6(-)",strongly_supports,套细胞淋巴瘤
+"骨髓活检示滤泡样结构浸润，免疫组化：CD20(+), CD10(+), BCL-6(+), MUM-1(-), BCL-2(+)(70–85%), Ki-67(约9%)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓活检见异型淋巴细胞浸润，免疫组化支持滤泡性淋巴瘤累及骨髓,strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓活检见异常淋巴样细胞（母细胞样，核仁明显）,strongly_supports,套细胞淋巴瘤
+骨髓活检：Cyclin D1(+)淋巴细胞浸润,strongly_supports,套细胞淋巴瘤
+骨髓活检：Ki-67增殖指数65%,supports,套细胞淋巴瘤
+骨髓活检：增生明显活跃，间质性浸润的异型小淋巴细胞，核形不规则，染色质致密,supports,套细胞淋巴瘤
+骨髓活检：异常小淋巴细胞浸润（18%）,supports,套细胞淋巴瘤
+骨髓活检：异常小至中等淋巴样细胞浸润，核不规则，染色质致密,strongly_supports,套细胞淋巴瘤
+骨髓活检：异常淋巴细胞浸润,supports,套细胞淋巴瘤
+骨髓活检：异常淋巴细胞浸润（15%，滤泡样分布）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓活检：异常淋巴细胞浸润（25%）,supports,套细胞淋巴瘤
+骨髓活检：有核细胞增生活跃，约30%小至中等淋巴样细胞弥漫浸润，核形不规则，染色质粗糙,strongly_supports,套细胞淋巴瘤
+骨髓活检：未见淋巴瘤浸润,supports,弥漫大B细胞淋巴瘤
+骨髓活检：未见淋巴瘤浸润,supports,病理：未特指的滤泡性淋巴瘤
+骨髓活检：未见淋巴瘤细胞浸润,supports,弥漫大B细胞淋巴瘤
+骨髓活检：淋巴瘤浸润,strongly_supports,套细胞淋巴瘤
+骨髓活检：淋巴瘤细胞弥漫浸润（43%）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓活检：淋巴瘤细胞浸润比例约25%,strongly_supports,套细胞淋巴瘤
+骨髓活检：淋巴瘤细胞浸润（26%，结节样分布）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓活检：淋巴细胞比例显著增高，形态为小至中等大小、核形不规则,strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓活检：淋巴细胞浸润约40%，形态学符合小B细胞淋巴瘤,supports,套细胞淋巴瘤
+骨髓活检：滤泡性淋巴瘤累及骨髓,strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓活检：滤泡样结构浸润，淋巴瘤细胞约占19%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓流式细胞学：CD5(+)、CD20(+)、CD10(-)、CD19(+)B细胞占淋巴细胞41.65%，CD45表达强度偏弱，胞膜λ轻链单克隆表达，FMC7高比例中等强度表达，CD23低比例低强度表达，符合套细胞淋巴瘤表型,strongly_supports,套细胞淋巴瘤
+骨髓流式：未检出单克隆B细胞群,supports,病理：未特指的滤泡性淋巴瘤
+骨髓涂片及活检未见淋巴瘤浸润,supports,病理：未特指的滤泡性淋巴瘤
+骨髓涂片及活检：未见淋巴瘤浸润,supports,病理：未特指的滤泡性淋巴瘤
+骨髓涂片见异常淋巴细胞约25%，形态偏小，核染色质致密,supports,套细胞淋巴瘤
+骨髓涂片见约28%异常淋巴样细胞,supports,病理：未特指的滤泡性淋巴瘤
+骨髓涂片：异常淋巴样细胞18%,supports,套细胞淋巴瘤
+骨髓涂片：异常淋巴样细胞占18%,supports,套细胞淋巴瘤
+骨髓涂片：异常淋巴细胞约35%,supports,套细胞淋巴瘤
+骨髓涂片：淋巴瘤细胞约占19%,strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓淋巴样细胞浸润约占35%,strongly_supports,套细胞淋巴瘤
+骨髓淋巴样细胞浸润，倾向惰性B细胞淋巴瘤,strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓淋巴样细胞浸润，免疫组化CD20(+) CD10(+) BCL6(+) BCL-2(>90%+) Ki-67(15%),strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓淋巴瘤细胞浸润,strongly_supports,套细胞淋巴瘤
+骨髓淋巴瘤细胞浸润（25%）,strongly_supports,套细胞淋巴瘤
+骨髓淋巴细胞比例增高（28%）,supports,套细胞淋巴瘤
+骨髓穿刺+活检显示滤泡性淋巴瘤单克隆B细胞结节样浸润,strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓穿刺+活检未见明确淋巴瘤侵犯,supports,病理：未特指的滤泡性淋巴瘤
+骨髓穿刺+活检示淋巴瘤细胞弥漫及灶性浸润，免疫组化符合滤泡性淋巴瘤累及,strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓穿刺+活检：未见明显淋巴瘤浸润,supports,病理：未特指的滤泡性淋巴瘤
+骨髓穿刺及活检未见淋巴瘤侵犯,supports,弥漫大B细胞淋巴瘤
+"骨髓穿刺及活检：异型小淋巴细胞浸润；免疫组化：CD20(+), CD10(+), BCL-6(+), BCL-2(高表达), Ki-67(约11%)；FISH：t(14;18)(+)",strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓穿刺及活检：未见淋巴瘤浸润,supports,弥漫大B细胞淋巴瘤
+骨髓穿刺及活检：淋巴瘤细胞浸润（15%）,strongly_supports,套细胞淋巴瘤
+骨髓穿刺未见异常淋巴细胞浸润,supports,弥漫大B细胞淋巴瘤
+骨髓穿刺涂片及活检：异常淋巴细胞浸润（约25%）,strongly_supports,套细胞淋巴瘤
+骨髓穿刺涂片及活检：未见淋巴瘤细胞浸润,supports,弥漫大B细胞淋巴瘤
+骨髓穿刺涂片未见明显异常淋巴细胞浸润,supports,弥漫大B细胞淋巴瘤
+骨髓穿刺涂片未见淋巴瘤细胞浸润,supports,弥漫大B细胞淋巴瘤
+骨髓穿刺涂片未见淋巴瘤细胞浸润,supports,病理：未特指的滤泡性淋巴瘤
+骨髓穿刺涂片见15%异常淋巴细胞,strongly_supports,套细胞淋巴瘤
+骨髓穿刺涂片见异常淋巴细胞浸润（约占65%）,strongly_supports,套细胞淋巴瘤
+骨髓穿刺涂片：增生活跃，淋巴细胞比例增高（约25%），细胞小至中等，核染色质致密,supports,套细胞淋巴瘤
+骨髓穿刺涂片：异常淋巴细胞占28%，形态呈小至中等大小，核不规则,strongly_supports,套细胞淋巴瘤
+骨髓穿刺涂片：未见淋巴瘤细胞浸润,supports,弥漫大B细胞淋巴瘤
+骨髓穿刺见异常淋巴细胞占18%,supports,套细胞淋巴瘤
+骨髓穿刺见异常淋巴细胞浸润（约8%）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓穿刺：15%异常淋巴样细胞，流式证实为单克隆CD5+CD20+CD23- B细胞群,strongly_supports,套细胞淋巴瘤
+骨髓穿刺：异常淋巴细胞浸润占35%,supports,套细胞淋巴瘤
+骨髓穿刺：未见明显淋巴瘤浸润,supports,病理：未特指的滤泡性淋巴瘤
+骨髓穿刺：未见淋巴瘤细胞浸润,supports,弥漫大B细胞淋巴瘤
+骨髓穿刺：淋巴细胞比例增高（约25%），见少量小堆状CD20(+)/CD10(+)淋巴细胞,strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓见异型淋巴细胞浸润（滤泡样及弥漫混合分布，约20%）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓象：15%异常淋巴样细胞,supports,套细胞淋巴瘤
+骨髓象：15%异常淋巴细胞,supports,套细胞淋巴瘤
+骨髓象：异常淋巴细胞占18%,strongly_supports,套细胞淋巴瘤
+骨髓象：异常淋巴细胞占18%,supports,套细胞淋巴瘤
+骨髓象：异常淋巴细胞占45%,supports,套细胞淋巴瘤
+骨髓象：滤泡样及弥漫分布小至中等淋巴样细胞浸润（41%）,strongly_supports,病理：未特指的滤泡性淋巴瘤
+骨髓：异常淋巴细胞浸润（42%）,strongly_supports,弥漫大B细胞淋巴瘤
+骨髓：弥漫性淋巴样细胞浸润,supports,套细胞淋巴瘤
+骨髓：淋巴瘤细胞浸润（35%），免疫表型与胃部一致,strongly_supports,套细胞淋巴瘤
+骨髓：淋巴细胞比例增高伴形态不典型,supports,套细胞淋巴瘤
+高倍镜下见淋巴滤泡中央深染区主要由小的中心细胞构成，周围淡染区主要由大的中心母细胞构成,strongly_supports,病理：未特指的滤泡性淋巴瘤
+高密度脂蛋白胆固醇降低,supports,弥漫大B细胞淋巴瘤
+黏膜下密集小至中等淋巴样细胞浸润，核形不规则，染色质粗糙,strongly_supports,套细胞淋巴瘤
+黏膜下淋巴细胞浸润，呈滤泡样结构,strongly_supports,病理：未特指的滤泡性淋巴瘤
+黏膜下见大量小至中等淋巴样细胞浸润，呈典型滤泡样结构,strongly_supports,病理：未特指的滤泡性淋巴瘤
+黏膜内小至中等淋巴样细胞浸润，呈滤泡样结构,strongly_supports,病理：未特指的滤泡性淋巴瘤
+黏膜内淋巴细胞浸润伴滤泡样结构,strongly_supports,病理：未特指的滤泡性淋巴瘤
+黏膜内淋巴细胞浸润，呈滤泡样结构,strongly_supports,病理：未特指的滤泡性淋巴瘤
+黏膜固有层及黏膜下层大量小至中等大小异型淋巴细胞浸润，细胞核不规则，染色质致密,strongly_supports,套细胞淋巴瘤
+龋齿,increases_risk_of,慢性淋巴结炎
+龋齿,increases_risk_of,急性淋巴结炎
+龋齿感染,increases_risk_of,慢性淋巴结炎
+龋齿（右下第二磨牙）,increases_risk_of,急性淋巴结炎

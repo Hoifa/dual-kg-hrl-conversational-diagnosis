@@ -1,0 +1,335 @@
+name,label,mapped_node_ids
+Bas%升高,Examination Finding,[59]
+恶心,Symptom,"[3, 23]"
+劳累,Risk Factor,[2]
+C反应蛋白升高,Examination Finding,[71]
+D二聚体升高,Examination Finding,[67]
+EB病毒抗体升高,Examination Finding,[69]
+受凉,Risk Factor,[2]
+Eos%升高,Examination Finding,[59]
+上呼吸道感染,Risk Factor,[2]
+猫上皮过敏,Risk Factor,[11]
+Mon%升高,Examination Finding,[59]
+肺炎，病原体未特指 (J18.9),Disease,[88]
+发热,Symptom,"[1, 3, 17,48]"
+胸痛,Symptom,"[3, 16, 19]"
+咳嗽,Symptom,"[1, 3, 13]"
+呼吸道感染患者接触史,Risk Factor,[2]
+PCO2升高,Examination Finding,[68]
+肺癌,Risk Factor,"[9, 47]"
+PO2降低,Examination Finding,[68]
+咳脓稠痰,Symptom,"[3, 13]"
+粉尘接触史,Risk Factor,[41]
+PPD试验阳性,Examination Finding,[69]
+白细胞升高,Examination Finding,[59]
+心率增快,Physical Sign,[48]
+单核细胞比率升高,Examination Finding,[59]
+单核细胞升高,Examination Finding,[59]
+哮鸣音,Physical Sign,[53]
+动脉血二氧化碳分压升高,Examination Finding,[68]
+咽部充血,Physical Sign,[51]
+动脉血氧分压降低,Examination Finding,[68]
+吸入性肺炎 (J69.0),Disease,[88]
+肺不张,Examination Finding,[78]
+肺动脉血管造影示肺动脉栓塞,Examination Finding,[81]
+慢性支气管肺炎 (J40),Disease,[88]
+肺功能示第一秒最大通气量降低,Examination Finding,[82]
+声带充血,Physical Sign,[51]
+肺功能下降,Examination Finding,[82]
+盗汗,Symptom,"[6, 17]"
+哮喘病史,Risk Factor,[9]
+肺通气功能示小气道功能减退,Examination Finding,[82]
+呼吸增快,Physical Sign,[48]
+呼吸动度增强,Physical Sign,[53]
+季节性发病,Risk Factor,[2]
+口唇发绀,Physical Sign,[51]
+肝大,Physical Sign,[55]
+肺炎支原体DNA阳性,Examination Finding,[87]
+呼吸音增粗,Physical Sign,[53]
+慢性阻塞性肺病 (J44.9),Disease,[88]
+肺部叩诊清音,Physical Sign,[53]
+血性粘液痰,Symptom,"[3, 13]"
+肺炎支原体核酸阳性,Examination Finding,[87]
+肺炎支原体抗体阳性,Examination Finding,[87]
+混合性通气功能障碍重度,Examination Finding,[82]
+急性毛细支气管炎 (J21.9),Disease,[88]
+肌红蛋白升高,Examination Finding,[70]
+肺炎支原体性肺炎 (J15.7),Disease,[88]
+甲型H1N1流感病毒核酸阳性,Examination Finding,[87]
+干啰音,Physical Sign,[53]
+急性喉炎 (J04.0),Disease,[88]
+扁桃体肿大,Physical Sign,[51]
+喘息,Symptom,"[1, 3, 15]"
+胸闷,Symptom,"[3, 19]"
+降钙素原降低,Examination Finding,[71]
+呼吸衰竭,Complication,[15]
+结核分枝杆菌抗体阴性,Examination Finding,[69]
+湿啰音,Physical Sign,[53]
+恶性肿瘤，支气管和肺 (C34.9),Disease,[88]
+结核分枝杆菌阳性,Examination Finding,[87]
+结核菌素实验阴性,Examination Finding,[69]
+咳大量脓臭痰,Symptom,"[3, 13]"
+淋巴细胞百分比升高,Examination Finding,[59]
+肺源性心脏病,Complication,[9]
+咽部不适,Symptom,"[3, 17]"
+咳白粘痰,Symptom,"[3, 13]"
+呼吸音减弱,Physical Sign,[53]
+肺气肿 (J43.9),Disease,[88]
+淋巴细胞比例降低,Examination Finding,[59]
+淋巴细胞降低,Examination Finding,[59]
+细菌性支气管肺炎 (J20.8),Disease,[88]
+流感病毒B型抗体阳性,Examination Finding,[87]
+实变,Examination Finding,[78]
+流涕,Symptom,"[3, 17]"
+感染,Risk Factor,[2]
+语颤减弱,Physical Sign,[53]
+胸式呼吸,Physical Sign,[53]
+支原体感染,Risk Factor,[2]
+痰培养示慢性感染,Examination Finding,[75]
+高热,Symptom,"[1, 3, 17, 48]"
+急性咽炎 (J02.9),Disease,[88]
+声嘶,Symptom,"[3, 17]"
+痰涂片未见抗酸杆菌,Examination Finding,[75]
+呕吐,Symptom,"[3, 23]"
+咳黄痰,Symptom,"[3, 13]"
+肿痛,Symptom,"[3, 39]"
+痰液癌细胞阳性,Examination Finding,[75]
+戒烟,Risk Factor,[42]
+自发性气胸 (J93.1),Disease,[88]
+胸膜恶性肿瘤 (C38.4),Disease,[88]
+活动后气促,Symptom,"[3, 15]"
+三凹征,Physical Sign,[53]
+冠状动脉粥样硬化性心脏病 (I25.1),Disease,[88]
+鼻塞,Symptom,"[3, 17]"
+腺病毒IgM抗体阳性,Examination Finding,[87]
+小气道功能障碍,Examination Finding,[82]
+心慌,Symptom,"[3, 18]"
+老年人,Risk Factor,[0]
+心电图示电轴右偏,Examination Finding,[76]
+呼气音延长,Physical Sign,[53]
+心电图示肺性P波,Examination Finding,[76]
+胸部CT示斑片状高密度影,Examination Finding,[78]
+胸部CT示淡片状阴影,Examination Finding,[78]
+胸部CT示肺不张,Examination Finding,[78]
+胸部CT示肺部感染,Examination Finding,[78]
+未特指的呼吸衰竭 (J96.9),Disease,[88]
+胸部CT示肺部炎症,Examination Finding,[78]
+心力衰竭,Complication,"[18, 19, 20, 21]"
+未特指的急性支气管炎 (J20.9),Disease,[88]
+胸部CT示肺大泡,Examination Finding,[78]
+胸部CT示肺动脉增宽,Examination Finding,[78]
+胸部CT示肺结核,Examination Finding,[78]
+气短,Symptom,"[1, 3, 15]"
+胸部CT示肺结节灶,Examination Finding,[78]
+呼吸窘迫综合征,Complication,"[3, 15, 5]"
+胸廓内陷,Physical Sign,[52]
+食欲减退,Symptom,"[8, 22]"
+声音嘶哑,Symptom,"[3, 17]"
+肋间隙增宽,Physical Sign,[52]
+呼吸困难,Symptom,"[3, 15]"
+胸部CT示肺空洞,Examination Finding,[78]
+气胸 (J93.9),Disease,[88]
+慢性肺源性心脏病 (I27.9),Disease,[88]
+HIV感染者,Risk Factor,"[9, 69]"
+胸部CT示肺门淋巴结肿大,Examination Finding,[78]
+胸部CT示肺气肿,Examination Finding,[78]
+胸部CT示肺实变,Examination Finding,[78]
+胸部CT示肺纹理增多增粗,Examination Finding,[78]
+胸部CT示肺纤维灶,Examination Finding,[78]
+胸部CT示肺炎症,Examination Finding,[78]
+慢性支气管炎病史,Risk Factor,"[9, 13]"
+胸部CT示感染,Examination Finding,[78]
+胸部CT示高密度影,Examination Finding,[78]
+情绪激动,Risk Factor,[2]
+胸部CT示间质性改变,Examination Finding,[78]
+胸部CT示空洞型肺结核,Examination Finding,[78]
+精神倦怠,Symptom,[8]
+下呼吸道感染，未特指 (J22),Disease,[88]
+咳黑痰,Symptom,"[3, 13]"
+天气炎热,Risk Factor,[2]
+胸部CT示慢性炎症,Examination Finding,[78]
+胸部CT示慢性阻塞性肺疾病,Examination Finding,[78]
+胸部CT示气胸,Examination Finding,[78]
+肺脓肿 (J85.0),Disease,[88]
+胸部CT示软组织密度增高,Examination Finding,[78]
+急性上呼吸道感染，未特指 (J06.9),Disease,[88]
+肺结核 (A16.2),Disease,[88]
+肺功能损害,Complication,[82]
+免疫力低下,Risk Factor,[9]
+胸部CT示条索影,Examination Finding,[78]
+胸部CT示条形高密度影,Examination Finding,[78]
+阻塞性肺炎 (J18.0),Disease,[88]
+石材粉尘接触史,Risk Factor,[41]
+胸部CT示未见明显异常,Examination Finding,[78]
+胸部CT示细支气管炎,Examination Finding,[78]
+咳黄粘痰,Symptom,"[3, 13]"
+胸部CT示心包积液,Examination Finding,[78]
+支气管哮喘 (J45.9),Disease,[88]
+胸部CT示胸膜肥厚,Examination Finding,[78]
+寒颤,Symptom,"[6, 17, 34]"
+胸部CT示胸膜肥厚钙化,Examination Finding,[78]
+夜间不能平卧,Symptom,"[3, 20]"
+动物皮毛接触史,Risk Factor,[41]
+胸部CT示胸膜肥厚粘连钙化,Examination Finding,[78]
+肺部叩诊过清音,Physical Sign,[53]
+胸部CT示胸膜增厚,Examination Finding,[78]
+胸部CT示胸膜粘连及胸腔积液,Examination Finding,[78]
+心音低钝,Physical Sign,[54]
+胸部CT示胸腔积液,Examination Finding,[78]
+未特指的慢性支气管炎 (J42),Disease,[88]
+学校环境,Risk Factor,[41]
+胸部CT示炎症,Examination Finding,[78]
+肋间隙变窄,Physical Sign,[52]
+胸部CT示占位,Examination Finding,[78]
+口唇无发绀,Physical Sign,[51]
+肺部叩诊鼓音,Physical Sign,[53]
+胸部CT示支气管炎,Examination Finding,[78]
+胸部CT示支气管炎及感染,Examination Finding,[78]
+社区获得性肺炎 (J18.9),Disease,[88]
+语音震颤减弱,Physical Sign,[53]
+肺梗死,Complication,[9]
+胸部CT示支气管炎症,Examination Finding,[78]
+胸部CT示致密影,Examination Finding,[78]
+急性喉气管炎 (J04.0),Disease,[88]
+胸部CT示纵隔淋巴结肿大,Examination Finding,[78]
+人员密集环境,Risk Factor,[41]
+EB病毒感染 (A63.0),Disease,[88]
+桶状胸,Physical Sign,[52]
+肺实变体征,Physical Sign,[53]
+慢性喘息性支气管炎 (J44.1),Disease,[88]
+大汗淋漓,Physical Sign,"[50, 34]"
+吸入酸性物质,Risk Factor,"[2, 41]"
+胸部CT未见明显异常密度影,Examination Finding,[78]
+胸片示斑片状病变,Examination Finding,[77]
+胸片示斑片状阴影,Examination Finding,[77]
+胸片示大片絮状阴影,Examination Finding,[77]
+趴着休息,Symptom,[4]
+胸片示大片状高密度影,Examination Finding,[77]
+胸片示点片状阴影,Examination Finding,[77]
+咳白色泡沫痰,Symptom,"[3, 13]"
+胸片示多发感染灶,Examination Finding,[77]
+胸片示肺部感染,Examination Finding,[77]
+阵发性咳嗽,Symptom,"[1, 3, 13]"
+胸片示肺部炎症,Examination Finding,[77]
+胸片示肺结核,Examination Finding,[77]
+胸片示肺结节影,Examination Finding,[77]
+胸片示肺纹理增多增粗,Examination Finding,[77]
+胸片示肺纤维灶,Examination Finding,[77]
+支气管内异物 (T17.3),Disease,[88]
+夜寐欠安,Symptom,"[8, 36]"
+吸气性喉鸣,Symptom,"[3, 15, 51]"
+口干,Symptom,"[8, 33]"
+服用避孕药物,Risk Factor,[45]
+胸片示肺炎,Examination Finding,[77]
+乏力,Symptom,"[8, 32]"
+刺激性气味接触,Risk Factor,"[2, 41]"
+慢性咽炎 (J31.2),Disease,[88]
+胸片示钙化结节,Examination Finding,[77]
+有痰不能咳出,Symptom,"[3, 13]"
+流黄脓涕,Symptom,"[3, 17]"
+胸部过度充气,Physical Sign,[52]
+气喘面容,Physical Sign,[49]
+胸片示感染,Examination Finding,[77]
+下肢水肿,Physical Sign,[56]
+胸片示急性支气管炎,Examination Finding,[77]
+夜间咳醒,Symptom,"[3, 13]"
+胸片示结核病灶,Examination Finding,[77]
+胸片示卷发样改变,Examination Finding,[77]
+胸片示慢性支气管炎,Examination Finding,[77]
+杵状指,Physical Sign,[56]
+胸片示慢性支气管炎伴肺气肿,Examination Finding,[77]
+不能言语,Symptom,[36]
+烦躁,Symptom,[36]
+憋喘貌,Physical Sign,[49]
+胸腔积液，未特指 (J90),Disease,[88]
+胸片示慢性支气管炎合并肺部感染,Examination Finding,[77]
+呛咳,Symptom,"[3, 13]"
+胸片示慢性支气管炎及肺气肿,Examination Finding,[77]
+胸片示脓腔及气液平,Examination Finding,[77]
+屋尘过敏,Risk Factor,[11]
+呼吸音清,Physical Sign,[53]
+胸廓不对称,Physical Sign,[52]
+喉鸣,Symptom,"[15, 3]"
+胸片示脓腔及液平,Examination Finding,[77]
+胸片示片状或斑片状阴影,Examination Finding,[77]
+胸片示片状阴影,Examination Finding,[77]
+鼻扇征,Physical Sign,[51]
+大叶性肺炎 (J18.1),Disease,[88]
+胸片示气胸,Examination Finding,[77]
+痰中带血,Symptom,"[3, 14]"
+2019冠状病毒病 (U07.1),Disease,[88]
+胸片示透光区,Examination Finding,[77]
+干咳,Symptom,"[3, 13]"
+胸片示纤维索条影,Examination Finding,[77]
+肺门淋巴结肿大,Physical Sign,[51]
+支气管扩张症 (J47.9),Disease,[88]
+头晕,Symptom,"[3, 35]"
+心悸,Symptom,"[18, 3]"
+腺病毒感染 (A88.1),Disease,[88]
+胸片示胸壁钙化,Examination Finding,[77]
+胸片示胸膜肥厚,Examination Finding,[77]
+胸片示胸膜肥厚粘连,Examination Finding,[77]
+咯血,Symptom,"[14, 3]"
+吸烟史,Risk Factor,[42]
+咳痰,Symptom,"[1, 13, 3]"
+咽痛,Symptom,"[17, 3]"
+胸片示胸腔积液,Examination Finding,[77]
+感染,Complication,[2]
+胸片示絮状影,Examination Finding,[77]
+肺栓塞 (I26.9),Disease,[88]
+滤泡,Physical Sign,[51]
+肺不张 (J98.0),Disease,[88]
+胸片示支气管肺炎,Examination Finding,[77]
+活动后加重,Symptom,[4]
+胸片示支气管炎,Examination Finding,[77]
+打喷嚏,Symptom,[17]
+咳大量脓痰,Symptom,"[3, 13]"
+胸片示支气管炎伴肺气肿,Examination Finding,[77]
+胸片示支气管炎和感染,Examination Finding,[77]
+血沉升高,Examination Finding,[59]
+喘息貌,Physical Sign,[49]
+支气管肺炎，未特指 (J18.0),Disease,[88]
+皮下积气,Physical Sign,[50]
+血红蛋白降低,Examination Finding,[59]
+异物吸入,Risk Factor,[2]
+血气分析正常,Examination Finding,[68]
+心肌损害,Complication,"[70, 21]"
+狗上皮过敏,Risk Factor,[11]
+免疫抑制剂使用者,Risk Factor,[9]
+急性肺脓肿 (J85.0),Disease,[88]
+血氧饱和度降低,Examination Finding,[68]
+长期氧疗,Risk Factor,"[9, 42]"
+支气管镜示痰液堵塞,Examination Finding,[81]
+支气管舒张试验阳性,Examination Finding,[82]
+呼吸动度减弱,Physical Sign,[53]
+肺部叩诊浊音,Physical Sign,[53]
+指脉氧降低,Examination Finding,[48]
+咳嗽变异性哮喘 (J45.9),Disease,[88]
+呼吸急促,Physical Sign,[53]
+呼气相延长,Physical Sign,[53]
+中性粒细胞比例升高,Examination Finding,[59]
+头痛,Symptom,"[1, 3, 5, 35]"
+流感病毒感染,Risk Factor,"[2, 9]"
+细菌感染,Risk Factor,"[2, 9]"
+白细胞计数升高,Examination Finding,[59]
+白细胞计数降低,Examination Finding,[59]
+白细胞计数正常,Examination Finding,[59]
+咳褐色痰,Symptom,"[3, 13]"
+无痰,Symptom,"[3, 13]"
+痰涂片未见细菌,Symptom,[75]
+肌痛,Symptom,"[3, 39]"
+C反应蛋白正常或降低,Examination Finding,[71]
+细菌性肺炎(J15.9),Disease,[88]
+病毒性肺炎(J12.9),Disease,[88]
+无乏力,Symptom,"[6, 8]"
+无发热,Symptom,"[6, 17, 48]"
+无胸痛,Symptom,"[6, 16]"
+无消瘦症状,Symptom,"[6, 8]"
+无盗汗,Symptom,"[6, 17]"
+双肺未闻及湿性啰音,Physical Sign,[53]
+体重减轻,Symptom,"[3, 8]"
+晕厥,Symptom,"[3, 21]"
+胸片示区域性肺血管纹理减少,Examination Finding,[77]
+血气分析示低氧血症,Examination Finding,[68]
+血气分析示低碳酸血症,Examination Finding,[68]
+低热,Symptom,"[1, 3, 17, 48]"

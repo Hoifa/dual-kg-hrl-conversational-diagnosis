@@ -1,0 +1,29 @@
+# 核心深度学习框架
+torch>=2.0.0
+torchvision
+torchaudio
+
+# HuggingFace 生态 (LLM 核心)
+transformers>=4.30.0
+tokenizers
+huggingface_hub
+accelerate
+bitsandbytes  # 强烈推荐：用于模型量化 (load_in_4bit) 和显存优化
+
+# 数据处理与科学计算
+numpy
+pandas
+scipy
+scikit-learn
+
+# 训练监控与日志
+tensorboard
+tqdm
+
+# 系统与工具
+psutil  # 用于监控系统资源（可选但推荐）
+packaging
+protobuf
+
+# 国内镜像下载加速 (可选，你的脚本里用到了)
+modelscope
